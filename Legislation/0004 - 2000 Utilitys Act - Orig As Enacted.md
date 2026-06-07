@@ -1,0 +1,6411 @@
+# **Utilities Act 2000**
+
+# Table of Contents
+
+- [**2000 CHAPTER 27**](#2000-chapter-27)
+  - [**Part I**New regulatory arrangements](#part-inew-regulatory-arrangements)
+    - [**1Gas and Electricity Markets Authority**](#1gas-and-electricity-markets-authority)
+    - [**2Gas and Electricity Consumer Council**](#2gas-and-electricity-consumer-council)
+    - [**3Transfer to Authority and Council of functions, property etc**](#3transfer-to-authority-and-council-of-functions-property-etc)
+    - [**4Forward work programmes**](#4forward-work-programmes)
+    - [**5Annual and other reports of Authority**](#5annual-and-other-reports-of-authority)
+    - [**6Publication of advice and information about consumer matters**](#6publication-of-advice-and-information-about-consumer-matters)
+      - [**"35Publication of advice and information about consumer matters**](#35publication-of-advice-and-information-about-consumer-matters)
+    - [**7Co-operation between Authority and Council**](#7co-operation-between-authority-and-council)
+    - [**8Payments by licence holders relating to new arrangements**](#8payments-by-licence-holders-relating-to-new-arrangements)
+  - [**Part II**Objectives of regulation of gas and electricity](#part-iiobjectives-of-regulation-of-gas-and-electricity)
+    - [_Gas_](#gas)
+      - [**9Objectives and duties under 1986 Act**](#9objectives-and-duties-under-1986-act)
+        - [**"4AAThe principal objective and general duties of the Secretary of State and the Authority**](#4aathe-principal-objective-and-general-duties-of-the-secretary-of-state-and-the-authority)
+      - [**10Guidance on social and environmental matters in relation to gas**](#10guidance-on-social-and-environmental-matters-in-relation-to-gas)
+        - [**"4ABGuidance on social and environmental matters**](#4abguidance-on-social-and-environmental-matters)
+      - [**11Health and safety in relation to gas**](#11health-and-safety-in-relation-to-gas)
+        - [**"4AHealth and safety**](#4ahealth-and-safety)
+      - [**12Exceptions from the general duties under 1986 Act**](#12exceptions-from-the-general-duties-under-1986-act)
+        - [**"4BExceptions from sections 4AA to 4A**](#4bexceptions-from-sections-4aa-to-4a)
+    - [_Electricity_](#electricity)
+      - [**13Objectives and duties under 1989 Act**](#13objectives-and-duties-under-1989-act)
+        - [**"3AThe principal objective and general duties of the Secretary of State and the Authority**](#3athe-principal-objective-and-general-duties-of-the-secretary-of-state-and-the-authority)
+      - [**14Guidance on social and environmental matters in relation to electricity**](#14guidance-on-social-and-environmental-matters-in-relation-to-electricity)
+        - [**"3BGuidance on social and environmental matters**](#3bguidance-on-social-and-environmental-matters)
+      - [**15Health and safety in relation to electricity**](#15health-and-safety-in-relation-to-electricity)
+        - [**"3CHealth and safety**](#3chealth-and-safety)
+      - [**16Exceptions from the general duties under 1989 Act**](#16exceptions-from-the-general-duties-under-1989-act)
+        - [**"3DExceptions from sections 3A to 3C**](#3dexceptions-from-sections-3a-to-3c)
+  - [**Part III**Functions of the Council](#part-iiifunctions-of-the-council)
+    - [**17Preliminary**](#17preliminary)
+    - [**18Acquisition and review of information**](#18acquisition-and-review-of-information)
+      - [**"41IService by Authority of certain notices on Council**](#41iservice-by-authority-of-certain-notices-on-council)
+      - [**"56GService by Authority of certain notices on Council**](#56gservice-by-authority-of-certain-notices-on-council)
+    - [**19Provision of advice and information to public authorities and other persons**](#19provision-of-advice-and-information-to-public-authorities-and-other-persons)
+    - [**20Provision of information to consumers**](#20provision-of-information-to-consumers)
+      - [**"33DAPublication of statistical information about standards of performance**](#33dapublication-of-statistical-information-about-standards-of-performance)
+      - [**"42AAPublication of statistical information about standards of performance**](#42aapublication-of-statistical-information-about-standards-of-performance)
+    - [**21Power to publish advice and information about consumer matters**](#21power-to-publish-advice-and-information-about-consumer-matters)
+    - [**22Complaints**](#22complaints)
+      - [**"32Consumer complaints**](#32consumer-complaints)
+      - [**"46Consumer complaints**](#46consumer-complaints)
+    - [**23Investigations**](#23investigations)
+      - [**"33Power of Council to investigate other matters**](#33power-of-council-to-investigate-other-matters)
+      - [**"46APower of Council to investigate other matters**](#46apower-of-council-to-investigate-other-matters)
+    - [**24Provision of information to Council**](#24provision-of-information-to-council)
+    - [**25Publication of notice of reasons**](#25publication-of-notice-of-reasons)
+    - [**26Provision of information by Council to Authority**](#26provision-of-information-by-council-to-authority)
+    - [**27Sections 24 to 26: supplementary**](#27sections-24-to-26-supplementary)
+  - [**Part IV**Amendment of the Electricity Act 1989](#part-ivamendment-of-the-electricity-act-1989)
+    - [_Electricity licensing_](#electricity-licensing)
+      - [**28Prohibition on unlicensed distribution of electricity**](#28prohibition-on-unlicensed-distribution-of-electricity)
+      - [**29Exemptions from electricity licensing**](#29exemptions-from-electricity-licensing)
+        - [**"5Exemptions from prohibition**](#5exemptions-from-prohibition)
+      - [**30Licences authorising supply etc. of electricity**](#30licences-authorising-supply-etc-of-electricity)
+        - [**"6Licences authorising supply, etc**](#6licences-authorising-supply-etc)
+        - [**6AProcedure for licence applications**](#6aprocedure-for-licence-applications)
+        - [**6BApplications for transmission licences**](#6bapplications-for-transmission-licences)
+      - [**31Enactments referring to public electricity suppliers**](#31enactments-referring-to-public-electricity-suppliers)
+      - [**32Electricity licence conditions**](#32electricity-licence-conditions)
+      - [**33Standard conditions of electricity licences**](#33standard-conditions-of-electricity-licences)
+        - [**"8AStandard conditions of licences**](#8astandard-conditions-of-licences)
+      - [**34Modification of conditions of particular licence**](#34modification-of-conditions-of-particular-licence)
+      - [**35Modification of standard conditions of licences**](#35modification-of-standard-conditions-of-licences)
+        - [**"11AModification of standard conditions of licences**](#11amodification-of-standard-conditions-of-licences)
+      - [**36Electricity licence modification references**](#36electricity-licence-modification-references)
+      - [**37Reports on modification references**](#37reports-on-modification-references)
+      - [**38Modification following report**](#38modification-following-report)
+      - [**39Competition Commission's power to veto modifications**](#39competition-commissions-power-to-veto-modifications)
+        - [**"14ACompetition Commission's power to veto modifications following report**](#14acompetition-commissions-power-to-veto-modifications-following-report)
+      - [**40Modification by order under other enactments**](#40modification-by-order-under-other-enactments)
+      - [**41Transfer of electricity licences**](#41transfer-of-electricity-licences)
+        - [**"7ATransfer of licences**](#7atransfer-of-licences)
+      - [**42Reasons for decisions under 1989 Act**](#42reasons-for-decisions-under-1989-act)
+        - [**"49AReasons for decisions**](#49areasons-for-decisions)
+      - [**43Altering activities requiring electricity licence**](#43altering-activities-requiring-electricity-licence)
+        - [_"Alteration of activities requiring licence_](#alteration-of-activities-requiring-licence)
+          - [**56APower to alter activities requiring licence**](#56apower-to-alter-activities-requiring-licence)
+          - [**56BApplication by Authority for order including new activities**](#56bapplication-by-authority-for-order-including-new-activities)
+          - [**56CReferences to Competition Commission**](#56creferences-to-competition-commission)
+          - [**56DReports on references**](#56dreports-on-references)
+          - [**56EApplication by Authority for order excluding activities**](#56eapplication-by-authority-for-order-excluding-activities)
+          - [**56FConsultation by Secretary of State about order excluding activities**](#56fconsultation-by-secretary-of-state-about-order-excluding-activities)
+    - [_Duties of electricity distributors_](#duties-of-electricity-distributors)
+      - [**44Duty to connect on request**](#44duty-to-connect-on-request)
+        - [_"Duties of electricity distributors_](#duties-of-electricity-distributors)
+          - [**16Duty to connect on request**](#16duty-to-connect-on-request)
+          - [**16AProcedure for requiring a connection**](#16aprocedure-for-requiring-a-connection)
+          - [**17Exceptions from duty to connect**](#17exceptions-from-duty-to-connect)
+      - [**45Abolition of tariffs**](#45abolition-of-tariffs)
+      - [**46Power to recover expenditure**](#46power-to-recover-expenditure)
+      - [**47Power to require security**](#47power-to-require-security)
+      - [**48Additional terms of connection**](#48additional-terms-of-connection)
+        - [**"21Additional terms of connection**](#21additional-terms-of-connection)
+      - [**49Special agreements with respect to connection**](#49special-agreements-with-respect-to-connection)
+        - [**"22Special agreements with respect to connection**](#22special-agreements-with-respect-to-connection)
+      - [**50General duties of electricity distributors**](#50general-duties-of-electricity-distributors)
+    - [_Electricity code and metering_](#electricity-code-and-metering)
+      - [**51The electricity code**](#51the-electricity-code)
+      - [**52Amendment of Schedule 7 to 1989 Act**](#52amendment-of-schedule-7-to-1989-act)
+    - [_Powers of electricity licence holders_](#powers-of-electricity-licence-holders)
+      - [**53Powers of electricity licence holders**](#53powers-of-electricity-licence-holders)
+    - [_Electricity performance standards_](#electricity-performance-standards)
+      - [**54Standards of performance in individual cases**](#54standards-of-performance-in-individual-cases)
+        - [**"39AStandards of performance in individual cases: electricity distributors**](#39astandards-of-performance-in-individual-cases-electricity-distributors)
+        - [**39BStandards of performance in individual cases: disputes**](#39bstandards-of-performance-in-individual-cases-disputes)
+      - [**55Overall standards of performance**](#55overall-standards-of-performance)
+        - [**"40AOverall standards of performance: electricity distributors**](#40aoverall-standards-of-performance-electricity-distributors)
+      - [**56Standards of performance: procedures**](#56standards-of-performance-procedures)
+        - [**"40BProcedures for prescribing or determining standards of performance**](#40bprocedures-for-prescribing-or-determining-standards-of-performance)
+      - [**57Information with respect to levels of performance**](#57information-with-respect-to-levels-of-performance)
+      - [**58Information to be given to customers**](#58information-to-be-given-to-customers)
+        - [**"42AInformation to be given to customers about overall performance**](#42ainformation-to-be-given-to-customers-about-overall-performance)
+    - [_Enforcement of obligations_](#enforcement-of-obligations)
+      - [**59Financial penalties**](#59financial-penalties)
+        - [**"27APenalties**](#27apenalties)
+        - [**27BStatement of policy with respect to penalties**](#27bstatement-of-policy-with-respect-to-penalties)
+        - [**27CTime limits on the imposition of financial penalties**](#27ctime-limits-on-the-imposition-of-financial-penalties)
+        - [**27DInterest and payment of instalments**](#27dinterest-and-payment-of-instalments)
+        - [**27EAppeals**](#27eappeals)
+        - [**27FRecovery of penalties**](#27frecovery-of-penalties)
+      - [**60Licence enforcement**](#60licence-enforcement)
+    - [_Remuneration and service standards_](#remuneration-and-service-standards)
+      - [**61Links between directors' remuneration and electricity service standards**](#61links-between-directors-remuneration-and-electricity-service-standards)
+        - [**"42CRemuneration and service standards**](#42cremuneration-and-service-standards)
+    - [_Electricity from renewable sources_](#electricity-from-renewable-sources)
+      - [**62Obligation in connection with electricity from renewable sources**](#62obligation-in-connection-with-electricity-from-renewable-sources)
+        - [**"32Obligation in connection with electricity from renewable sources**](#32obligation-in-connection-with-electricity-from-renewable-sources)
+      - [**63Orders under section 32: supplementary**](#63orders-under-section-32-supplementary)
+        - [**"32AOrders under section 32: supplementary**](#32aorders-under-section-32-supplementary)
+      - [**64Green certificates**](#64green-certificates)
+        - [**"32BGreen certificates**](#32bgreen-certificates)
+      - [**65Alternative way of discharging renewables obligation: payments**](#65alternative-way-of-discharging-renewables-obligation-payments)
+        - [**"32CPayment as alternative to complying with order under section 32**](#32cpayment-as-alternative-to-complying-with-order-under-section-32)
+      - [**66Abolition of fossil fuel levy**](#66abolition-of-fossil-fuel-levy)
+      - [**67Supplementary**](#67supplementary)
+    - [_Miscellaneous_](#miscellaneous)
+      - [**68Modification of licences: electricity trading arrangements**](#68modification-of-licences-electricity-trading-arrangements)
+        - [**"15ALicence modifications relating to new electricity trading arrangements**](#15alicence-modifications-relating-to-new-electricity-trading-arrangements)
+      - [**69Help for disadvantaged groups of electricity customers**](#69help-for-disadvantaged-groups-of-electricity-customers)
+        - [**"43AAdjustment of charges to help disadvantaged groups of customers**](#43aadjustment-of-charges-to-help-disadvantaged-groups-of-customers)
+        - [**43BOrders: supplementary**](#43borders-supplementary)
+      - [**70Energy efficiency requirements for electricity distributors and suppliers**](#70energy-efficiency-requirements-for-electricity-distributors-and-suppliers)
+        - [**"41APromotion of the efficient use by consumers of electricity**](#41apromotion-of-the-efficient-use-by-consumers-of-electricity)
+      - [**71General duties of transmission licence holders in Scotland**](#71general-duties-of-transmission-licence-holders-in-scotland)
+      - [**72Uniform prices etc. in certain areas of Scotland**](#72uniform-prices-etc-in-certain-areas-of-scotland)
+        - [**"7BUniform prices etc. in certain areas of Scotland**](#7buniform-prices-etc-in-certain-areas-of-scotland)
+      - [**73Maximum prices for reselling electricity**](#73maximum-prices-for-reselling-electricity)
+        - [**"44Maximum prices for reselling electricity**](#44maximum-prices-for-reselling-electricity)
+  - [**Part V**Amendment of the Gas Act 1986](#part-vamendment-of-the-gas-act-1986)
+    - [_Gas licensing_](#gas-licensing)
+      - [**74Gas licence conditions**](#74gas-licence-conditions)
+      - [**75Exceptions from section 5 of 1986 Act**](#75exceptions-from-section-5-of-1986-act)
+      - [**76Gas transporters**](#76gas-transporters)
+      - [**77Restriction on use of certain pipe-lines for providing a supply of gas**](#77restriction-on-use-of-certain-pipe-lines-for-providing-a-supply-of-gas)
+        - [**"10ARestriction on use of certain pipe-lines for providing a supply**](#10arestriction-on-use-of-certain-pipe-lines-for-providing-a-supply)
+      - [**78Construction of pipe-lines by gas transporters**](#78construction-of-pipe-lines-by-gas-transporters)
+      - [**79Duty to facilitate competition**](#79duty-to-facilitate-competition)
+      - [**80Gas transporters' duty to make a connection**](#80gas-transporters-duty-to-make-a-connection)
+      - [**81Standard conditions of gas licences**](#81standard-conditions-of-gas-licences)
+      - [**82Modification of standard conditions of gas licences**](#82modification-of-standard-conditions-of-gas-licences)
+      - [**83Modification following Competition Commission report**](#83modification-following-competition-commission-report)
+        - [**"26ACompetition Commission's power to veto modifications following report**](#26acompetition-commissions-power-to-veto-modifications-following-report)
+      - [**84The gas code**](#84the-gas-code)
+        - [_Use of pre-payment meters_](#use-of-pre-payment-meters)
+      - [**85Transfer of gas licences**](#85transfer-of-gas-licences)
+        - [**"8AATransfer of licences**](#8aatransfer-of-licences)
+      - [**86Exemptions from gas licensing**](#86exemptions-from-gas-licensing)
+      - [**87Reasons for decisions under 1986 Act**](#87reasons-for-decisions-under-1986-act)
+        - [**"38AReasons for decisions**](#38areasons-for-decisions)
+      - [**88Altering activities requiring gas licence**](#88altering-activities-requiring-gas-licence)
+        - [_"Alteration of activities requiring licence_](#alteration-of-activities-requiring-licence)
+          - [**41CPower to alter activities requiring licence**](#41cpower-to-alter-activities-requiring-licence)
+          - [**41DApplication by Authority for order including new activities**](#41dapplication-by-authority-for-order-including-new-activities)
+          - [**41EReferences to Competition Commission**](#41ereferences-to-competition-commission)
+          - [**41FReports on references**](#41freports-on-references)
+          - [**41GApplication by Authority for order excluding activities**](#41gapplication-by-authority-for-order-excluding-activities)
+          - [**41HConsultation by Secretary of State about order excluding activities**](#41hconsultation-by-secretary-of-state-about-order-excluding-activities)
+    - [_Gas performance standards_](#gas-performance-standards)
+      - [**89Repeal of section 10(2) to (5) of Gas Act 1995**](#89repeal-of-section-102-to-5-of-gas-act-1995)
+      - [**90Standards of performance in individual cases**](#90standards-of-performance-in-individual-cases)
+        - [**"33AAStandards of performance in individual cases: gas transporters**](#33aastandards-of-performance-in-individual-cases-gas-transporters)
+        - [**33ABStandards of performance in individual cases: disputes**](#33abstandards-of-performance-in-individual-cases-disputes)
+      - [**91Overall standards of performance**](#91overall-standards-of-performance)
+        - [**"33BAOverall standards of performance: gas transporters**](#33baoverall-standards-of-performance-gas-transporters)
+      - [**92Standards of performance: procedures**](#92standards-of-performance-procedures)
+        - [**"33BAAProcedures for prescribing or determining standards of performance**](#33baaprocedures-for-prescribing-or-determining-standards-of-performance)
+      - [**93Information with respect to levels of performance**](#93information-with-respect-to-levels-of-performance)
+      - [**94Information to be given to customers**](#94information-to-be-given-to-customers)
+        - [**"33DInformation to be given to customers about overall performance**](#33dinformation-to-be-given-to-customers-about-overall-performance)
+    - [_Enforcement of obligations_](#enforcement-of-obligations)
+      - [**95Financial penalties**](#95financial-penalties)
+        - [**"30APenalties**](#30apenalties)
+        - [**30BStatement of policy with respect to penalties**](#30bstatement-of-policy-with-respect-to-penalties)
+        - [**30CTime limits on the imposition of penalties**](#30ctime-limits-on-the-imposition-of-penalties)
+        - [**30DInterest and payment of instalments**](#30dinterest-and-payment-of-instalments)
+        - [**30EAppeals**](#30eappeals)
+        - [**30FRecovery of penalties**](#30frecovery-of-penalties)
+      - [**96Licence enforcement**](#96licence-enforcement)
+    - [_Remuneration and service standards_](#remuneration-and-service-standards)
+      - [**97Links between directors' remuneration and gas service standards**](#97links-between-directors-remuneration-and-gas-service-standards)
+        - [_"Service standards and remuneration_](#service-standards-and-remuneration)
+          - [**33FRemuneration and service standards**](#33fremuneration-and-service-standards)
+    - [_Miscellaneous_](#miscellaneous)
+      - [**98Help for disadvantaged groups of gas customers**](#98help-for-disadvantaged-groups-of-gas-customers)
+        - [_"Adjustment of charges_](#adjustment-of-charges)
+          - [**41AAdjustment of charges to help disadvantaged groups of customers**](#41aadjustment-of-charges-to-help-disadvantaged-groups-of-customers)
+          - [**41BOrders: supplementary**](#41borders-supplementary)
+      - [**99Energy efficiency requirements for gas transporters and suppliers**](#99energy-efficiency-requirements-for-gas-transporters-and-suppliers)
+        - [**"33BCPromotion of the efficient use by consumers of gas**](#33bcpromotion-of-the-efficient-use-by-consumers-of-gas)
+      - [**100Exercise of powers to make regulations**](#100exercise-of-powers-to-make-regulations)
+      - [**101Standards of gas quality**](#101standards-of-gas-quality)
+        - [**"16Standards of gas quality**](#16standards-of-gas-quality)
+      - [**102Maximum prices for reselling gas**](#102maximum-prices-for-reselling-gas)
+  - [**Part VI**Miscellaneous and Supplementary](#part-vimiscellaneous-and-supplementary)
+    - [_Miscellaneous_](#miscellaneous)
+      - [**103Overall energy efficiency targets**](#103overall-energy-efficiency-targets)
+      - [**104Specialist members of the Competition Commission**](#104specialist-members-of-the-competition-commission)
+      - [**105General restrictions on disclosure of information**](#105general-restrictions-on-disclosure-of-information)
+    - [_Supplementary_](#supplementary)
+      - [**106Interpretation**](#106interpretation)
+      - [**107Financial provisions**](#107financial-provisions)
+      - [**108Amendments, transitional provisions and repeals**](#108amendments-transitional-provisions-and-repeals)
+      - [**109Power to make transitional provision etc**](#109power-to-make-transitional-provision-etc)
+      - [**110Short title, commencement and extent**](#110short-title-commencement-and-extent)
+- [SCHEDULES](#schedules)
+  - [SCHEDULE 1The Gas and Electricity Markets Authority](#schedule-1the-gas-and-electricity-markets-authority)
+    - [_Membership_](#membership)
+    - [_Terms of appointment, remuneration, pensions etc._](#terms-of-appointment-remuneration-pensions-etc)
+    - [_Staff_](#staff)
+    - [_Committees_](#committees)
+    - [_Proceedings etc._](#proceedings-etc)
+    - [_Performance of functions_](#performance-of-functions)
+    - [_Supplementary powers_](#supplementary-powers)
+  - [SCHEDULE 2The Gas and Electricity Consumer Council](#schedule-2the-gas-and-electricity-consumer-council)
+    - [_Membership of Council_](#membership-of-council)
+    - [_Terms of appointment, remuneration, pensions etc._](#terms-of-appointment-remuneration-pensions-etc)
+    - [_Staff_](#staff)
+    - [_Annual reports_](#annual-reports)
+    - [_Financial provisions and accounts_](#financial-provisions-and-accounts)
+    - [_Regional and other committees and sub-committees_](#regional-and-other-committees-and-sub-committees)
+    - [_Performance of functions of the Council_](#performance-of-functions-of-the-council)
+    - [_Supplementary powers_](#supplementary-powers)
+  - [SCHEDULE 3Further provision about transfers of functions, property etc.](#schedule-3further-provision-about-transfers-of-functions-property-etc)
+    - [_Preliminary_](#preliminary)
+    - [_Contents of transfer schemes_](#contents-of-transfer-schemes)
+    - [_Modification of transfer scheme after appointed day_](#modification-of-transfer-scheme-after-appointed-day)
+    - [_Effect of transfers_](#effect-of-transfers)
+    - [_Continuity of employment, etc. of transferred employees_](#continuity-of-employment-etc-of-transferred-employees)
+  - [SCHEDULE 4Schedule to be substituted for Schedule 6 to the 1989 Act](#schedule-4schedule-to-be-substituted-for-schedule-6-to-the-1989-act)
+    - ["Schedule 6The electricity code](#schedule-6the-electricity-code)
+      - [_Suppliers' charges relating to meters for disabled persons_](#suppliers-charges-relating-to-meters-for-disabled-persons)
+      - [_Non-payment of suppliers' charges_](#non-payment-of-suppliers-charges)
+      - [_Deemed contracts in certain cases_](#deemed-contracts-in-certain-cases)
+      - [_Supplies of electricity illegally taken_](#supplies-of-electricity-illegally-taken)
+      - [_Restoration of connection without consent_](#restoration-of-connection-without-consent)
+      - [_Damage to electrical plant etc._](#damage-to-electrical-plant-etc)
+      - [_Entry during continuance of connection or supply_](#entry-during-continuance-of-connection-or-supply)
+      - [_Entry on discontinuance of supply or connection_](#entry-on-discontinuance-of-supply-or-connection)
+      - [_Entry for replacing, repairing or altering lines or plant_](#entry-for-replacing-repairing-or-altering-lines-or-plant)
+      - [_Provisions as to powers of entry_](#provisions-as-to-powers-of-entry)
+      - [_Electrical plant etc. not to be subject to distress_](#electrical-plant-etc-not-to-be-subject-to-distress)
+  - [SCHEDULE 5Electricity metering](#schedule-5electricity-metering)
+  - [SCHEDULE 6Minor and consequential amendments](#schedule-6minor-and-consequential-amendments)
+    - [Part IGas Act 1986](#part-igas-act-1986)
+    - [Part IIElectricity Act 1989](#part-iielectricity-act-1989)
+    - [Part IIIOther Acts](#part-iiiother-acts)
+      - [_Rights of Entry (Gas and Electricity Boards) Act _[_1954 (c. 21)_](http://www.legislation.gov.uk/id/ukpga/1954/21)](#rights-of-entry-gas-and-electricity-boards-actx201954-c-21)
+      - [_Public Records Act _[_1958 (c. 51)_](http://www.legislation.gov.uk/id/ukpga/1958/51)](#public-records-actx201958-c-51)
+      - [_Parliamentary Commissioner Act _[_1967 (c. 13)_](http://www.legislation.gov.uk/id/ukpga/1967/13)](#parliamentary-commissioner-actx201967-c-13)
+      - [_Superannuation Act _[_1972 (c. 11)_](http://www.legislation.gov.uk/id/ukpga/1972/11)](#superannuation-actx201972-c-11)
+      - [_House of Commons Disqualification Act _[_1975 (c. 24)_](http://www.legislation.gov.uk/id/ukpga/1975/24)](#house-of-commons-disqualification-actx201975-c-24)
+      - [_Bankruptcy (Scotland) Act _[_1985 (c. 66)_](http://www.legislation.gov.uk/id/ukpga/1985/66)](#bankruptcy-scotland-actx201985-c-66)
+      - [_Insolvency Act _[_1986 (c. 45)_](http://www.legislation.gov.uk/id/ukpga/1986/45)](#insolvency-actx201986-c-45)
+  - [SCHEDULE 7Transitional provisions and savings](#schedule-7transitional-provisions-and-savings)
+    - [Part ISeparation of electricity supply and distribution](#part-iseparation-of-electricity-supply-and-distribution)
+      - [_Application and purpose of Part I_](#application-and-purpose-of-part-i)
+      - [_Nominations and transfer schemes_](#nominations-and-transfer-schemes)
+      - [_Secretary of State's powers in relation to transfer schemes_](#secretary-of-states-powers-in-relation-to-transfer-schemes)
+      - [_Effect of transfer scheme_](#effect-of-transfer-scheme)
+      - [_Supplementary provisions as to transfers_](#supplementary-provisions-as-to-transfers)
+      - [_Shares issued in pursuance of a transfer scheme_](#shares-issued-in-pursuance-of-a-transfer-scheme)
+      - [_Statutory accounts_](#statutory-accounts)
+      - [_Consequential modifications of rating provisions_](#consequential-modifications-of-rating-provisions)
+      - [_Interpretation_](#interpretation)
+    - [Part IISecretary of State's licensing schemes](#part-iisecretary-of-states-licensing-schemes)
+      - [_Existing electricity supply licences_](#existing-electricity-supply-licences)
+      - [_Existing generation and transmission licences_](#existing-generation-and-transmission-licences)
+      - [_Existing gas licences_](#existing-gas-licences)
+      - [_Effect of licensing schemes_](#effect-of-licensing-schemes)
+      - [_Provision of information by licence holders_](#provision-of-information-by-licence-holders)
+      - [_Consultation by Secretary of State_](#consultation-by-secretary-of-state)
+    - [Part IIIFormer tariff customers](#part-iiiformer-tariff-customers)
+    - [Part IVOther transitional provisions and savings](#part-ivother-transitional-provisions-and-savings)
+      - [_Compensation for members of abolished consumer bodies_](#compensation-for-members-of-abolished-consumer-bodies)
+      - [_Consultation by Council before establishing regional committees_](#consultation-by-council-before-establishing-regional-committees)
+      - [_First financial years of Authority and Council_](#first-financial-years-of-authority-and-council)
+      - [_First forward work programmes of Authority and Council_](#first-forward-work-programmes-of-authority-and-council)
+      - [_Last annual reports of the Directors_](#last-annual-reports-of-the-directors)
+      - [_Last annual report of the Gas Consumers' Council_](#last-annual-report-of-the-gas-consumers-council)
+      - [_Investigations being carried out under the 1986 Act_](#investigations-being-carried-out-under-the-1986-act)
+      - [_Investigations being carried out under the 1989 Act_](#investigations-being-carried-out-under-the-1989-act)
+  - [SCHEDULE 8Repeals](#schedule-8repeals)
+
+
+# **2000 CHAPTER 27**
+
+An Act to provide for the establishment and functions of the Gas and Electricity Markets Authority and the Gas and Electricity Consumer Council; to amend the legislation regulating the gas and electricity industries; and for connected purposes.
+
+\[28th July 2000]
+
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows: - 
+
+## **Part I**New regulatory arrangements
+
+### **1Gas and Electricity Markets Authority**
+
+(1)There shall be a body corporate to be known as the Gas and Electricity Markets Authority (in this Act referred to as "the Authority") for the purpose of carrying out - 
+
+(a)functions transferred to the Authority from the Director General of Gas Supply and the Director General of Electricity Supply; and
+
+(b)the other functions of the Authority under this Act.
+
+(2)The functions of the Authority are performed on behalf of the Crown.
+
+(3)The offices of Director General of Gas Supply and Director General of Electricity Supply are abolished.
+
+(4)Schedule 1 has effect with respect to the Authority.
+
+### **2Gas and Electricity Consumer Council**
+
+(1)There shall be a body corporate to be known as the Gas and Electricity Consumer Council (in this Act referred to as "the Council") for the purpose of carrying out the functions of the Council under this Act.
+
+(2)The Council shall not be regarded as a servant or agent of the Crown or as enjoying any status, immunity or privilege of the Crown.
+
+(3)The Gas Consumers' Council established under section 2 of the \[1986 c. 44.] Gas Act 1986 (in this Act referred to as "the 1986 Act") and the consumers' committees established under section 2 of the \[1989 c. 29.] Electricity Act 1989 (in this Act referred to as "the 1989 Act") are abolished.
+
+(4)Schedule 2 has effect with respect to the Council.
+
+### **3Transfer to Authority and Council of functions, property etc**
+
+(1)The functions of the Director General of Gas Supply and the Director General of Electricity Supply ("the Directors") are transferred to the Authority.
+
+(2)Any enactment which - 
+
+(a)relates to a function of either of the Directors; and
+
+(b)is in force immediately before the transfer by subsection (1) of that function,
+
+shall have effect after the transfer, so far as necessary for the purposes of or in consequence of the transfer, as if references to the Director were references to the Authority.
+
+(3)The Secretary of State may make one or more schemes ("transfer schemes") for the transfer of the property, rights and liabilities of the Directors to the Authority or to the Council.
+
+(4)A transfer scheme may provide for the transfer to the Council of rights and liabilities relating to persons employed in the civil service of the state.
+
+(5)On the day appointed by a transfer scheme, the property, rights and liabilities which are the subject of the scheme shall, by virtue of this subsection, be transferred in accordance with the provisions of the scheme.
+
+(6)The property, rights and liabilities of the Gas Consumers' Council (including rights and obligations in relation to contracts of employment) are, by virtue of this subsection, transferred to the Council.
+
+(7)Subsection (6) has effect in relation to property, rights or liabilities to which it applies in spite of any provision (of whatever nature) which would prevent or restrict the transfer of the property, rights or liabilities otherwise than by that subsection.
+
+(8)Schedule 3 has effect in relation to transfer schemes and transfers by any provision of this Act of functions, property, rights and liabilities to the Authority or Council.
+
+### **4Forward work programmes**
+
+(1)The Authority and the Council shall, before each financial year, each publish a document (the "forward work programme") containing a general description of the projects, other than those comprising routine activities in the exercise of its functions, which it plans to undertake during the year.
+
+(2)That description must include the objectives of each project.
+
+(3)The forward work programme for any year shall also include an estimate of the overall expenditure which the Authority or the Council expects to incur during the year in the exercise of its functions.
+
+(4)Before publishing the forward work programme for any year, the Authority or the Council shall give notice - 
+
+(a)containing a draft of the forward work programme, and
+
+(b)specifying the time within which representations or objections to the proposals contained in it may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(5)The notice under subsection (4) must be published by the Authority or the Council in such manner as it considers appropriate for the purpose of bringing the matters contained in it to the attention of persons likely to be affected by them.
+
+(6)The Authority must send a copy of any notice given by it under subsection (4) to the Council.
+
+(7)The Council must send a copy of any notice given by it under subsection (4) to the Authority and the Secretary of State.
+
+### **5Annual and other reports of Authority**
+
+(1)The Authority shall, as soon as practicable after the end of each financial year, make to the Secretary of State a report (the "annual report" for that year) on - 
+
+(a)its activities during that year, and
+
+(b)the activities of the Competition Commission during that year in respect of any references made by the Authority.
+
+(2)The annual report for each year shall include - 
+
+(a)a general survey of developments in respect of matters falling within the scope of the Authority's functions, including in particular developments in competition between persons engaged in, or in commercial activities connected with - 
+
+(i)the shipping, transportation or supply of gas conveyed through pipes; or
+
+(ii)the generation, transmission, distribution or supply of electricity;
+
+(b)a report on the progress of the projects described in the forward work programme for that year;
+
+(c)a summary of final and provisional orders made and penalties imposed by the Authority during the year; and
+
+(d)a report on such other matters as the Secretary of State may from time to time require.
+
+(3)The annual report for each year shall set out any general directions given by the Secretary of State under section 34(3) of the 1986 Act or section 47(2) of the 1989 Act.
+
+(4)The Secretary of State shall consult the Authority before exercising the power under subsection (2)(d) in relation to any matter.
+
+(5)The Secretary of State shall - 
+
+(a)lay a copy of each annual report before each House of Parliament; and
+
+(b)arrange for the report to be published in such manner as he considers appropriate.
+
+(6)The Authority may also prepare other reports with respect to any matter falling within the scope of its functions and may arrange for any such report to be published in such manner as it considers appropriate.
+
+(7)The Authority shall send a copy of each annual or other report published under this section to the Council.
+
+(8)In making or preparing any report under this section the Authority shall have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where publication of that matter would or might, in the opinion of the Authority, seriously and prejudicially affect the interests of that individual or body.
+
+(9)Section 125(1) of the \[1973 c. 41.] Fair Trading Act 1973 (annual and other reports) does not apply to activities of the Competition Commission on which the Authority is required to report under this section.
+
+(10)Section 39 of the 1986 Act (annual and other reports of the Director General of Gas Supply) and section 50 of the 1989 Act (annual and other reports of the Director General of Electricity Supply) shall cease to have effect.
+
+### **6Publication of advice and information about consumer matters**
+
+(1)For section 35 of the 1986 Act (publication by Director of information and advice) there is substituted - 
+
+#### **"35Publication of advice and information about consumer matters**
+
+(1)If it appears to the Authority that the publication of any advice and information would promote the interests of consumers in relation to gas conveyed through pipes, the Authority may publish that advice or information in such manner as it thinks fit.
+
+(2)In publishing advice or information under this section the Authority shall have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where publication of that matter would or might, in the opinion of the Authority, seriously and prejudicially affect the interests of that individual or body.
+
+(3)Before deciding to publish under this section any advice or information relating to a particular individual or body of persons the Authority shall consult that individual or body.
+
+(4)In this section "consumers" includes both existing and future consumers."
+
+(2)For subsections (1) and (2) of section 48 of the 1989 Act (publication by Director of information and advice) there is substituted - 
+
+"(1)If it appears to the Authority that the publication of any advice and information would promote the interests of consumers in relation to electricity conveyed by distribution systems, the Authority may publish that advice or information in such manner as it thinks fit.
+
+(2)In publishing advice or information under this section the Authority shall have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where publication of that matter would or might, in the opinion of the Authority, seriously and prejudicially affect the interests of that individual or body.
+
+(2A)Before deciding to publish under this section any advice or information relating to a particular individual or body of persons the Authority shall consult that individual or body."
+
+(3)After subsection (3) of that section there is inserted - 
+
+"(4)In this section "consumers" includes both existing and future consumers."
+
+### **7Co-operation between Authority and Council**
+
+(1)The Authority and the Council shall make arrangements with a view to securing - 
+
+(a)co-operation and the exchange of information between them; and
+
+(b)consistent treatment of matters which affect both of them.
+
+(2)As soon as practicable after agreement is reached on those arrangements, the Authority and the Council shall prepare a memorandum setting them out and send a copy of it to the Secretary of State.
+
+(3)Arrangements under this section shall be kept under review by the Authority and the Council.
+
+(4)As soon as practicable after agreement is reached on any changes to those arrangements, the Authority and the Council shall revise their memorandum and send a copy of the revised memorandum to the Secretary of State.
+
+(5)The Secretary of State shall lay a copy of any document received by him under this section before each House of Parliament.
+
+### **8Payments by licence holders relating to new arrangements**
+
+(1)In this section "payment conditions" means - 
+
+(a)in relation to a gas licence, conditions included in the licence by virtue of section 7B(4)(c) of the 1986 Act; or
+
+(b)in relation to an electricity licence, conditions included in the licence by virtue of section 7(1)(b) of the 1989 Act.
+
+(2)The payment conditions of a gas licence or an electricity licence may (without prejudice to the generality of the provisions mentioned in subsection (1)) require the payment by the licence holder of sums relating to any of the expenses mentioned in subsection (3).
+
+(3)Those expenses are - 
+
+(a)the expenses of the Council; and
+
+(b)the expenses of the Secretary of State in relation to the establishment of the Authority and the Council.
+
+(4)The Authority may, in accordance with this section, modify any payment conditions of a gas licence or an electricity licence where the Authority considers it necessary or expedient to do so in consequence of, or of preparations for - 
+
+(a)the establishment of the Authority or the Council; or
+
+(b)the abolition of any office or body mentioned in section 1(3) or 2(3).
+
+(5)Where the Authority modifies any payment conditions of a licence under subsection (4) it may make such incidental or consequential modifications as it considers necessary or expedient of the other conditions of the licence.
+
+(6)Before modifying the conditions of a licence under subsection (4) or (5) the Authority shall consult the licence holder.
+
+(7)Any consultation undertaken by the Director General of Gas Supply, the Director General of Electricity Supply or the Secretary of State before the commencement of subsection (6) shall be as effective for the purposes of that subsection as if undertaken by the Authority after that time.
+
+(8)The powers of the Authority under subsections (4) and (5) may not be exercised after the end of the period of two years beginning with the commencement of this section.
+
+(9)The Secretary of State may give directions to the Authority for the purpose of securing that sums relating to any of the expenses mentioned in subsection (3) are included in the sums payable by virtue of payment conditions in gas licences and electricity licences; and the Authority shall comply with any such direction.
+
+## **Part II**Objectives of regulation of gas and electricity
+
+### _Gas_
+
+#### **9Objectives and duties under 1986 Act**
+
+For section 4 of the 1986 Act (general duties of Secretary of State and Director) there is substituted - 
+
+##### **"4AAThe principal objective and general duties of the Secretary of State and the Authority**
+
+(1)The principal objective of the Secretary of State and the Gas and Electricity Markets Authority (in this Act referred to as "the Authority") in carrying out their respective functions under this Part is to protect the interests of consumers in relation to gas conveyed through pipes, wherever appropriate by promoting effective competition between persons engaged in, or in commercial activities connected with, the shipping, transportation or supply of gas so conveyed.
+
+(2)The Secretary of State and the Authority shall carry out those functions in the manner which he or it considers is best calculated to further the principal objective, having regard to - 
+
+(a)the need to secure that, so far as it is economical to meet them, all reasonable demands in Great Britain for gas conveyed through pipes are met; and
+
+(b)the need to secure that licence holders are able to finance the activities which are the subject of obligations imposed by or under this Part or the Utilities Act 2000.
+
+(3)In performing that duty, the Secretary of State or the Authority shall have regard to the interests of - 
+
+(a)individuals who are disabled or chronically sick;
+
+(b)individuals of pensionable age;
+
+(c)individuals with low incomes; and
+
+(d)individuals residing in rural areas;
+
+but that is not to be taken as implying that regard may not be had to the interests of other descriptions of consumer.
+
+(4)The Secretary of State and the Authority may, in carrying out any function under this Part, have regard to - 
+
+(a)the interests of consumers in relation to electricity conveyed by distribution systems (within the meaning of the \[1989 c. 29.] Electricity Act 1989); and
+
+(b)any interests of consumers in relation to - 
+
+(i)telecommunication services and telecommunication apparatus (within the meaning of the \[1984 c. 12.] Telecommunications Act 1984); or
+
+(ii)water services or sewerage services (within the meaning of the \[1991 c. 56.] Water Industry Act 1991),
+
+which are affected by the carrying out of that function.
+
+(5)Subject to subsection (2), the Secretary of State and the Authority shall carry out their respective functions under this Part in the manner which he or it considers is best calculated - 
+
+(a)to promote efficiency and economy on the part of persons authorised by licences or exemptions to carry on any activity, and the efficient use of gas conveyed through pipes;
+
+(b)to protect the public from dangers arising from the conveyance of gas through pipes or from the use of gas conveyed through pipes; and
+
+(c)to secure a diverse and viable long-term energy supply,
+
+and shall have regard, in carrying out those functions, to the effect on the environment of activities connected with the conveyance of gas through pipes.
+
+(6)In this section "consumers" includes both existing and future consumers.
+
+(7)In this section and sections 4AB and 4A, references to functions of the Secretary of State or the Authority under this Part include a reference to functions under the Utilities Act 2000 which relate to gas conveyed through pipes.
+
+(8)In this Part, unless the context otherwise requires, - 
+
+* "exemption" means an exemption granted under section 6A;
+* "licence" means a licence under section 7 or 7A and "licence holder" shall be construed accordingly."
+
+#### **10Guidance on social and environmental matters in relation to gas**
+
+After section 4AA of the 1986 Act (which is inserted by section 9 above) there is inserted - 
+
+##### **"4ABGuidance on social and environmental matters**
+
+(1)The Secretary of State shall from time to time issue guidance about the making by the Authority of a contribution towards the attainment of any social or environmental policies set out or referred to in the guidance.
+
+(2)The Authority shall, in carrying out its functions under this Part, have regard to any guidance issued under this section.
+
+(3)Before issuing guidance under this section the Secretary of State shall consult - 
+
+(a)the Authority;
+
+(b)the Gas and Electricity Consumer Council (in this Act referred to as "the Council");
+
+(c)licence holders; and
+
+(d)such other persons as the Secretary of State considers it appropriate to consult in relation to the guidance.
+
+(4)A draft of any guidance proposed to be issued under this section shall be laid before each House of Parliament.
+
+(5)Guidance shall not be issued under this section until after the period of forty days beginning with - 
+
+(a)the day on which the draft is laid before each House of Parliament; or
+
+(b)if the draft is laid before the House of Lords on one day and the House of Commons on another, the later of those two days.
+
+(6)If, before the end of that period, either House resolves that the guidance should not be issued, the Secretary of State must not issue it.
+
+(7)In reckoning any period of forty days for the purposes of subsection (5) or (6), no account shall be taken of any time during which - 
+
+(a)Parliament is dissolved or prorogued; or
+
+(b)both Houses are adjourned for more than four days.
+
+(8)The Secretary of State shall arrange for any guidance issued under this section to be published in such manner as he considers appropriate."
+
+#### **11Health and safety in relation to gas**
+
+For section 4A of the 1986 Act (duties with respect to safety) there is substituted - 
+
+##### **"4AHealth and safety**
+
+(1)The Secretary of State and the Authority shall consult the Health and Safety Commission about all gas safety issues which may be relevant to the carrying out of any of their respective functions under this Part.
+
+(2)The Secretary of State and the Authority shall, in carrying out their respective functions under this Part, take into account any advice given by the Health and Safety Commission about any gas safety issue (whether or not in response to consultation under subsection (1)).
+
+(3)For the purposes of this section a gas safety issue is anything concerning the conveyance of gas through pipes, or the use of gas conveyed through pipes, which may affect the health and safety of - 
+
+(a)members of the public; or
+
+(b)persons employed in connection with the conveyance of gas through pipes or the supply of gas conveyed through pipes."
+
+#### **12Exceptions from the general duties under 1986 Act**
+
+After section 4A of the 1986 Act there is inserted - 
+
+##### **"4BExceptions from sections 4AA to 4A**
+
+(1)Section 4AA does not apply in relation to the issuing by the Secretary of State of guidance under section 4AB.
+
+(2)Sections 4AA to 4A do not apply in relation to anything done by the Authority - 
+
+(a)in the exercise of functions relating to the determination of disputes; or
+
+(b)in the exercise of functions under section 36A(3).
+
+(3)The Authority may nevertheless, when exercising any function under section 36A(3), have regard to any matter in respect of which a duty is imposed by sections 4AA to 4A if it is a matter to which the Director General of Fair Trading could have regard when exercising that function.
+
+(4)The duties imposed by sections 4AA to 4A do not affect the obligation of the Authority or the Secretary of State to perform or comply with any other duty or requirement (whether arising under this Act or another enactment, by virtue of any Community obligation or otherwise)."
+
+### _Electricity_
+
+#### **13Objectives and duties under 1989 Act**
+
+For section 3 of the 1989 Act (general duties of Secretary of State and Director) there is substituted - 
+
+##### **"3AThe principal objective and general duties of the Secretary of State and the Authority**
+
+(1)The principal objective of the Secretary of State and the Gas and Electricity Markets Authority (in this Act referred to as "the Authority") in carrying out their respective functions under this Part is to protect the interests of consumers in relation to electricity conveyed by distribution systems, wherever appropriate by promoting effective competition between persons engaged in, or in commercial activities connected with, the generation, transmission, distribution or supply of electricity.
+
+(2)The Secretary of State and the Authority shall carry out those functions in the manner which he or it considers is best calculated to further the principal objective, having regard to - 
+
+(a)the need to secure that all reasonable demands for electricity are met; and
+
+(b)the need to secure that licence holders are able to finance the activities which are the subject of obligations imposed by or under this Part or the Utilities Act 2000.
+
+(3)In performing that duty, the Secretary of State or the Authority shall have regard to the interests of - 
+
+(a)individuals who are disabled or chronically sick;
+
+(b)individuals of pensionable age;
+
+(c)individuals with low incomes; and
+
+(d)individuals residing in rural areas;
+
+but that is not to be taken as implying that regard may not be had to the interests of other descriptions of consumer.
+
+(4)The Secretary of State and the Authority may, in carrying out any function under this Part, have regard to - 
+
+(a)the interests of consumers in relation to gas conveyed through pipes (within the meaning of the \[1986 c. 44.] Gas Act 1986); and
+
+(b)any interests of consumers in relation to - 
+
+(i)telecommunication services and telecommunication apparatus (within the meaning of the \[1984 c. 12.] Telecommunications Act 1984); or
+
+(ii)water services or sewerage services (within the meaning of the \[1991 c. 56.] Water Industry Act 1991),
+
+which are affected by the carrying out of that function.
+
+(5)Subject to subsection (2), the Secretary of State and the Authority shall carry out their respective functions under this Part in the manner which he or it considers is best calculated - 
+
+(a)to promote efficiency and economy on the part of persons authorised by licences or exemptions to transmit, distribute or supply electricity and the efficient use of electricity conveyed by distribution systems;
+
+(b)to protect the public from dangers arising from the generation, transmission, distribution or supply of electricity; and
+
+(c)to secure a diverse and viable long-term energy supply,
+
+and shall, in carrying out those functions, have regard to the effect on the environment of activities connected with the generation, transmission, distribution or supply of electricity.
+
+(6)In this section "consumers" includes both existing and future consumers.
+
+(7)In this section and sections 3B and 3C, references to functions of the Secretary of State or the Authority under this Part include a reference to functions under the Utilities Act 2000 which relate to electricity conveyed by distribution systems.
+
+(8)In this Part, unless the context otherwise requires - 
+
+* "exemption" means an exemption granted under section 5;
+* "licence" means a licence under section 6 and "licence holder" shall be construed accordingly."
+
+#### **14Guidance on social and environmental matters in relation to electricity**
+
+After section 3A of the 1989 Act (which is inserted by section 13 above) there is inserted - 
+
+##### **"3BGuidance on social and environmental matters**
+
+(1)The Secretary of State shall from time to time issue guidance about the making by the Authority of a contribution towards the attainment of any social or environmental policies set out or referred to in the guidance.
+
+(2)The Authority shall, in carrying out its functions under this Part, have regard to any guidance issued under this section.
+
+(3)Before issuing guidance under this section the Secretary of State shall consult - 
+
+(a)the Authority;
+
+(b)the Gas and Electricity Consumer Council (in this Act referred to as "the Council");
+
+(c)licence holders; and
+
+(d)such other persons as the Secretary of State considers it appropriate to consult in relation to the guidance.
+
+(4)A draft of any guidance proposed to be issued under this section shall be laid before each House of Parliament.
+
+(5)Guidance shall not be issued under this section until after the period of forty days beginning with - 
+
+(a)the day on which the draft is laid before each House of Parliament; or
+
+(b)if the draft is laid before the House of Lords on one day and the House of Commons on another, the later of those two days.
+
+(6)If, before the end of that period, either House resolves that the guidance should not be issued, the Secretary of State must not issue it.
+
+(7)In reckoning any period of forty days for the purposes of subsection (5) or (6), no account shall be taken of any time during which - 
+
+(a)Parliament is dissolved or prorogued; or
+
+(b)both Houses are adjourned for more than four days.
+
+(8)The Secretary of State shall arrange for any guidance issued under this section to be published in such manner as he considers appropriate."
+
+#### **15Health and safety in relation to electricity**
+
+After section 3B of the 1989 Act (which is inserted by section 14 above) there is inserted - 
+
+##### **"3CHealth and safety**
+
+(1)The Secretary of State and the Authority shall consult the Health and Safety Commission about all electricity safety issues which may be relevant to the carrying out of any of their respective functions under this Part.
+
+(2)The Secretary of State may require the Authority also to consult him about electricity safety issues of particular descriptions.
+
+(3)The Secretary of State and the Authority shall, in carrying out their respective functions under this Part, take into account any advice given by the Health and Safety Commission about any electricity safety issue (whether or not in response to consultation under subsection (1)).
+
+(4)The Authority shall, in carrying out its functions under this Part, take into account any advice given by the Secretary of State about any electricity safety issue (whether or not in response to consultation under subsection (2)).
+
+(5)For the purposes of this section an electricity safety issue is anything concerning the generation, transmission, distribution or supply of electricity which may affect the health and safety of - 
+
+(a)members of the public; or
+
+(b)persons employed in connection with any of those activities."
+
+#### **16Exceptions from the general duties under 1989 Act**
+
+After section 3C of the 1989 Act (which is inserted by section 15 above) there is inserted - 
+
+##### **"3DExceptions from sections 3A to 3C**
+
+(1)Section 3A does not apply in relation to the issuing by the Secretary of State of guidance under section 3B.
+
+(2)Sections 3A to 3C do not apply in relation to functions of the Secretary of State under section 36 or 37.
+
+(3)Sections 3A to 3C do not apply in relation to anything done by the Authority - 
+
+(a)in the exercise of functions relating to the determination of disputes;
+
+(b)in the exercise of functions under section 43(3).
+
+(4)The Authority may nevertheless, when exercising any function under section 43(3), have regard to any matter in respect of which a duty is imposed by sections 3A to 3C ("a general matter"), if it is a matter to which the Director General of Fair Trading could have regard when exercising that function (but that is not to be taken as implying that, in relation to functions mentioned in subsection (2), regard may not be had to any general matter).
+
+(5)The duties imposed by sections 3A to 3C do not affect the obligation of the Authority or the Secretary of State to perform or comply with any other duty or requirement (whether arising under this Act or another enactment, by virtue of any Community obligation or otherwise)."
+
+## **Part III**Functions of the Council
+
+### **17Preliminary**
+
+(1)In this Part - 
+
+* "consumers" includes both existing consumers and future consumers;
+* "the interests of consumers" means the interests of consumers in relation to gas conveyed through pipes or electricity conveyed by distribution systems; and
+* "consumer matter" means any matter connected with the interests of consumers.
+
+(2)In considering the interests of consumers the Council shall have regard to the interests of - 
+
+(a)individuals who are disabled or chronically sick;
+
+(b)individuals of pensionable age;
+
+(c)individuals with low incomes; and
+
+(d)individuals residing in rural areas,
+
+but that is not to be taken as implying that regard may not be had to the interests of other descriptions of consumer.
+
+### **18Acquisition and review of information**
+
+(1)The Council has the function of obtaining and keeping under review - 
+
+(a)information about consumer matters, including matters affecting consumers in different areas of Great Britain; and
+
+(b)information about the views of consumers on such matters, including the views of consumers in different areas.
+
+(2)As part of the arrangements it makes for carrying out that function, the Council - 
+
+(a)shall establish one or more committees of the Council for, or for areas within, Wales and Scotland; and
+
+(b)may establish one or more committees of the Council for, or for areas within, England.
+
+(3)The purposes of a committee established under subsection (2) (in this Act referred to as a "regional committee") shall be - 
+
+(a)the provision of advice and information to the Council on consumer matters affecting the area for which the committee is established; and
+
+(b)such other purposes as the Council may determine.
+
+(4)The Council shall maintain in each of England, Wales and Scotland at least one office at which consumers may apply for information.
+
+(5)After section 41H of the 1986 Act (which is inserted by section 88 below) there is inserted - 
+
+#### **"41IService by Authority of certain notices on Council**
+
+Where the Authority is required by any provision of this Part to publish a notice or any other document, the Authority shall send a copy of the document to the Council."
+
+(6)Before section 57 of the 1989 Act (restriction on disclosure of information) there is inserted - 
+
+#### **"56GService by Authority of certain notices on Council**
+
+Where the Authority is required by any provision of this Part to publish a notice or any other document, the Authority shall send a copy of the document to the Council."
+
+(7)Paragraphs 10 to 14 of Schedule 2 have effect in relation to regional committees.
+
+### **19Provision of advice and information to public authorities and other persons**
+
+(1)The Council has the function of - 
+
+(a)making proposals, or providing advice and information, about consumer matters (including matters affecting consumers in different areas), and
+
+(b)representing the views of consumers on such matters (including the views of consumers in different areas),
+
+to public authorities, persons authorised by a licence or exemption under the 1986 Act or the 1989 Act and other persons whose activities may affect the interests of consumers.
+
+(2)Subject to subsection (5), information which relates to the affairs of any particular individual or body of persons (corporate or unincorporate) shall not be disclosed in the exercise of the Council's function under this section unless one or more of paragraphs (a) to (c) of subsection (3) applies to the information.
+
+(3)Information relating to a particular individual or body may be disclosed if - 
+
+(a)the individual or body has consented to the disclosure;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the disclosure of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of the individual or body.
+
+(4)Before deciding to disclose any information relating to a particular individual or body in pursuance of subsection (3)(c), the Council shall - 
+
+(a)consult that individual or body; and
+
+(b)have regard to any opinion expressed by the Authority as to the application of subsection (3)(c) to the information or as to the desirability or otherwise of its disclosure;
+
+and paragraph (b) applies whether the opinion is given in relation to the information itself or to information of a description which applies to that information.
+
+(5)Subsections (2) to (4) do not apply to a disclosure of information which is made to the Authority, the Secretary of State, the Competition Commission or any other public authority.
+
+(6)The disclosure by the Council of information in the exercise of its function under this section does not contravene section 105.
+
+### **20Provision of information to consumers**
+
+(1)The Council has the function of providing information about consumer matters, in such form as appears to the Council to be most useful to the recipients, to consumers of electricity or gas supplied by persons authorised to do so by a licence or exemption.
+
+(2)That function may be exercised by - 
+
+(a)publishing information in any manner the Council thinks appropriate for the purpose of bringing it to the attention of those likely to be interested; or
+
+(b)furnishing information to any consumer (whether in response to a request or otherwise).
+
+(3)Information may only be disclosed in the exercise of that function if it is information that is available to the public from some other source.
+
+(4)The disclosure by the Council of information in the exercise of that function does not contravene section 105.
+
+(5)After section 33D of the 1986 Act there is inserted - 
+
+#### **"33DAPublication of statistical information about standards of performance**
+
+(1)It shall be the duty of the Council to publish, in such form and manner and with such frequency as it thinks appropriate, such statistical information as it considers appropriate in relation to - 
+
+(a)the levels of performance achieved by gas suppliers and gas transporters in respect of - 
+
+(i)standards of performance prescribed or determined under sections 33A, 33AA, 33B and 33BA; and
+
+(ii)energy efficiency obligations imposed by order under section 33BC; and
+
+(b)complaints made by consumers about any matter relating to the activities of such suppliers or transporters and the handling of such complaints.
+
+(2)In subsection (1)(b) "complaints" includes complaints made directly to gas suppliers and gas transporters (or anyone carrying on activities on their behalf) and complaints to the Authority or the Council."
+
+(6)After section 42A of the 1989 Act there is inserted - 
+
+#### **"42AAPublication of statistical information about standards of performance**
+
+(1)It shall be the duty of the Council to publish, in such form and manner and with such frequency as it thinks appropriate, such statistical information as it considers appropriate relating to - 
+
+(a)the levels of performance achieved by electricity suppliers and electricity distributors in respect of - 
+
+(i)standards of performance prescribed or determined under sections 39, 39A, 40 and 40A; and
+
+(ii)energy efficiency obligations imposed by order under section 41A; and
+
+(b)complaints made by consumers about any matter relating to the activities of such suppliers or distributors and the handling of such complaints.
+
+(2)In subsection (1)(b) "complaints" includes complaints made directly to electricity suppliers and electricity distributors (or anyone carrying on activities on their behalf) and complaints to the Authority or the Council."
+
+(7)In consequence of this section, section 33C(4) and (5) of the 1986 Act and section 42(4) and (5) of the 1989 Act shall cease to have effect.
+
+### **21Power to publish advice and information about consumer matters**
+
+(1)If it appears to the Council that the publication of any advice and information about consumer matters (including information about the views of consumers on such matters) would promote the interests of consumers, the Council may publish that advice or information in such manner as it thinks fit.
+
+(2)Information which relates to the affairs of any particular individual or body of persons (corporate or unincorporate) shall not be published under this section unless one or more of paragraphs (a) to (c) of subsection (3) applies to the information.
+
+(3)Information relating to a particular individual or body may be published if - 
+
+(a)that individual or body has consented to the publication;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the publication of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of that individual or body.
+
+(4)Before deciding to publish any information relating to a particular individual or body in pursuance of subsection (3)(c), the Council shall - 
+
+(a)consult that individual or body; and
+
+2(b) have regard to any opinion expressed by the Authority as to the application of subsection (3)(c) to the information or as to the desirability or otherwise of its publication;and paragraph (b) applies whether the opinion is given in relation to the information itself or to information of a description which applies to that information.
+
+(5)The publication by the Council of information under this section does not contravene section 105.
+
+### **22Complaints**
+
+(1)For section 32 of the 1986 Act (duty of Council to investigate certain matters) there is substituted - 
+
+#### **"32Consumer complaints**
+
+(1)This section applies to a complaint which any customer or potential customer of, or user of gas supplied by, an authorised supplier ("the complainant") has in his capacity as such against - 
+
+(a)the supplier, in respect of any matter connected with the services provided by him in the course of carrying on regulated activities; or
+
+(b)any other person authorised by a licence or exemption, in respect of any matter affecting those services which is connected with the carrying on by that other person of regulated activities.
+
+(2)Where a complaint to which this section applies (other than one appearing to it to be frivolous or vexatious) is referred to the Council by or on behalf of the complainant, the Council shall (subject to subsection (5)) investigate the complaint for the purpose of determining whether it is appropriate to take any action under subsection (6).
+
+(3)Where it appears to the Council that the complaint relates to a matter in respect of which any enforcement function is or may be exercisable the Council shall (unless it considers that the Authority already has notice of that matter) inform the Authority of the matter.
+
+(4)Where it appears to the Council that the complaint relates to a matter which constitutes a dispute of a kind which can be referred to the Authority under any provision of this Act, the Council shall inform the complainant that he may have the right to refer the dispute to the Authority.
+
+(5)The Council is not required by this section - 
+
+(a)to investigate a complaint, until the complainant has taken such steps as appear to the Council to be reasonable for him to take for the purpose of giving the person against whom the complaint is made a reasonable opportunity to deal with the complaint;
+
+(b)to investigate any matter to which subsection (3) applies, until the Authority has had a reasonable opportunity to exercise any enforcement function in respect of that matter; and
+
+(c)to investigate any matter constituting a dispute which has been referred to the Authority under any provision of this Act.
+
+(6)Where it appears to the Council to be appropriate to do so with a view to assisting in reaching a satisfactory resolution of a complaint referred to it under this section, the Council shall make representations on behalf of the complainant to the person against whom the complaint is made about anything to which the complaint relates.
+
+(7)After investigating a complaint the Council may make a report to the Authority; and such a report may include information about - 
+
+(a)any representations made by the Council under subsection (6); and
+
+(b)the response of the person against whom the complaint is made to the complaint or any such representations.
+
+(8)No report under subsection (7), or information about a complaint referred to the Council under this section from which the complainant may be identified, shall be published or disclosed by the Council or the Authority in the exercise of any power under the Utilities Act 2000 or this Act, without the consent of the complainant.
+
+(9)Where a representation made to the Authority about any matter (other than one appearing to it to be frivolous or vexatious) appears to the Authority - 
+
+(a)to be about a matter which is or amounts to a complaint to which this section applies; and
+
+(b)to have been made by or on behalf of the complainant,
+
+the Authority shall refer the complaint to the Council.
+
+(10)In this section - 
+
+* "enforcement function" means a function under section 28 or 30A; and
+* "regulated activities" means activities which are authorised or regulated by a licence or exemption."
+
+(2)For section 46 of the 1989 Act (duty of consumers' committees to investigate certain matters) there is substituted - 
+
+#### **"46Consumer complaints**
+
+(1)This section applies to a complaint which any customer or potential customer of, or user of electricity supplied by, an authorised supplier ("the complainant") has in his capacity as such against - 
+
+(a)the supplier, in respect of any matter connected with the services provided by him in the course of carrying on regulated activities; or
+
+(b)any other person authorised by a licence or exemption, in respect of any matter affecting those services which is connected with the carrying on by that other person of regulated activities.
+
+(2)Where a complaint to which this section applies (other than one appearing to it to be frivolous or vexatious) is referred to the Council by or on behalf of the complainant, the Council shall (subject to subsection (5)) investigate the complaint for the purpose of determining whether it is appropriate to take any action under subsection (6).
+
+(3)Where it appears to the Council that the complaint relates to a matter in respect of which any enforcement function is or may be exercisable the Council shall (unless it considers that the Authority already has notice of that matter) inform the Authority of the matter.
+
+(4)Where it appears to the Council that the complaint relates to a matter which constitutes a dispute of a kind which can be referred to the Authority under any provision of this Act, the Council shall inform the complainant that he may have the right to refer the dispute to the Authority.
+
+(5)The Council is not required by this section - 
+
+(a)to investigate a complaint, until the complainant has taken such steps as appear to the Council to be reasonable for him to take for the purpose of giving the person against whom the complaint is made a reasonable opportunity to deal with the complaint;
+
+(b)to investigate any matter to which subsection (3) applies, until the Authority has had a reasonable opportunity to exercise any enforcement function in respect of that matter; and
+
+(c)to investigate any matter constituting a dispute which has been referred to the Authority under any provision of this Act.
+
+(6)Where it appears to the Council to be appropriate to do so with a view to assisting in reaching a satisfactory resolution of a complaint referred to it under this section, the Council shall make representations on behalf of the complainant to the person against whom the complaint is made about anything to which the complaint relates.
+
+(7)After investigating a complaint the Council may make a report to the Authority; and such a report may include information about - 
+
+(a)any representations made by the Council under subsection (6); and
+
+(b)the response of the person against whom the complaint is made to the complaint or any such representations.
+
+(8)No report under subsection (7), or information about a complaint referred to the Council under this section from which the complainant may be identified, shall be published or disclosed by the Council or the Authority in the exercise of any power under the Utilities Act 2000 or this Act, without the consent of the complainant.
+
+(9)Where a representation made to the Authority about any matter (other than one appearing to it to be frivolous or vexatious) appears to the Authority - 
+
+(a)to be about a matter which is or amounts to a complaint to which this section applies; and
+
+(b)to have been made by or on behalf of the complainant,
+
+the Authority shall refer the complaint to the Council.
+
+(10)In this section - 
+
+* "enforcement function" means a function under section 25 or 27A; and
+* "regulated activities" means activities which are authorised or regulated by a licence or exemption."
+
+(3)Sections 31 and 32A of the 1986 Act and section 45 of the 1989 Act shall cease to have effect.
+
+### **23Investigations**
+
+(1)For section 33 of the 1986 Act there is substituted - 
+
+#### **"33Power of Council to investigate other matters**
+
+(1)The Council may investigate any matter (not being a matter which it is its duty to investigate under this Part) which appears to it to be a matter relating to the interests of consumers in relation to gas conveyed through pipes.
+
+(2)The power to undertake an investigation under this section includes, without prejudice to the generality of subsection (1), power to investigate any matter relating to or to anything connected with gas fittings (or their use) or the use of gas supplied by authorised suppliers.
+
+(3)In subsection (2), "gas fittings" means gas fittings used or intended to be used by persons supplied with gas by authorised suppliers.
+
+(4)Where the Council has investigated a matter under this section it may make a report on that matter to the Authority, the Secretary of State, the Director General of Fair Trading or any other public authority whose functions appear to the Council to be exercisable in relation to that matter.
+
+(5)Subject to subsection (6), the Council may - 
+
+(a)send a report on any matter investigated under this section to any person who appears to the Council to have an interest in that matter; and
+
+(b)publish any such report in such manner as the Council thinks appropriate.
+
+(6)Information which relates to the affairs of any particular individual or body of persons (corporate or unincorporate) - 
+
+(a)shall not be included in a report which is to be sent to any person under subsection (5)(a), unless one or more of paragraphs (a) to (c) of subsection (7) applies; and
+
+(b)shall be excluded from any such report which is to be published under subsection (5)(b), unless one or more or paragraphs (a) to (c) of subsection (8) applies.
+
+(7)Information relating to a particular individual or body may be included in a report to be sent under subsection (5)(a) if - 
+
+(a)that individual or body has consented to the disclosure;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the disclosure of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of that individual or body.
+
+(8)Information relating to a particular individual or body may be included in a report to be published under subsection (5)(b) if - 
+
+(a)that individual or body has consented to the publication;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the publication of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of that individual or body.
+
+(9)Before deciding to include in such a report any information relating to a particular individual or body in pursuance of subsection (7)(c) or (8)(c), the Council shall - 
+
+(a)consult that individual or body; and
+
+(b)have regard to any opinion expressed by the Authority as to the application of subsection (7)(c) or (8)(c) to the information or as to the desirability or otherwise of its inclusion in the report;
+
+and paragraph (b) applies whether the opinion is given in relation to the information itself or to information of a description which applies to that information."
+
+(2)After section 46 of the 1989 Act there is inserted - 
+
+#### **"46APower of Council to investigate other matters**
+
+(1)The Council may investigate any matter (not being a matter which it is its duty to investigate under this Part) which appears to it to be a matter relating to the interests of consumers in relation to electricity conveyed by distribution systems.
+
+(2)Where the Council has investigated a matter under this section it may make a report on that matter to the Authority, the Secretary of State, the Director General of Fair Trading or any other public authority whose functions appear to the Council to be exercisable in relation to that matter.
+
+(3)Subject to subsection (4), the Council may - 
+
+(a)send a report on any matter investigated under this section to any person who appears to the Council to have an interest in that matter; and
+
+(b)publish any such report in such manner as the Council thinks appropriate.
+
+(4)Information which relates to the affairs of any particular individual or body of persons (corporate or unincorporate) - 
+
+(a)shall not be included in a report which is to be sent to any person under subsection (3)(a), unless one or more of paragraphs (a) to (c) of subsection (5) applies; and
+
+(b)shall be excluded from any such report which is to be published under subsection (3)(b), unless one or more or paragraphs (a) to (c) of subsection (6) applies.
+
+(5)Information relating to a particular individual or body may be included in a report to be sent under subsection (3)(a) if - 
+
+(a)that individual or body has consented to the disclosure;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the disclosure of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of that individual or body.
+
+(6)Information relating to a particular individual or body may be included in a report to be published under subsection (3)(b) if - 
+
+(a)that individual or body has consented to the publication;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the publication of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of that individual or body.
+
+(7)Before deciding to include in such a report any information relating to a particular individual or body in pursuance of subsection (5)(c) or (6)(c), the Council shall - 
+
+(a)consult that individual or body; and
+
+(b)have regard to any opinion expressed by the Authority as to the application of subsection (5)(c) or (6)(c) to the information or as to the desirability or otherwise of its inclusion in the report;
+
+and paragraph (b) applies whether the opinion is given in relation to the information itself or to information of a description which applies to that information."
+
+### **24Provision of information to Council**
+
+(1)The Council may direct - 
+
+(a)the Authority; or
+
+(b)the holder of a gas licence or an electricity licence,
+
+to supply to it, in such form as it may reasonably specify, such information specified or described in the direction as it may require for the purpose of exercising its functions.
+
+(2)A person to whom a direction under this section is given shall comply with it as soon as is reasonably practicable.
+
+(3)Before giving a direction under this section and in specifying the form in which any information is to be supplied, the Council shall have regard to the desirability of minimising the costs, or any other detriment, to the Authority or licence holder.
+
+(4)If the Authority fails to comply with a direction under this section it shall, if so required by the Council, give notice to the Council of the reasons for its failure.
+
+### **25Publication of notice of reasons**
+
+(1)Subject to the following provisions of this section, the Council may publish a notice given to it under section 24(4).
+
+(2)Information which relates to the affairs of any particular individual or body of persons (corporate or unincorporate) shall be excluded from any notice published under subsection (1) unless one or more of paragraphs (a) to (c) of subsection (3) applies to the information.
+
+(3)Information relating to a particular individual or body may be published if - 
+
+(a)that individual or body has consented to the publication;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the publication of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of that individual or body.
+
+(4)Before deciding to publish any information relating to a particular individual or body in pursuance of subsection (3)(c), the Council shall - 
+
+(a)consult that individual or body; and
+
+(b)have regard to any opinion expressed by the Authority as to the application of subsection (3)(c) to the information or as to the desirability or otherwise of its publication;
+
+and paragraph (b) applies whether the opinion is given in relation to the information itself or to information of a description which applies to that information.
+
+(5)The publication by the Council of information under this section does not contravene section 105.
+
+### **26Provision of information by Council to Authority**
+
+(1)The Authority may direct the Council to supply to it, in such form as it may reasonably specify, such information specified or described in the direction as it may require for the purpose of exercising its functions.
+
+(2)The Council shall comply with a direction under this section as soon as is reasonably practicable.
+
+(3)Where the Council refuses to supply any information under subsection (1), it must give notice to the Authority of its reason for the refusal and the Authority may publish that notice in such manner as it considers appropriate.
+
+(4)In publishing any notice under this section the Authority shall have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where publication of that matter would or might, in the opinion of the Authority, seriously and prejudicially affect the interests of that person or body.
+
+### **27Sections 24 to 26: supplementary**
+
+(1)The Secretary of State may make regulations prescribing - 
+
+(a)descriptions of information which the Authority, a licence holder or the Council may refuse to supply under section 24 or 26; or
+
+(b)circumstances in which the Authority, a licence holder or the Council may refuse to comply with a direction under section 24 or 26.
+
+(2)The Council may, if no person is prescribed for the purpose under subsection (3), refer a failure by a licence holder to comply with a direction under section 24 to the Authority.
+
+(3)The Secretary of State may make regulations for the purpose of enabling a failure to comply with a direction under section 24 or 26 to be referred by the person who gave the direction to such person (other than the Authority) as may be prescribed by the regulations.
+
+(4)A person to whom such a failure is referred (whether under subsection (2) or regulations under subsection (3)) shall - 
+
+(a)consider any representations made by either party;
+
+(b)determine whether the person failing to comply with the direction is entitled to refuse to do so and, if not, order him to comply with the direction; and
+
+(c)give notice of his determination and any order under paragraph (b), with reasons, to both parties.
+
+(5)A notice under subsection (4) may be published by either party to the reference; and subsections (2) to (5) of section 25 apply to the publication of such a notice as they apply to the publication of a notice under section 24(4).
+
+(6)Section 60 of the 1989 Act (powers to make regulations) applies to regulations under this section as if they were made under Part I of that Act.
+
+(7)The power of the Secretary of State to make regulations under this section is exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+## **Part IV**Amendment of the Electricity Act 1989
+
+### _Electricity licensing_
+
+#### **28Prohibition on unlicensed distribution of electricity**
+
+(1)Section 4 of the 1989 Act (prohibition on unlicensed supply etc. of electricity) is amended as follows.
+
+(2)In subsection (1), after paragraph (b) there is inserted - 
+
+"(bb)distributes electricity for that purpose;".
+
+(3)In subsection (4) - 
+
+(a)before the definition of "supply" there is inserted - 
+
+""distribute", in relation to electricity, means distribute by means of a distribution system, that is to say, a system which consists (wholly or mainly) of low voltage lines and electrical plant and is used for conveying electricity to any premises or to any other distribution system;"
+
+(b)for the definition of "supply" there is substituted - 
+
+""supply", in relation to electricity, means supply of electricity conveyed by a distribution system to premises other than premises occupied by a licence holder for the purpose of carrying on the activities which he is authorised by his licence to carry on;".
+
+#### **29Exemptions from electricity licensing**
+
+For section 5 of the 1989 Act (exemptions from prohibition) there is substituted - 
+
+##### **"5Exemptions from prohibition**
+
+(1)The Secretary of State may by order grant exemption from paragraph (a), (b), (bb) or (c) of section 4(1) - 
+
+(a)either to a person or to persons of a class;
+
+(b)either generally or to such extent as may be specified in the order; and
+
+(c)either unconditionally or subject to such conditions as may be so specified.
+
+(2)Before making an order under subsection (1) the Secretary of State shall give notice - 
+
+(a)stating that he proposes to make such an order and setting out the terms of the proposed order;
+
+(b)stating the reasons why he proposes to make the order in the terms proposed; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations with respect to the proposals may be made,
+
+and shall consider any representations which are duly made in respect of the proposals and not withdrawn.
+
+(3)The notice required by subsection (2) shall be given - 
+
+(a)by serving a copy of it on the Authority and the Council; and
+
+(b)by publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of those likely to be affected by the proposed order.
+
+(4)Notice of an exemption granted to a person shall be given - 
+
+(a)by serving a copy of the exemption on him; and
+
+(b)by publishing the exemption in such manner as the Secretary of State considers appropriate for bringing it to the attention of other persons who may be affected by it.
+
+(5)Notice of an exemption granted to persons of a class shall be given by publishing the exemption in such manner as the Secretary of State considers appropriate for bringing it to the attention of - 
+
+(a)persons of that class; and
+
+(b)other persons who may be affected by it.
+
+(6)An exemption may be granted - 
+
+(a)indefinitely; or
+
+(b)for a period specified in, or determined by or under, the exemption.
+
+(7)Conditions subject to which an exemption is granted may (in particular) require any person carrying on any activity in pursuance of the exemption - 
+
+(a)to comply with any direction given by the Secretary of State or the Authority as to such matters as are specified in the exemption or are of a description so specified;
+
+(b)except in so far as the Secretary of State or the Authority consents to his doing or not doing them, not to do or to do such things as are specified in the exemption or are of a description so specified; and
+
+(c)to refer for determination by the Secretary of State or the Authority such questions arising under the exemption as are specified in the exemption or are of a description so specified.
+
+(8)The Secretary of State may by order revoke an order by which an exemption was granted to a person or vary an order by which more than one exemption was so granted so as to terminate any of the exemptions - 
+
+(a)at the person's request;
+
+(b)in accordance with any provision of the order by which the exemption was granted; or
+
+(c)if it appears to the Secretary of State inappropriate that the exemption should continue to have effect.
+
+(9)The Secretary of State may by order revoke an order by which an exemption was granted to persons of a class or vary an order by which more than one exemption was so granted so as to terminate any of the exemptions - 
+
+(a)in accordance with any provision of the order by which the exemption was granted; or
+
+(b)if it appears to the Secretary of State inappropriate that the exemption should continue to have effect.
+
+(10)The Secretary of State may by direction withdraw an exemption granted to persons of a class from any person of that class - 
+
+(a)at the person's request;
+
+(b)in accordance with any provision of the order by which the exemption was granted; or
+
+(c)if it appears to the Secretary of State inappropriate that the exemption should continue to have effect in the case of the person.
+
+(11)Before - 
+
+(a)making an order under subsection (8)(b) or (c) or (9); or
+
+(b)giving a direction under subsection (10)(b) or (c),
+
+the Secretary of State shall consult the Authority and give notice of his proposal to do so (with reasons) and of a period within which representations may be made to him.
+
+(12)The notice under subsection (11) shall be given - 
+
+(a)where the Secretary of State is proposing to make an order under subsection (8)(b) or (c), by serving a copy of it on the person to whom the exemption was granted;
+
+(b)where he is proposing to make an order under subsection (9), by publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons of the class of persons to whom the exemption was granted; and
+
+(c)where he is proposing to give a direction under subsection (10)(b) or (c), by serving a copy of it on the person from whom he proposes to withdraw the exemption."
+
+#### **30Licences authorising supply etc. of electricity**
+
+For section 6 of the 1989 Act there is substituted - 
+
+##### **"6Licences authorising supply, etc**
+
+(1)The Authority may grant any of the following licences - 
+
+(a)a licence authorising a person to generate electricity for the purpose of giving a supply to any premises or enabling a supply to be so given ("a generation licence");
+
+(b)a licence authorising a person to transmit electricity for that purpose in that person's authorised area ("a transmission licence");
+
+(c)a licence authorising a person to distribute electricity for that purpose ("a distribution licence"); or
+
+(d)a licence authorising a person to supply electricity to premises ("a supply licence").
+
+(2)The same person may not be the holder of both a distribution licence and a supply licence.
+
+(3)A supply licence may authorise the holder to supply electricity - 
+
+(a)to any premises;
+
+(b)only to premises specified in the licence, or to premises of a description so specified; or
+
+(c)only to any premises situated in a specified area, or to premises of a specified description which are so situated.
+
+(4)The Authority may, with the consent of the holder of a supply licence, modify terms included in the licence in pursuance of subsection (3) so as to extend or restrict the premises to which the licence holder may give a supply of electricity.
+
+(5)A distribution licence may authorise the holder to distribute electricity in any area, or only in an area specified in the licence.
+
+(6)The Authority may, with the consent of the holder of a distribution licence, modify terms included in the licence in pursuance of subsection (5) so as to extend or restrict the area within which the licence holder may distribute electricity.
+
+(7)A licence and any extension or restriction of a licence under subsection (4) or (6) shall be in writing.
+
+(8)A licence shall, unless previously revoked in accordance with any term of the licence, continue in force for such period as may be specified in or determined by or under the licence.
+
+(9)In this Part - 
+
+* "authorised area", in relation to the holder of a transmission licence, means so much of the area designated as such in the licence as is not for the time being designated in a subsequent transmission licence;
+* "electricity distributor" means any person who is authorised by a distribution licence to distribute electricity except where he is acting otherwise than for purposes connected with the carrying on of activities authorised by the licence;
+* "electricity supplier" means any person who is authorised by a supply licence to supply electricity except where he is acting otherwise than for purposes connected with the carrying on of activities authorised by the licence.
+
+##### **6AProcedure for licence applications**
+
+(1)This section applies to any application - 
+
+(a)for a licence; or
+
+(b)for the extension or restriction of a licence under section 6(4) or (6).
+
+(2)The application shall be made in such form and manner, and shall contain, or be accompanied by, such information and documents and such fee (if any), as may be prescribed.
+
+(3)Within the prescribed period after the making of the application the applicant shall publish a notice of the application in the prescribed manner.
+
+(4)Where the Authority proposes to refuse the application, it shall give to the applicant a notice - 
+
+(a)stating that it proposes to refuse the application;
+
+(b)stating the reasons why it proposes to refuse the application; and
+
+(c)specifying the time within which representations with respect to the proposed refusal may be made,
+
+and shall consider any representations which are duly made and not withdrawn.
+
+(5)Where the Authority grants the licence, extension or restriction applied for, it shall as soon as practicable thereafter send a notice of the grant to any person who holds a licence and whose interests may, in the opinion of the Authority, be affected by the grant.
+
+(6)In this section "prescribed" means prescribed in regulations made by the Authority.
+
+(7)Any sums received by the Authority under this section shall be paid into the Consolidated Fund.
+
+##### **6BApplications for transmission licences**
+
+(1)This section applies to applications for a transmission licence (in addition to the requirements of section 6A).
+
+(2)The applicant shall give notice of the application to any person who holds a transmission licence and whose authorised area includes the whole or any part of the area to which the application relates.
+
+(3)Before granting the transmission licence applied for, the Authority shall give notice - 
+
+(a)stating that it proposes to grant the licence;
+
+(b)stating the reasons why it proposes to grant the licence; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed licence may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(4)A notice under subsection (3) shall be given by publication in such manner as the Authority considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them.
+
+(5)The Authority shall send a copy of a notice under subsection (3) to - 
+
+(a)the applicant;
+
+(b)the Secretary of State; and
+
+(c)any person who holds a transmission licence and whose authorised area includes the whole or any part of the area to which the application relates."
+
+#### **31Enactments referring to public electricity suppliers**
+
+(1)References in any enactment to public electricity suppliers shall have effect after the commencement of this section as if they were references to - 
+
+(a)electricity suppliers;
+
+(b)electricity distributors; or
+
+(c)both electricity suppliers and electricity distributors,
+
+according to the nature of the activities carried on by the persons to whom they referred before that time.
+
+(2)References in any enactment to the supply of electricity shall have effect after the commencement of this section as if they were references to - 
+
+(a)the supply of electricity;
+
+(b)the distribution of electricity; or
+
+(c)both the supply and distribution of electricity,
+
+according to the nature of the activities to which they referred before that time.
+
+(3)References in any enactment to holders of licences under section 6(2) of the 1989 Act shall have effect after the commencement of this section as if they were references to electricity suppliers.
+
+#### **32Electricity licence conditions**
+
+(1)Section 7 of the 1989 Act (conditions of licences) is amended as follows.
+
+(2)In subsection (1) for "grantor" and "section 3 above" there is substituted respectively "Authority" and "sections 3A to 3C".
+
+(3)In subsection (2) for "a licence" there is substituted "a transmission licence or distribution licence".
+
+(4)In subsection (3) - 
+
+(a)for "Conditions included in a licence by virtue of subsection (1)(a) above" there is substituted "Without prejudice to the generality of paragraph (a) of subsection (1), conditions included in a licence by virtue of that paragraph";
+
+(b)for "Director" (in each place it appears) there is substituted "Authority or Secretary of State"; and
+
+(c)in paragraph (c) after "licence" (in the first place it appears) there is inserted ", or under any document referred to in the licence,".
+
+(5)After subsection (3) there is inserted - 
+
+"(3A)Conditions included in a transmission licence or a distribution licence by virtue of subsection (1)(a) may require the holder, in such circumstances as are specified in the licence - 
+
+(a)so to increase his charges for the transmission or distribution of electricity as to raise such amounts as may be determined by or under the conditions; and
+
+(b)to pay the amounts so raised to such licence holders as may be so determined."
+
+(6)For subsection (5) there is substituted - 
+
+"(5)Conditions included in a licence may contain provision for the conditions - 
+
+(a)to have effect or cease to have effect at such times and in such circumstances as may be determined by or under the conditions; or
+
+(b)to be modified in such manner as may be specified in the conditions at such times and in such circumstances as may be so determined."
+
+(7)After subsection (6) there is inserted - 
+
+"(6A)Conditions included in a licence may provide for references in the conditions to any document to operate as references to that document as revised or re-issued from time to time."
+
+(8)In subsection (7) for "Secretary of State or the Director" there is substituted "Authority".
+
+#### **33Standard conditions of electricity licences**
+
+(1)Such conditions as may be determined by the Secretary of State before the commencement of subsection (3), and published by him in such manner as he considers appropriate, in relation to any of the types of licence mentioned in section 6(1) of the 1989 Act (that is to say, in relation to generation licences, transmission licences, distribution licences or supply licences) shall, subject to such modifications of the conditions made under Part I of the 1989 Act after the determination under this subsection be standard conditions for the purposes of licences of that type.
+
+(2)The standard conditions for the purposes of licences of any type may contain provision - 
+
+(a)for any standard condition included in a licence of that type not to have effect until brought into operation in such manner and in such circumstances as may be specified in or determined under the standard conditions;
+
+(b)for the effect of any standard condition included in such a licence to be suspended in such manner, and in such circumstances, as may be so specified or determined; or
+
+(c)for any standard condition included in such a licence which is for the time being suspended to be brought back into operation in such manner and in such circumstances as may be so specified or determined.
+
+(3)After section 8 of the 1989 Act there is inserted - 
+
+##### **"8AStandard conditions of licences**
+
+(1)Subject to subsection (2), each condition which by virtue of section 33(1) of the Utilities Act 2000 is a standard condition for the purposes of any of the types of licence mentioned in section 6(1) (that is to say, generation licences, transmission licences, distribution licences or supply licences) shall be incorporated by reference in each licence of that type granted after the commencement of this section.
+
+(2)Subject to the following provisions of this section, the Authority may, in granting a licence of any type, modify any of the standard conditions for licences of that type in its application to the licence to such extent as it considers requisite to meet the circumstances of the particular case.
+
+(3)Before making any modifications under subsection (2), the Authority shall give notice - 
+
+(a)stating that it proposes to make the modifications and setting out their effect;
+
+(b)stating the reasons why it proposes to make the modifications; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed modifications may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(4)A notice under subsection (3) shall be given - 
+
+(a)by publishing the notice in such manner as the Authority considers appropriate for the purpose of bringing the notice to the attention of persons likely to be affected by the making of the modifications; and
+
+(b)by sending a copy of the notice to the Secretary of State and the Council.
+
+(5)If, within the time specified in the notice under subsection (3), the Secretary of State directs the Authority not to make any modification, the Authority shall comply with the direction.
+
+(6)The Authority shall not under subsection (2) make any modifications of a condition of a licence of any type unless it is of the opinion that the modifications are such that - 
+
+(a)the licence holder would not be unduly disadvantaged in competing with other holders of licences of that type; and
+
+(b)no other holder of a licence of the same type would be unduly disadvantaged in competing with other holders of such licences (including the holder of the licence being modified).
+
+(7)The modification under subsection (2) of part of a condition of a licence shall not prevent any other part of the condition which is not so modified being regarded as a standard condition for the purposes of this Part.
+
+(8)In this section "modify" includes fail to incorporate and "modification" shall be construed accordingly."
+
+#### **34Modification of conditions of particular licence**
+
+(1)In section 11 of the 1989 Act (modification of licence conditions by agreement), for subsection (1) there is substituted - 
+
+"(1)Subject to the following provisions of this section, the Authority may modify the conditions of a particular licence.
+
+(1A)The Authority may not make any modifications under this section unless the licence holder has consented to the modifications and, in the case of standard conditions of the licence, the Authority is of the opinion that the modifications - 
+
+(a)are requisite to meet the circumstances of the particular case; and
+
+(b)are such that - 
+
+(i)the licence holder would not be unduly disadvantaged in competing with other holders of licences of that type; and
+
+(ii)no other holder of a licence of the same type would be unduly disadvantaged in competing with other holders of such licences (including the holder of the licence being modified)."
+
+(2)After subsection (4) of that section there is inserted - 
+
+"(5)The modification under this section of part of a standard condition of a licence shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part."
+
+#### **35Modification of standard conditions of licences**
+
+After section 11 of the 1989 Act there is inserted - 
+
+##### **"11AModification of standard conditions of licences**
+
+(1)Subject to the following provisions of this section, the Authority may modify the standard conditions of licences of any type mentioned in section 6(1).
+
+(2)Where at any time the Authority modifies the standard conditions of licences of any type under this section the Authority may make such incidental or consequential modifications as it considers necessary or expedient of any conditions of any licence of that type.
+
+(3)Before making any modifications under this section, the Authority shall give notice - 
+
+(a)stating that it proposes to make the modifications and setting out their effect;
+
+(b)stating the reasons why it proposes to make the modifications; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed modifications may be made;
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(4)A notice under subsection (3) shall be given - 
+
+(a)by publishing the notice in such manner as the Authority considers appropriate for the purpose of bringing the notice to the attention of persons likely to be affected by the making of the modifications; and
+
+(b)by sending a copy of the notice to each relevant licence holder, to the Secretary of State and to the Council.
+
+(5)If, within the time specified in the notice under subsection (3), the Secretary of State directs the Authority not to make any modification, the Authority shall comply with the direction.
+
+(6)The Authority may not under this section make any modifications of the standard conditions of licences of any type unless - 
+
+(a)no notice of objection to those modifications is given to the Authority within the time specified in the notice under subsection (3) by any relevant licence holder;
+
+(b)if one or more relevant licence holders give notice of objection to the Authority within that time - 
+
+(i)the proportion (expressed as a percentage) of the relevant licence holders who have given notice of objection is less than such percentage as may be prescribed; and
+
+(ii)the percentage given by subsection (7) is less than such percentage as may be prescribed; or
+
+(c)subsection (8) applies to the case.
+
+(7)The percentage given by this subsection is the proportion (expressed as a percentage) of the relevant licence holders who have given notice of objection, weighted according to their market share in such manner as may be prescribed.
+
+(8)This subsection applies where the Authority is satisfied that - 
+
+(a)the effect of the standard conditions is such as to impose a burden affecting relevant licence holders in the carrying on of activities to which the modifications relate;
+
+(b)the modifications would remove or reduce the burden without removing any necessary protection; and
+
+(c)the modifications are such that no holder of a licence of the type in question would be unduly disadvantaged in competing with other holders of such licences.
+
+(9)Where the Authority modifies the standard conditions of licences of any type - 
+
+(a)the Authority shall also make (as nearly as may be) the same modifications of those conditions for the purposes of their incorporation in licences of that type granted after that time; and
+
+(b)the Authority shall publish the modifications in such manner as it considers appropriate.
+
+(10)In this section - 
+
+* "prescribed" means prescribed in an order made by the Secretary of State; and
+
+* "relevant licence holder", in relation to proposed modifications of standard conditions of licences of any type, means the holder of a licence of that type - 
+
+  (a)
+
+  which is to be modified under the proposals by the inclusion of any new standard condition; or
+
+  (b)
+
+  which includes any standard conditions to which the proposals relate, other than standard conditions which are not in effect (by virtue of anything done under section 33(2) of the Utilities Act 2000) at the time specified in the notice under subsection (3).
+
+(11)A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament."
+
+#### **36Electricity licence modification references**
+
+(1)Section 12 of the 1989 Act (licence modification references to the Competition Commission) is amended as follows.
+
+(2)For subsection (1) there is substituted - 
+
+"(1)The Authority may make to the Competition Commission a reference which is so framed as to require the Commission to investigate and report on the questions - 
+
+(a)whether any matters which relate to the carrying on of activities authorised or regulated by a particular licence and which are specified in the reference operate, or may be expected to operate, against the public interest; and
+
+(b)if so, whether the effects adverse to the public interest which those matters have or may be expected to have could be remedied or prevented by modifications of the conditions of the licence.
+
+(1A)The Authority may make to the Competition Commission a reference which is so framed as to require the Commission to investigate and report on the questions - 
+
+(a)whether any matters which relate to the carrying on of activities authorised or regulated by licences of any type mentioned in section 6(1), and which are specified in the reference operate, or may be expected to operate, against the public interest; and
+
+(b)if so, whether the effects adverse to the public interest which those matters have or may be expected to have could be remedied or prevented by modifications of the standard conditions of licences of that type."
+
+(3)In subsection (3)(b), for "conditions of the licence" there is substituted "relevant conditions".
+
+(4)In subsection (4), after "licence" at the end of paragraph (a) there is inserted "or, as the case may be, the relevant licence holders and the Council".
+
+(5)In subsection (5), for "this section" there is substituted "subsection (1A)".
+
+(6)In subsection (6), after "this section" there is inserted "or in carrying out functions under section 14A", after "the investigation" there is inserted "or the carrying out of those functions" and after "such investigation" there is inserted "or such functions".
+
+(7)After subsection (6) there is inserted - 
+
+"(6A)In this section and sections 13, 14 and 14A - 
+
+* "relevant conditions" - 
+
+  (a)
+
+  in relation to a reference under subsection (1), means the conditions of the licence to which the reference relates; and
+
+  (b)
+
+  in relation to a reference under subsection (1A), means the standard conditions of the licences to which the reference relates; and
+
+* "relevant licence holder" means the holder of a licence to which a reference under subsection (1A) relates."
+
+#### **37Reports on modification references**
+
+(1)Section 13 (reports on modification references) of the 1989 Act is amended as follows.
+
+(2)In subsection (1)(c), for "conditions of the licence" there is substituted "relevant conditions".
+
+(3)In subsection (5) - 
+
+(a)in paragraph (a), for the words from "such" to "relates" there is substituted "a report on a reference under section 12(1), send a copy of it to the licence holder"; and
+
+(b)in paragraph (b), for "publish the report" there is substituted "send another copy to the Council and publish that other copy".
+
+(4)After subsection (5) of that section there is inserted - 
+
+"(5A)Subject to subsection (6), the Authority shall - 
+
+(a)on receiving a report on a reference under section 12(1A), send a copy of it to the Secretary of State; and
+
+(b)not less than 14 days after that copy is received by the Secretary of State - 
+
+(i)send another copy to the Council and to each relevant licence holder; and
+
+(ii)not less than 24 hours after complying with sub-paragraph (i) above, publish the copy sent to the Council in such manner as it considers appropriate for bringing the report to the attention of persons likely to be affected by it."
+
+(5)In subsection (6) of that section, for the words from "paragraph (b)" to the end there is substituted "subsection (5) or (5A), direct the Authority to exclude that matter from the copy of the report, or (as the case may be) each copy of the report, to be sent and published as mentioned in paragraph (b) of that subsection."
+
+#### **38Modification following report**
+
+(1)Section 14 of the 1989 Act (modification following report) is amended as follows.
+
+(2)In subsection (1), for "the conditions of the licence" and "the conditions of that licence" there is substituted "the relevant conditions".
+
+(3)After subsection (1) there is inserted - 
+
+"(1A)Where at any time it modifies under subsection (1) the standard conditions of licences of any type in consequence of a reference under section 12(1A), the Authority may make such incidental and consequential modifications as it considers necessary or expedient of any conditions of licences of that type granted before that time."
+
+(4)In subsection (4)(b) after "licence" there is inserted "or, as the case may be, the relevant licence holders".
+
+(5)After subsection (4) there is inserted - 
+
+"(5)After considering any representations or objections made in response to proposals set out in a notice under subsection (3), the Authority shall give notice to the Competition Commission - 
+
+(a)setting out the modifications it proposes to make to remedy or prevent the adverse effects specified in the report; and
+
+(b)stating the reasons for making the modifications.
+
+(6)The Authority shall include with the notice under subsection (5) a copy of any representations or objections received in relation to the notice under subsection (3).
+
+(7)If the period of four weeks from the date on which the notice under subsection (5) is given elapses without a direction under section 14A(1)(a) having been given to it, the Authority shall - 
+
+(a)make the modifications set out in the notice; or
+
+(b)if a direction under section 14A(1)(b) has been given, make the modifications which are not specified in the direction.
+
+(8)The modification under subsection (1) of part of a standard condition of a particular licence in consequence of a reference under section 12(1) shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part.
+
+(9)Where the Authority modifies the standard conditions of licences of any type as mentioned in subsection (1A), the Authority - 
+
+(a)shall also make (as nearly as may be) the same modifications of those conditions for the purposes of their incorporation in licences of that type granted after that time; and
+
+(b)shall publish the modifications made for those purposes in such manner as it considers appropriate."
+
+#### **39Competition Commission's power to veto modifications**
+
+After section 14 of the 1989 Act (modification following report) there is inserted - 
+
+##### **"14ACompetition Commission's power to veto modifications following report**
+
+(1)The Competition Commission (in this section referred to as "the Commission") may, within the period of four weeks after the date on which it is given a notice under section 14(5), direct the Authority - 
+
+(a)not to make the modifications set out in that notice; or
+
+(b)not to make such of the modifications as may be specified in the direction;
+
+and the Authority shall comply with any such direction.
+
+(2)The Secretary of State may, within the period of four weeks after the date on which the Commission is given a notice under section 14(5) and on the application of the Commission, direct that the period for giving a direction under subsection (1) (and, accordingly, the period mentioned in section 14(7)) shall be extended by 14 days.
+
+(3)The power to give a direction under subsection (1) may only be exercised in respect of such of the modifications set out in the notice under section 14(5)(a) as appear to the Commission not to be the modifications which are requisite for the purpose of remedying or preventing all or any of the adverse effects specified in the report as effects which could be remedied or prevented by modifications.
+
+(4)If the Commission gives a direction under subsection (1), the Commission - 
+
+(a)shall give notice setting out the modifications proposed by the Authority, the terms of the direction and the reasons for giving it; and
+
+(b)shall itself make such modifications of the relevant conditions as appear to it to be requisite for the purpose of remedying or preventing - 
+
+(i)if the direction was given under subsection (1)(a), the adverse effects specified in the report as effects which could be remedied or prevented by modifications;
+
+(ii)if the direction was given under subsection (1)(b), such of those adverse effects as are not remedied or prevented by the modifications made by the Authority under section 14(7)(b).
+
+(5)In exercising its function under subsection (4)(b) the Commission shall have regard to the matters to which the Authority is required to have regard when determining the conditions of a licence.
+
+(6)Before making modifications under subsection (4)(b) the Commission shall give notice - 
+
+(a)stating that it proposes to make the modifications and setting them out;
+
+(b)stating the reason why it proposes to make them;
+
+(c)specifying the period (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed modifications may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(7)A notice under subsection (4)(a) or (6) shall be given - 
+
+(a)by publishing the notice in such manner as the Commission considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by the making of the modifications; and
+
+(b)by serving a copy on the Authority and the holder of the licence in question or, as the case may be, the relevant licence holders.
+
+(8)After making modifications under this section the Commission shall publish a notice stating that the modifications have been made and setting them out, with the reasons for making them.
+
+(9)Where, in consequence of a reference under section 12(1A), the Commission modifies under subsection (4)(b) the standard conditions of licences of any type, the Authority may make such incidental and consequential modifications as it considers necessary or expedient of any conditions of licences of that type granted before that time.
+
+(10)Where the Commission modifies the standard conditions of licences of any type as mentioned in subsection (9), the Authority - 
+
+(a)shall make (as nearly as may be) the same modifications of those conditions for the purposes of their incorporation in licences of that type granted after that time; and
+
+(b)shall publish the modifications made for those purposes in such manner as it considers appropriate.
+
+(11)The modification under this section of part of a standard condition of a particular licence in consequence of a reference under section 12(1) shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part.
+
+(12)The provisions mentioned in subsection (13) are to apply in relation to the exercise by the Commission of its functions under this section as if - 
+
+(a)in section 82(1) and (2) of the \[1973 c. 41.] Fair Trading Act 1973 references to a report of the Commission under that Act were references to a notice under subsection (4)(a), (6) or (8) of this section;
+
+(b)in section 85 of that Act references to an investigation on a reference made to the Commission were references to an investigation by the Commission for the purposes of the exercise of its functions under this section.
+
+(13)The provisions are - 
+
+(a)section 82(1) and (2) of the \[1973 c. 41.] Fair Trading Act 1973 (general provisions as to reports under that Act);
+
+(b)section 85 of that Act (attendance of witnesses and production of documents);
+
+(c)section 24 of the \[1980 c. 21.] Competition Act 1980 (modification of provisions about the Competition Commission's general functions); and
+
+(d)Part II of Schedule 7 to the \[1998 c. 41.] Competition Act 1998 (the Competition Commission's general functions).
+
+(14)This section does not apply to the modification of a licence following a report of the Commission made before the commencement of section 39 of the Utilities Act 2000."
+
+#### **40Modification by order under other enactments**
+
+(1)Section 15 of the 1989 Act (modification of licences by order under enactments other than the 1989 Act) is amended as follows.
+
+(2)In subsection (1), for "the conditions of a licence" there is substituted "the conditions of a particular licence, or the standard conditions of licences of any type mentioned in section 6(1),".
+
+(3)After subsection (2) there is inserted - 
+
+"(2A)The modification under subsection (1) of part of a standard condition of a particular licence shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part.
+
+(2B)Where the Secretary of State modifies under subsection (1) the standard conditions of licences of any type - 
+
+(a)he shall also make (as nearly as may be) the same modifications of those conditions for the purposes of their incorporation in licences of that type granted after that time; and
+
+(b)he may, after consultation with the Authority, make such incidental or consequential modifications as he considers necessary or expedient of any conditions of any licence of that type granted before that time.
+
+(2C)Where at any time the Secretary of State modifies standard conditions under subsection (2B)(a) for the purposes of their incorporation in licences granted after that time, he shall publish those modifications in such manner as he considers appropriate."
+
+(4)In subsection (2)(a), after "transmission" there is inserted ", distribution".
+
+(5)In subsection (2)(b), for the words from "and" to the end of the paragraph there is substituted "and at least one of the two or more enterprises - 
+
+(i)which ceased to be distinct enterprises; or
+
+(ii)in the application of that provision as it has effect by virtue of section 75(4)(e) of that Act, which would cease to be distinct enterprises,
+
+was or, as the case may be, is engaged in the carrying on of activities authorised or regulated by a licence."
+
+#### **41Transfer of electricity licences**
+
+After section 7 of the 1989 Act there is inserted - 
+
+##### **"7ATransfer of licences**
+
+(1)A licence - 
+
+(a)is capable of being transferred by the licence holder, with the consent of the Authority, in accordance with this section but subject to any term as to transfer contained in the licence;
+
+(b)may include conditions which must be complied with before the licence can be transferred.
+
+(2)A transfer may relate to the whole or any part of the licence.
+
+(3)The reference in subsection (2) to part of a licence is a reference to a part of the activities authorised by the licence (whether described by reference to activities being carried on by the licence holder or to activities which he is authorised by the licence to carry on).
+
+(4)Such consent may be given subject to compliance with such modification or other conditions as the Authority considers appropriate.
+
+(5)In the case of a partial transfer, conditions imposed under subsection (4) may make as respects so much of the licence as is proposed to be retained by the transferor provision different from that made as respects so much of the licence as is proposed to be transferred.
+
+(6)In deciding whether to give its consent to a proposed transfer, the Authority shall apply the same criteria as it would apply if the Authority were deciding whether - 
+
+(a)in the case of a general transfer, to grant a corresponding licence to the transferee; or
+
+(b)in the case of a partial transfer - 
+
+(i)to grant to the transferee a licence corresponding to so much of the licence as is proposed to be transferred; and
+
+(ii)to grant to the transferor a licence corresponding to so much of the licence as is proposed to be retained.
+
+(7)The Authority shall give the Secretary of State not less than 28 days' notice of any proposal to impose a modification condition.
+
+(8)If, before the expiry of the time specified in a notice under subsection (7), the Secretary of State directs the Authority not to impose the condition, the Authority shall comply with the direction.
+
+(9)Before giving consent to the transfer of a licence, the Authority shall give notice - 
+
+(a)stating that it proposes to grant consent to the transfer;
+
+(b)stating the reasons why it proposes to give consent; and
+
+(c)specifying the time from the date of publication of the notice (not being less than two months) within which representations or objections with respect to the transfer may be made,
+
+and shall consider any representations or objections that are duly made and not withdrawn.
+
+(10)A notice under subsection (9) shall be given by publishing the notice in such manner as the Authority considers appropriate for bringing it to the attention of persons likely to be affected by the transfer.
+
+(11)A purported transfer of a licence shall be void - 
+
+(a)if the licence is not capable of transfer or the Authority has not given its consent;
+
+(b)if the purported transfer is in breach of a condition of the licence; or
+
+(c)if there has, before the purported transfer, been a contravention of a condition subject to compliance with which the Authority's consent is given.
+
+(12)In this section - 
+
+* "transfer" includes any form of transfer or assignment or, in Scotland, assignation;
+* "modification condition" means a condition requiring or otherwise providing for the making of modifications to the conditions of a licence."
+
+#### **42Reasons for decisions under 1989 Act**
+
+After section 49 of the 1989 Act (keeping of register) there is inserted - 
+
+##### **"49AReasons for decisions**
+
+(1)This section applies to the following decisions of the Authority or the Secretary of State, namely - 
+
+(a)the revocation of a licence;
+
+(b)the modification of the conditions of a licence;
+
+(c)the giving of any directions or consent in pursuance of a condition included in a licence by virtue of section 7(3)(a) or (b);
+
+(d)the determination of a question referred in pursuance of a condition included in a licence by virtue of section 7(3)(c);
+
+(e)the determination of a dispute referred under section 23(1);
+
+(f)the making of a final order, the making or confirmation of a provisional order or the revocation of a final order or of a provisional order which has been confirmed.
+
+(2)As soon as reasonably practicable after making such a decision the Authority or the Secretary of State shall publish a notice stating the reasons for the decision in such manner as it or he considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be interested.
+
+(3)The Authority shall send a copy of a notice published in respect of a decision mentioned in paragraph (a), (b), (c), (d) or (f) of subsection (1) to the licence holder to whose licence, or to whom, the decision relates.
+
+(4)In preparing a notice under subsection (2) the Authority or the Secretary of State shall have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where it or he considers that publication of that matter would or might seriously and prejudicially affect the interests of that individual or body.
+
+(5)This section does not apply to a decision resulting in any provision which the Secretary of State has under section 49(4) directed the Authority not to enter in the register required to be kept under that section."
+
+#### **43Altering activities requiring electricity licence**
+
+After section 56 of the 1989 Act there is inserted - 
+
+##### _"Alteration of activities requiring licence_
+
+###### **56APower to alter activities requiring licence**
+
+(1)The Secretary of State may by order provide - 
+
+(a)that specified activities are to become licensable activities; or
+
+(b)that specified activities are to cease to be licensable activities.
+
+(2)For the purposes of this Part activities are licensable activities if undertaking them without the authority of a licence or exemption constitutes an offence under section 4(1).
+
+(3)An order under this section may make consequential, transitional, incidental or supplementary provision including - 
+
+(a)amendments (or repeals) in any provision of this Act or any other enactment; and
+
+(b)provision modifying any standard conditions of licences or (in the case of an order under subsection (1)(a)) provision determining the conditions which are to be standard conditions for the purposes of licences authorising the undertaking of activities which are to become licensable activities.
+
+(4)An order under this section may only provide for activities to become licensable activities if they are activities connected with the generation, transmission, distribution or supply of electricity.
+
+(5)An order under this section providing for activities to become licensable activities may only be made on the application of the Authority made in accordance with section 56B.
+
+(6)An order under this section providing for activities to cease to be licensable activities may be made either - 
+
+(a)on the application of the Authority made in accordance with section 56E; or
+
+(b)following consultation by the Secretary of State in accordance with section 56F.
+
+(7)An order under this section may provide that it is to remain in force only for a period specified in the order.
+
+(8)An order shall not be made under this section unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+###### **56BApplication by Authority for order including new activities**
+
+(1)If the Authority proposes to make an application for an order providing for activities to become licensable activities, it shall give notice - 
+
+(a)stating that it proposes to make an application for an order providing for the activities to become licensable activities;
+
+(b)setting out the conditions which it would expect such an order to determine to be standard conditions for the purposes of licences authorising the undertaking of the activities and any other conditions which it would expect to be included in such licences; and
+
+(c)specifying a reasonable period (not being less than 28 days from the date of publication of the notice) within which representations or objections may be made with respect to the proposal,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(2)The notice shall be given by serving a copy on the Council and by publishing it in such manner as the Authority considers appropriate for bringing it to the attention of - 
+
+(a)persons appearing to it to be carrying on, or be intending to carry on, the activities; and
+
+(b)any other persons appearing to it to be likely to be affected by an order providing for the activities to become licensable activities.
+
+(3)If an objection has been duly made (and not withdrawn) by a person who is carrying on or intends to carry on the activities, the Authority shall make a reference to the Competition Commission under section 56C before making the application.
+
+(4)In any other case where the Authority considers it appropriate to make a reference to the Commission under section 56C before making the application, the Authority may make such a reference.
+
+(5)If a reference is made to the Commission, the application shall not be made unless the Commission has reported on the reference that the fact that the activities to which the application relates are not licensable activities operates, or may be expected to operate, against the public interest.
+
+(6)The application shall set out - 
+
+(a)the activities which the Authority considers should become licensable activities; and
+
+(b)the conditions which the Authority would expect to be determined to be standard conditions for the purposes of licences authorising the undertaking of the activities in question and any other conditions which it would expect to be included in such licences.
+
+###### **56CReferences to Competition Commission**
+
+(1)A reference to the Competition Commission under this section shall require the Commission to investigate and report on whether the fact that the activities specified in the reference are not licensable activities operates, or may be expected to operate, against the public interest.
+
+(2)The Authority may, at any time, by notice given to the Commission vary the reference by adding to the activities specified in the reference or by excluding from the reference some of the activities so specified; and on receipt of such notice the Commission shall give effect to the variation.
+
+(3)The Authority shall specify in the reference, or a variation of the reference, for the purpose of assisting the Commission in carrying out the investigation on the reference - 
+
+(a)the conditions which the Authority would expect to be determined to be standard conditions for the purposes of licences authorising the undertaking of the activities specified in the reference and any other conditions which it would expect to be included in such licences; and
+
+(b)any effects adverse to the public interest which, in its opinion, the fact that the activities so specified are not licensable activities has or may be expected to have.
+
+(4)As soon as practicable after making the reference, or a variation of the reference, the Authority shall serve a copy of it on the Council and publish particulars of it in such manner as the Authority considers appropriate for bringing it to the attention of - 
+
+(a)persons appearing to the Authority to be carrying on, or be intending to carry on, the activities specified in it; and
+
+(b)any other persons appearing to the Authority to be likely to be affected by it.
+
+(5)The Authority shall, for the purpose of assisting the Commission in carrying out the investigation on the reference, give to the Commission - 
+
+(a)any information which is in its possession and which relates to matters falling within the scope of the investigation, and which is either requested by the Commission for that purpose or is information which in its opinion it would be appropriate for that purpose to give to the Commission without any such request; and
+
+(b)any other assistance which the Commission may require, and which it is within its power to give, in relation to any such matters,
+
+and the Commission shall take account of the information for the purpose of carrying out the investigation.
+
+(6)In determining for the purposes of this section whether the fact that particular activities are not licensable activities operates, or may be expected to operate, against the public interest, the Commission shall have regard to - 
+
+(a)the matters referred to in section 3A;
+
+(b)any social or environmental policies set out or referred to in guidance issued under section 3B; and
+
+(c)any advice given by the Health and Safety Commission or the Secretary of State under section 3C (advice about health and safety in relation to electricity).
+
+(7)The provisions mentioned in subsection (8) are to apply in relation to references under this section as if - 
+
+(a)the functions of the Commission in relation to those references were functions under the \[1973 c. 41.] Fair Trading Act 1973;
+
+(b)the expression "merger reference" included a reference under this section;
+
+(c)in section 70 of the \[1973 c. 41.] Fair Trading Act 1973 - 
+
+(i)references to the Secretary of State were references to the Authority; and
+
+(ii)the reference to three months were a reference to six months.
+
+(8)The provisions are - 
+
+(a)sections 70 (time limit for report on merger), 85 (attendance of witnesses and production of documents) and 93B (false or misleading information) of the \[1973 c. 41.] Fair Trading Act 1973;
+
+(b)Part II of Schedule 7 to the \[1998 c. 41.] Competition Act 1998 (performance of the Commission's general functions); and
+
+(c)section 24 of the \[1980 c. 21.] Competition Act 1980 (modification of provisions about performance of such functions).
+
+###### **56DReports on references**
+
+(1)In making a report on a reference under section 56C, the Competition Commission shall include in the report definite conclusions on whether the fact that the activities specified in the reference (or the reference as varied) are not licensable activities operates, or may be expected to operate, against the public interest.
+
+(2)The Commission shall also include in the report such an account of its reasons for those conclusions as in its opinion is expedient for facilitating proper understanding of the questions raised by the reference and of its conclusions.
+
+(3)Where the Commission concludes that the fact that particular activities are not licensable activities operates, or may be expected to operate, against the public interest, it shall specify in the report - 
+
+(a)the effects adverse to the public interest which that fact has or may be expected to have; and
+
+(b)any modifications to the conditions specified in the reference in accordance with section 56C(3)(a) which they consider appropriate.
+
+(4)Section 82 of the \[1973 c. 41.] Fair Trading Act 1973 (general provisions as to reports) shall apply in relation to reports of the Commission on references under section 56C as it applies to reports of the Commission under that Act.
+
+(5)A report of the Commission on a reference under section 56C shall be made to the Authority.
+
+(6)On receiving the report, the Authority shall send a copy of it to the Secretary of State.
+
+(7)Subject to subsection (8), the Authority shall, not less than 14 days after the copy is received by the Secretary of State, send another copy to the Council and publish that other copy in such manner as the Authority considers appropriate for bringing the report to the attention of persons likely to be affected by it.
+
+(8)If it appears to the Secretary of State that the publication of any matter in the report would be against the public interest or the commercial interests of any person, he may, before the end of the period of 14 days mentioned in subsection (7), direct the Authority to exclude that matter from the copy of the report to be sent to the Council and published under that subsection.
+
+###### **56EApplication by Authority for order excluding activities**
+
+(1)Before making an application for an order providing for activities to cease to be licensable activities, the Authority shall give notice - 
+
+(a)stating that it proposes to make an application for an order providing for the activities to cease to be licensable activities; and
+
+(b)specifying a reasonable period (not being less than 28 days from the date of publication of the notice) within which representations or objections may be made with respect to the proposal,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(2)The notice shall be given - 
+
+(a)by serving a copy on the Secretary of State and the Council; and
+
+(b)by publishing it in such manner as the Authority considers appropriate for bringing it to the attention of persons appearing to the Authority to be likely to be affected by such an order.
+
+(3)An application under this section shall set out - 
+
+(a)the activities which the Authority considers should cease to be licensable activities; and
+
+(b)the Authority's reasons for proposing that the order be made.
+
+###### **56FConsultation by Secretary of State about order excluding activities**
+
+(1)If the Secretary of State proposes to make an order providing for activities to cease to be licensable activities (otherwise than on an application by the Authority under section 56E), he shall give notice - 
+
+(a)stating that he proposes to make an order providing for the activities to cease to be licensable activities; and
+
+(b)specifying a reasonable period (not being less than 28 days from the date of publication of the notice) within which representations or objections may be made with respect to the proposal,
+
+and shall consider any representations or objections duly made (and not withdrawn).
+
+(2)The notice shall be given - 
+
+(a)by serving a copy on the Authority and the Council; and
+
+(b)by publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons appearing to him to be likely to be affected by such an order."
+
+### _Duties of electricity distributors_
+
+#### **44Duty to connect on request**
+
+For sections 16 and 17 of the 1989 Act (duty to supply on request and exceptions to that duty) there are substituted - 
+
+##### _"Duties of electricity distributors_
+
+###### **16Duty to connect on request**
+
+(1)An electricity distributor is under a duty - 
+
+(a)to make a connection between a distribution system of his and any premises, when required to do so by - 
+
+(i)the owner or occupier of the premises; or
+
+(ii)an authorised supplier acting with the consent of the owner or occupier of the premises,
+
+for the purpose of enabling electricity to be conveyed to or from the premises;
+
+(b)to make a connection between a distribution system of his and any distribution system of another authorised distributor, when required to do so by that authorised distributor for the purpose of enabling electricity to be conveyed to or from that other system.
+
+(2)Any duty under subsection (1) includes a duty to provide such electric lines or electrical plant as may be necessary to enable the connection to be used for the purpose for which it is required.
+
+(3)The duties under this section shall be performed subject to such terms as may be agreed under section 16A for so long as the connection is required.
+
+(4)In this section and sections 16A to 23 - 
+
+(a)any reference to making a connection includes a reference to maintaining the connection (and continuing to provide the necessary electric lines or electrical plant);
+
+(b)any reference to requiring a connection includes a reference to requiring the connection to be maintained (and the continued provision of the necessary electric lines and electrical plant); and
+
+(c)any reference to the provision of any electric line or electrical plant is a reference to the provision of such a line or an item of electrical plant either by the installation of a new one or by the modification of an existing one.
+
+(5)The duties under this section are subject to the following provisions of this Part and any regulations made under those provisions.
+
+###### **16AProcedure for requiring a connection**
+
+(1)Where a person requires a connection to be made by an electricity distributor in pursuance of section 16(1), he shall give the distributor a notice requiring him to offer terms for making the connection.
+
+(2)That notice must specify - 
+
+(a)the premises or distribution system to which a connection to the distributor's system is required;
+
+(b)the date on or by which the connection is to be made; and
+
+(c)the maximum power at which electricity may be required to be conveyed through the connection.
+
+(3)The person requiring a connection shall also give the distributor such other information in relation to the required connection as the distributor may reasonably request.
+
+(4)A request under subsection (3) shall be made as soon as practicable after the notice under subsection (1) is given (if not made before that time).
+
+(5)As soon as practicable after receiving the notice under subsection (1) and any information requested under subsection (3) the distributor shall give to the person requiring the connection a notice - 
+
+(a)stating the extent (if any) to which his proposals are acceptable to the distributor and specifying any counter proposals made by him;
+
+(b)specifying any payment which that person will be required to make under section 19(1) or regulations under section 19(2);
+
+(c)specifying any security which that person will be required to give under section 20; and
+
+(d)stating any other terms which that person will be required to accept under section 21.
+
+(6)A notice under subsection (5) shall also contain a statement of the effect of section 23.
+
+###### **17Exceptions from duty to connect**
+
+(1)Nothing in section 16(1) requires an electricity distributor to make a connection if and to the extent that - 
+
+(a)he is prevented from doing so by circumstances not within his control;
+
+(b)circumstances exist by reason of which his doing so would or might involve his being in breach of regulations under section 29, and he has taken all such steps as it was reasonable to take both to prevent the circumstances from occurring and to prevent them from having that effect; or
+
+(c)it is not reasonable in all the circumstances for him to be required to do so.
+
+(2)Without prejudice to the generality of subsection (1) an electricity distributor is not required to make a connection if - 
+
+(a)making the connection involves the distributor doing something which, without the consent of another person, would require the exercise of a power conferred by any provision of Schedule 3 or 4;
+
+(b)the distributor's licence does not provide for that provision to have effect in relation to him; and
+
+(c)any necessary consent has not, at the time the request is made, been given.
+
+(3)Subsection (1)(c) does not permit an electricity distributor to disconnect any premises or distribution system to which a connection is being maintained by him unless the distributor gives - 
+
+(a)where the connection is to premises, to the occupier or to the owner if the premises are not occupied;
+
+(b)where the connection is to another distribution system, to the person who is authorised by a licence or exemption to run that system,
+
+not less than seven working days' notice of his intention to disconnect the premises or distribution system."
+
+#### **45Abolition of tariffs**
+
+Section 18 of the 1989 Act (charging by reference to tariffs) shall cease to have effect.
+
+#### **46Power to recover expenditure**
+
+(1)Section 19 of the 1989 Act (power to recover expenditure) is amended as follows.
+
+(2)In subsection (1) for "a public electricity supplier", "supplier" and "supply of electricity" there is substituted respectively "an electricity distributor", "distributor" and "connection".
+
+(3)For subsection (2) there is substituted - 
+
+"(2)The Secretary of State may, after consultation with the Authority, make provision by regulations for entitling an electricity distributor to require a person requiring a connection in pursuance of section 16(1) to pay to the distributor, in respect of any expenses reasonably incurred in providing any electric line or electrical plant used for the purpose of making the connection, such amount as may be reasonable in all the circumstances if - 
+
+(a)the connection is required within the prescribed period after the provision of the line or plant; and
+
+(b)a person ("the initial contributor") has made a payment to the distributor in respect of those expenses, the line or plant having been provided for the purpose of making a connection to any premises or distribution system as required by that person."
+
+(4)In subsection (3) for "a public electricity supplier" there is substituted "an electricity distributor."
+
+(5)In subsection (4) for the words from "maintaining" to the end there is substituted "continuing to provide it".
+
+#### **47Power to require security**
+
+(1)Section 20 of the 1989 Act (power to require security) is amended as follows.
+
+(2)For subsection (1) there is substituted - 
+
+"(1)Subject to the following provisions of this section, an electricity distributor may require any person who requires a connection in pursuance of section 16(1) to give him reasonable security for the payment to him under section 19 in respect of the provision of any electric line or electrical plant.
+
+(1A)If a person fails to give any security required under subsection (1), or the security given has become invalid or insufficient, and he fails to provide alternative or additional security, the electricity distributor may if he thinks fit - 
+
+(a)if the connection has not been made, refuse to provide the line or plant for so long as the failure continues; or
+
+(b)if the connection is being maintained, disconnect the premises or distribution system in question."
+
+(3)In subsection (3), for "a public electricity supplier" and "supplier" (in each place) there is substituted respectively "an electricity distributor" and "distributor".
+
+(4)Subsections (2) and (4) shall cease to have effect.
+
+#### **48Additional terms of connection**
+
+For section 21 of the 1989 Act (additional terms of connection) there is substituted - 
+
+##### **"21Additional terms of connection**
+
+An electricity distributor may require any person who requires a connection in pursuance of section 16(1) above to accept in respect of the making of the connection - 
+
+(a)any restrictions which must be imposed for the purpose of enabling the distributor to comply with regulations under section 29;
+
+(b)any terms which it is reasonable in all the circumstances for that person to be required to accept; and
+
+(c)without prejudice to the generality of paragraph (b), any terms restricting any liability of the distributor for economic loss resulting from negligence which it is reasonable in all the circumstances for that person to be required to accept."
+
+#### **49Special agreements with respect to connection**
+
+For section 22 of the 1989 Act (special agreements with respect to supply) there is substituted - 
+
+##### **"22Special agreements with respect to connection**
+
+(1)Notwithstanding anything in sections 16 to 21, a person who requires a connection in pursuance of section 16(1) may enter into an agreement with the electricity distributor (referred to in this Part as a "special connection agreement") for the making of the connection on such terms as may be agreed by the parties.
+
+(2)So long as a special connection agreement is effective, the rights and liabilities of the parties shall be those arising under the agreement and not those provided for by sections 16 to 21.
+
+(3)Nothing in subsection (2) prevents the giving of a notice under section 16A(1) requiring a connection to be made as from the time when a special connection agreement ceases to be effective."
+
+#### **50General duties of electricity distributors**
+
+In section 9 of the 1989 Act (general duties of licence holders), for subsection (1) there is substituted - 
+
+"(1)It shall be the duty of an electricity distributor - 
+
+(a)to develop and maintain an efficient, co-ordinated and economical system of electricity distribution;
+
+(b)to facilitate competition in the supply and generation of electricity."
+
+### _Electricity code and metering_
+
+#### **51The electricity code**
+
+(1)In section 24 of the 1989 Act (the public electricity supply code), for "supply of electricity by public electricity suppliers" there is substituted "distribution and supply of electricity".
+
+(2)For Schedule 6 to the 1989 Act (the public electricity supply code) there is substituted the provisions of Schedule 4.
+
+#### **52Amendment of Schedule 7 to 1989 Act**
+
+Schedule 5 (which amends Schedule 7 to the 1989 Act) has effect.
+
+### _Powers of electricity licence holders_
+
+#### **53Powers of electricity licence holders**
+
+(1)Section 10 of the 1989 Act (powers of licence holders) is amended as follows.
+
+(2)In subsection (1), in paragraph (a) the words "a public electricity supplier or" shall cease to have effect and, in paragraph (b) after "to" (in the second place it appears) there is inserted "an electricity distributor or".
+
+(3)In subsection (3), for "A licence under section 6(1)(a) above" there is substituted "A generation licence".
+
+(4)After subsection (3) there is inserted - 
+
+"(3A)Subsection (3) applies in relation to any purpose connected with the supply to any premises of any gas or liquid subjected to a cooling effect produced in association with electricity as it applies to a purpose mentioned in that subsection."
+
+(5)In subsection (4), for "A licence under paragraph (b) or (c) of section 6(1) above" there is substituted "A transmission licence".
+
+### _Electricity performance standards_
+
+#### **54Standards of performance in individual cases**
+
+(1)In section 39 of the 1989 Act - 
+
+(a)in subsection (2)(a), after "section" there is inserted "or their rights under section 39A"; and
+
+(b)subsections (5), (5A) and (6) shall cease to have effect.
+
+(2)After section 39 of the 1989 Act there is inserted - 
+
+##### **"39AStandards of performance in individual cases: electricity distributors**
+
+(1)The Authority may with the consent of the Secretary of State make regulations prescribing such standards of performance in connection with the activities of electricity distributors, so far as affecting customers or potential customers of electricity suppliers, as in the Authority's opinion ought to be achieved in individual cases.
+
+(2)If an electricity distributor fails to meet a prescribed standard, he shall make to any person who is affected by the failure and is of a prescribed description such compensation as may be determined by or under the regulations.
+
+(3)The regulations may - 
+
+(a)prescribe circumstances in which electricity distributors are to inform customers or potential customers of electricity suppliers of their rights under this section;
+
+(b)prescribe such standards of performance in relation to any duty arising under paragraph (a) as, in the Authority's opinion, ought to be achieved in all cases;
+
+(c)make provision as to the manner in which compensation under this section is to be made;
+
+(d)prescribe circumstances in which electricity distributors are to be exempted from any requirements of the regulations or this section; and
+
+(e)if the Authority is of the opinion that the differences are such that no electricity distributor would be unduly disadvantaged in competing with other electricity distributors, make different provision with respect to different electricity distributors.
+
+(4)Provision made under subsection (3)(c) may - 
+
+(a)require or permit compensation to be made on behalf of electricity distributors by electricity suppliers to customers or potential customers; and
+
+(b)require electricity suppliers to provide services to electricity distributors in connection with the making of compensation under this section.
+
+(5)The making of compensation under this section in respect of any failure to meet a prescribed standard shall not prejudice any other remedy which may be available in respect of the act or omission which constituted that failure.
+
+(6)In this section "prescribed" means prescribed by regulations under this section.
+
+##### **39BStandards of performance in individual cases: disputes**
+
+(1)Any dispute arising under section 39 or 39A or regulations made under either of those sections - 
+
+(a)may be referred to the Authority by either party or, with the agreement of either party, by the Council; and
+
+(b)on such a reference, shall be determined by order made by the Authority or, if it thinks fit, by such person (other than the Council) as may be prescribed.
+
+(2)A person making an order under subsection (1) shall include in the order his reasons for reaching his decision with respect to the dispute.
+
+(3)The practice and procedure to be followed in connection with any such determination shall be such as may be prescribed.
+
+(4)An order under subsection (1) shall be final and shall be enforceable - 
+
+(a)in England and Wales, as if it were a judgment of a county court; and
+
+(b)in Scotland, as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff.
+
+(5)In this section "prescribed" means prescribed by regulations made by the Authority with the consent of the Secretary of State."
+
+#### **55Overall standards of performance**
+
+After section 40 of the 1989 Act there is inserted - 
+
+##### **"40AOverall standards of performance: electricity distributors**
+
+(1)The Authority may from time to time - 
+
+(a)determine such standards of overall performance in connection with the activities of electricity distributors as, in its opinion, ought to be achieved by them; and
+
+(b)arrange for the publication, in such form and in such manner as it considers appropriate, of the standards so determined.
+
+(2)Different standards may be determined for different electricity distributors if the Authority is of the opinion that the differences are such that no electricity distributor would be unduly disadvantaged in competing with other electricity distributors.
+
+(3)It shall be the duty of every electricity distributor to conduct his business in such a way as can reasonably be expected to lead to his achieving the standards set under this section."
+
+#### **56Standards of performance: procedures**
+
+After section 40A of the 1989 Act (which is inserted by section 55 above) there is inserted - 
+
+##### **"40BProcedures for prescribing or determining standards of performance**
+
+(1)Before prescribing standards of performance in regulations under section 39 or 39A, or determining standards of performance under section 40 or 40A, the Authority shall - 
+
+(a)arrange for such research as the Authority considers appropriate with a view to discovering the views of a representative sample of persons likely to be affected and consider the results;
+
+(b)publish a notice of its proposals in accordance with subsections (2) and (3) and consider any representations which are duly made in respect of those proposals; and
+
+(c)consult the Council and other persons or bodies mentioned in subsection (4).
+
+(2)The notice required by subsection (1)(b) is a notice - 
+
+(a)stating that the Authority proposes to prescribe or determine standards of performance and setting out the standards of performance proposed;
+
+(b)stating the reasons why it proposes to prescribe or determine those standards of performance; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations with respect to the proposals may be made.
+
+(3)A notice required by subsection (1)(b) shall be published in such manner as the Authority considers appropriate for the purpose of bringing it to the attention of those likely to be affected by the proposals.
+
+(4)The persons or bodies to be consulted by the Authority under subsection (1)(c) are - 
+
+(a)electricity suppliers (in the case of standards of performance under section 39 or 40) or electricity distributors and electricity suppliers (in the case of standards of performance under section 39A or 40A); and
+
+(b)persons or bodies appearing to the Authority to be representative of persons likely to be affected by the regulations or determination.
+
+(5)The Authority shall make arrangements for securing that notices under subsection (1)(b), regulations under section 39 or 39A and determinations under section 40 or 40A are made available to the public by whatever means it considers appropriate."
+
+#### **57Information with respect to levels of performance**
+
+(1)Section 42 of the 1989 Act is amended as follows.
+
+(2)In subsection (1), paragraph (c) (and the word "and" preceding it) shall cease to have effect.
+
+(3)After subsection (1) there is inserted - 
+
+"(1A)The Authority shall from time to time collect information with respect to - 
+
+(a)the compensation made by electricity distributors under section 39A above;
+
+(b)the levels of overall performance achieved by electricity distributors."
+
+(4)In subsection (2) for the words from the beginning to "year" there is substituted "At such times" and in paragraph (b) the words "or 41 above" shall cease to have effect.
+
+(5)After subsection (2) there is inserted - 
+
+"(2A)At such times as may be specified in a direction given by the Authority, each electricity distributor shall furnish to the Authority the following information, namely - 
+
+(a)as respects each standard prescribed by regulations under section 39A, the number of cases in which compensation was made and the aggregate amount or value of that compensation; and
+
+(b)as respects each standard determined under section 40A, such information with respect to the level of performance achieved by the distributor as may be so specified."
+
+(6)Subsection (3) shall cease to have effect.
+
+#### **58Information to be given to customers**
+
+For section 42A of the 1989 Act there is substituted - 
+
+##### **"42AInformation to be given to customers about overall performance**
+
+(1)The Authority may make regulations requiring such information as may be specified or described in the regulations about - 
+
+(a)the standards of overall performance determined under section 40 or 40A; and
+
+(b)the levels of performance achieved as respects those standards,
+
+to be given by electricity suppliers or electricity distributors to customers or potential customers of electricity suppliers.
+
+(2)Regulations under this section may include provision - 
+
+(a)specifying the form and manner in which and the frequency with which information is to be given; and
+
+(b)requiring information about the matters mentioned in subsection (1)(a) or (b) and relating to electricity distributors to be given by electricity distributors to electricity suppliers and by electricity suppliers to their customers or potential customers."
+
+### _Enforcement of obligations_
+
+#### **59Financial penalties**
+
+(1)After section 27 of the 1989 Act there is inserted - 
+
+##### **"27APenalties**
+
+(1)Where the Authority is satisfied that a licence holder - 
+
+(a)has contravened or is contravening any relevant condition or requirement; or
+
+(b)has failed or is failing to achieve any standard of performance prescribed under section 39 or 39A,
+
+the Authority may, subject to section 27C, impose on the licence holder a penalty of such amount as is reasonable in all the circumstances of the case.
+
+(2)The Authority shall not impose a penalty on a licence holder under subsection (1) where it is satisfied that the most appropriate way of proceeding is under the \[1998 c. 41.] Competition Act 1998.
+
+(3)Before imposing a penalty on a licence holder under subsection (1) the Authority shall give notice - 
+
+(a)stating that it proposes to impose a penalty and the amount of the penalty proposed to be imposed;
+
+(b)setting out the relevant condition or requirement or the standard of performance in question;
+
+(c)specifying the acts or omissions which, in the opinion of the Authority, constitute the contravention or failure in question and the other facts which, in the opinion of the Authority, justify the imposition of a penalty and the amount of the penalty proposed; and
+
+(d)specifying the period (not being less than 21 days from the date of publication of the notice) within which representations or objections with respect to the proposed penalty may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(4)Before varying any proposal stated in a notice under subsection (3)(a) the Authority shall give notice - 
+
+(a)setting out the proposed variation and the reasons for it; and
+
+(b)specifying the period (not being less than 21 days from the date of publication of the notice) within which representations or objections with respect to the proposed variation may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(5)As soon as practicable after imposing a penalty, the Authority shall give notice - 
+
+(a)stating that it has imposed a penalty on the licence holder and its amount;
+
+(b)setting out the relevant condition or requirement or the standard of performance in question;
+
+(c)specifying the acts or omissions which, in the opinion of the Authority, constitute the contravention or failure in question and the other facts which, in the opinion of the Authority, justify the imposition of the penalty and its amount; and
+
+(d)specifying a date, no earlier than the end of the period of 42 days from the date of service of the notice on the licence holder, by which the penalty is required to be paid.
+
+(6)The licence holder may, within 21 days of the date of service on him of a notice under subsection (5), make an application to the Authority for it to specify different dates by which different portions of the penalty are to be paid.
+
+(7)Any notice required to be given under this section shall be given - 
+
+(a)by publishing the notice in such manner as the Authority considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them;
+
+(b)by serving a copy of the notice on the licence holder; and
+
+(c)by serving a copy of the notice on the Council.
+
+(8)No penalty imposed by the Authority under this section may exceed 10 per cent. of the turnover of the licence holder (determined in accordance with provisions specified in an order made by the Secretary of State).
+
+(9)An order under subsection (8) shall not be made unless a draft of the instrument containing it has been laid before and approved by a resolution of each House of Parliament.
+
+(10)Any sums received by the Authority by way of penalty under this section shall be paid into the Consolidated Fund.
+
+(11)The power of the Authority under subsection (1) is not exercisable in respect of any contravention or failure before the commencement of section 59 of the Utilities Act 2000.
+
+##### **27BStatement of policy with respect to penalties**
+
+(1)The Authority shall prepare and publish a statement of policy with respect to the imposition of penalties and the determination of their amount.
+
+(2)In deciding whether to impose a penalty, and in determining the amount of any penalty, in respect of a contravention or failure the Authority shall have regard to its statement of policy most recently published at the time when the contravention or failure occurred.
+
+(3)The Authority may revise its statement of policy and where it does so shall publish the revised statement.
+
+(4)Publication under this section shall be in such manner as the Authority considers appropriate for the purpose of bringing the matters contained in the statement of policy to the attention of persons likely to be affected by them.
+
+(5)The Authority shall undertake such consultation as it considers appropriate when preparing or revising its statement of policy.
+
+##### **27CTime limits on the imposition of financial penalties**
+
+(1)Where no final or provisional order has been made in relation to a contravention or failure, the Authority may not impose a penalty in respect of the contravention or failure later than the end of the period of 12 months from the time of the contravention or failure, unless before the end of that period - 
+
+(a)the notice under section 27A(3) relating to the penalty is served on the licence holder under section 27A(7), or
+
+(b)a notice relating to the contravention or failure is served on the licence holder under section 28(2).
+
+(2)Where a final or provisional order has been made in relation to a contravention or failure, the Authority may not impose a penalty in respect of the contravention or failure unless the notice relating to the penalty under section 27A(3) was served on the licence holder under section 27A(7) - 
+
+(a)within three months from the confirmation of the provisional order or the making of the final order, or
+
+(b)where the provisional order is not confirmed, within six months from the making of the provisional order.
+
+##### **27DInterest and payment of instalments**
+
+(1)If the whole or any part of a penalty is not paid by the date by which it is required to be paid, the unpaid balance from time to time shall carry interest at the rate for the time being specified in section 17 of the \[1838 c. 110.] Judgments Act 1838.
+
+(2)If an application is made under subsection (6) of section 27A in relation to a penalty, the penalty is not required to be paid until the application has been determined.
+
+(3)If the Authority grants an application under that subsection in relation to a penalty but any portion of the penalty is not paid by the date specified in relation to it by the Authority under that subsection, the Authority may where it considers it appropriate require so much of the penalty as has not already been paid to be paid immediately.
+
+##### **27EAppeals**
+
+(1)If the licence holder on whom a penalty is imposed is aggrieved by - 
+
+(a)the imposition of the penalty;
+
+(b)the amount of the penalty; or
+
+(c)the date by which the penalty is required to be paid, or the different dates by which different portions of the penalty are required to be paid,
+
+the licence holder may make an application to the court under this section.
+
+(2)An application under subsection (1) must be made - 
+
+(a)within 42 days from the date of service on the licence holder of a notice under section 27A(5), or
+
+(b)where the application relates to a decision of the Authority on an application by the licence holder under section 27A(6), within 42 days from the date the licence holder is notified of the decision.
+
+(3)On any such application, where the court considers it appropriate to do so in all the circumstances of the case and is satisfied of one or more of the grounds falling within subsection (4), the court - 
+
+(a)may quash the penalty;
+
+(b)may substitute a penalty of such lesser amount as the court considers appropriate in all the circumstances of the case; or
+
+(c)in the case of an application under subsection (1)(c), may substitute for the date or dates imposed by the Authority an alternative date or dates.
+
+(4)The grounds falling within this subsection are - 
+
+(a)that the imposition of the penalty was not within the power of the Authority under section 27A;
+
+(b)that any of the requirements of subsections (3) to (5) or (7) of section 27A have not been complied with in relation to the imposition of the penalty and the interests of the licence holder have been substantially prejudiced by the non-compliance; or
+
+(c)that it was unreasonable of the Authority to require the penalty imposed, or any portion of it, to be paid by the date or dates by which it was required to be paid.
+
+(5)If an application is made under this section in relation to a penalty, the penalty is not required to be paid until the application has been determined.
+
+(6)Where the court substitutes a penalty of a lesser amount it may require the payment of interest on the substituted penalty at such rate, and from such date, as it considers just and equitable.
+
+(7)Where the court specifies as a date by which the penalty, or a portion of the penalty, is to be paid a date before the determination of the application under this section it may require the payment of interest on the penalty, or portion, from that date at such rate as it considers just and equitable.
+
+(8)Except as provided by this section, the validity of a penalty shall not be questioned by any legal proceedings whatever.
+
+(9)In this section "the court" means - 
+
+(a)in relation to England and Wales, the High Court; and
+
+(b)in relation to Scotland, the Court of Session.
+
+##### **27FRecovery of penalties**
+
+Where a penalty imposed under section 27A(1), or any portion of it, has not been paid by the date on which it is required to be paid and - 
+
+(a)no application relating to the penalty has been made under section 27E during the period within which such an application can be made, or
+
+(b)an application has been made under that section and determined,
+
+the Authority may recover from the licence holder, as a civil debt due to it, any of the penalty and any interest which has not been paid."
+
+(2)In section 28(1) of the 1989 Act (power to require information, etc.), for the words from "the Director" in the first place they appear, to "42B below" there is substituted "the Authority that a licence holder - 
+
+(a)may be contravening, or may have contravened, any relevant condition or requirement; or
+
+(b)may be failing, or may have failed, to achieve any standard of performance prescribed under section 39 or 39A,
+
+the Authority may, for any purpose connected with such of its functions under section 25 or 27A to 27F".
+
+(3)In section 49 of the 1989 Act (keeping of a register), after subsection (2)(d) there is inserted "; and
+
+(e)every penalty imposed under section 27A(1) and every notice under section 27A(5)."
+
+#### **60Licence enforcement**
+
+(1)The 1989 Act is amended as follows.
+
+(2)In subsection (1) of section 25 (orders for securing compliance with certain provisions), for "and (5)" there is substituted ", (5) and (5A)".
+
+(3)In subsections (2), (4) and (6) of that section, for "subsection (5)" there is substituted "subsections (5) and (5A)".
+
+(4)In subsection (5) of that section, paragraphs (b) and (c) shall cease to have effect.
+
+(5)After subsection (5) of that section there is inserted - 
+
+"(5A)The Authority is not required to make a final order or make or confirm a provisional order if it is satisfied - 
+
+(a)that the licence holder has agreed to take and is taking all such steps as it appears to the Authority for the time being to be appropriate for the licence holder to take for the purpose of securing or facilitating compliance with the condition or requirement in question; or
+
+(b)that the contraventions were or the apprehended contraventions are of a trivial nature."
+
+(6)In section 26 (procedural requirements for making orders under section 25), in subsections (1)(c) and (4)(b), for "28" there is substituted "21".
+
+(7)Subsections (2) to (6) do not have effect in relation to - 
+
+(a)a provisional order which has been made before the commencement of the subsection making the amendment; or
+
+(b)a final order in respect of which notice has been given under section 26(1) of the 1989 Act before the commencement of the subsection making the amendment.
+
+### _Remuneration and service standards_
+
+#### **61Links between directors' remuneration and electricity service standards**
+
+After section 42B of the 1989 Act there is inserted - 
+
+##### **"42CRemuneration and service standards**
+
+(1)This section applies to any company which is authorised by a licence to carry on activities subject to price regulation.
+
+(2)As soon as reasonably practicable after the end of each financial year of the company it must make a statement to the Authority - 
+
+(a)disclosing whether or not remuneration has been paid or become due during that financial year to the directors of the company as a result of arrangements falling within subsection (3); and
+
+(b)where such remuneration has been paid or become due, describing the arrangements and the remuneration.
+
+(3)Arrangements fall within this subsection if they are arrangements for linking the remuneration of the directors of the company to levels of performance as respects service standards in connection with activities subject to price regulation.
+
+(4)A description under subsection (2)(b) must include in particular - 
+
+(a)a statement of when the arrangements were made;
+
+(b)a description of the service standards in question;
+
+(c)an explanation of the means by which the levels of performance as respects those service standards are assessed; and
+
+(d)an explanation of how the remuneration was calculated.
+
+(5)The statement required by subsection (2) must also state - 
+
+(a)whether or not there are in force in respect of the financial year during which the statement is made arrangements falling within subsection (3); or
+
+(b)if not, whether the company intends that such arrangements will be in force at some time during that financial year,
+
+and if there are, or it is intended that there will be, such arrangements in force the statement must describe those arrangements.
+
+(6)A description under subsection (5) must - 
+
+(a)include in particular the matters listed in subsection (4)(a), (b) and (c); and
+
+(b)where the arrangements described are different from any arrangements described under subsection (2)(b), state the likely effect of those differences on the remuneration of each director of the company.
+
+(7)The statement required by subsection (2) must be made to the Authority in such manner as may be required by the Authority.
+
+(8)The statement required by subsection (2) - 
+
+(a)must be published by the company making the statement in such manner as it reasonably considers will secure adequate publicity for it; and
+
+(b)may be published by the Authority in such manner as it may consider appropriate.
+
+(9)The duty of a company under this section applies in respect of any person who has at any time been a director of the company.
+
+(10)In this section - 
+
+* "activities subject to price regulation", in relation to any company, are activities for which - 
+
+  (a)
+
+  a maximum price which may be charged by the company, or a method for calculating such a maximum price; or
+
+  (b)
+
+  a maximum revenue which may be received by the company, or a method for calculating such a maximum revenue,
+
+  is determined by or under the licence granted under this Part;
+
+* "company" means a company within the meaning of the \[1985 c. 6.] Companies Act 1985 which is limited by shares;
+
+* "remuneration" in relation to a director of a company - 
+
+  (a)
+
+  means any form of payment, consideration or other benefit (including pension benefit), paid or due to or in respect of the director; and
+
+  (b)
+
+  includes remuneration in respect of any of his services while a director of the company;
+
+* "service standards" in relation to any company, means standards relating to the quality of service received by customers or potential customers of the company, including any such standards which are - 
+
+  (a)
+
+  set by or under any conditions included in a licence granted under this Part;
+
+  (b)
+
+  prescribed by the Authority in regulations made under section 39 or 39A;
+
+  (c)
+
+  determined by the Authority under section 40 or 40A; or
+
+  (d)
+
+  set or agreed to by the company."
+
+### _Electricity from renewable sources_
+
+#### **62Obligation in connection with electricity from renewable sources**
+
+For section 32 of the 1989 Act there is substituted - 
+
+##### **"32Obligation in connection with electricity from renewable sources**
+
+(1)The Secretary of State may by order impose on each electricity supplier falling within a specified description (a "designated electricity supplier") an obligation to do what is set out in subsection (3) (and that obligation is referred to in this section and sections 32A to 32C as the "renewables obligation").
+
+(2)The descriptions of electricity supplier upon which an order may impose the renewables obligation are those supplying electricity - 
+
+(a)in Great Britain;
+
+(b)in England and Wales; or
+
+(c)in Scotland,
+
+excluding such categories of supplier (if any) as are specified.
+
+(3)Subject to the provisions of this section and sections 32A and 32C, the renewables obligation is that the designated electricity supplier must, before a specified day (or before each of several specified days, or before a specified day in each year), produce to the Authority evidence of a specified kind showing - 
+
+(a)that it has supplied to customers in Great Britain during a specified period such amount of electricity generated by using renewable sources as is specified in relation to such a supplier; or
+
+(b)that another electricity supplier has done so (or that two or more others have done so); or
+
+(c)that, between them, they have done so.
+
+(4)If the order applies only to electricity suppliers in part of Great Britain, it may specify that the only electricity supplied which counts towards discharging the renewables obligation is electricity supplied to customers in that part of Great Britain.
+
+(5)Evidence of the supply of electricity may not be produced more than once in relation to the same electricity.
+
+(6)In the case of electricity generated by a generating station fuelled or driven partly by renewable sources and partly by fossil fuel, only the proportion attributable to the renewable sources can count towards discharging the renewables obligation (but this is subject to section 32A(1)(g)).
+
+(7)Before making an order, the Secretary of State must consult - 
+
+(a)the Authority;
+
+(b)the Council;
+
+(c)the electricity suppliers to whom the proposed order would apply;
+
+(d)the generators of electricity from renewable sources; and
+
+(e)such other persons, if any, as he considers appropriate.
+
+(8)In this section - 
+
+* "fossil fuel" means coal, substances produced directly or indirectly from coal, lignite, natural gas, crude liquid petroleum, or petroleum products (and "natural gas" and "petroleum products" have the same meanings as in the \[1976 c. 76.] Energy Act 1976);
+* "renewable sources" means sources of energy other than fossil fuel or nuclear fuel, but includes waste of which not more than a specified proportion is waste which is, or is derived from, fossil fuel;
+* "specified" means specified in the order.
+
+(9)An order under this section shall not be made unless a draft of the instrument containing it has been laid before, and approved by a resolution of, each House of Parliament."
+
+#### **63Orders under section 32: supplementary**
+
+After section 32 of the 1989 Act there is inserted - 
+
+##### **"32AOrders under section 32: supplementary**
+
+(1)An order under section 32 may make provision generally in relation to the renewables obligation imposed by the order, and may in particular specify - 
+
+(a)different obligations for successive periods of time;
+
+(b)that only electricity generated using specified descriptions of renewable source is to count towards discharging the obligation (or that such electricity is to count only up to a specified amount);
+
+(c)that only electricity generated by specified descriptions of generating station is to count towards discharging the obligation (or that such electricity is to count only up to a specified amount);
+
+(d)that a specified minimum amount of electricity generated as mentioned in paragraph (b) or (c) is to be counted towards the discharge of the renewables obligation;
+
+(e)how the amount of electricity supplied by an electricity supplier (whether generally or to particular customers or descriptions of customer) is to be determined;
+
+(f)how the proportion referred to in section 32(6) or in the definition of "renewable sources" in section 32(8) is to be determined;
+
+(g)the consequences for the discharge of the renewables obligation if a generating station of the type mentioned in section 32(6) uses more than a specified proportion of fossil fuel during a specified period (which may include the consequence that none of the electricity generated by that generating station during that period is to count towards discharging the obligation);
+
+(h)that specified information, or information of a specified nature, is to be given to the Authority (in addition to the evidence referred to in section 32(3)), and the form in which it is to be given.
+
+(2)An order may, in relation to any specified period ("the current period") - 
+
+(a)provide that evidence of electricity supplied in a later period may, when available, be counted towards discharging the renewables obligation for the current period;
+
+(b)provide that evidence of electricity supplied in the current period may, in a later period, be counted towards discharging the renewables obligation for that period;
+
+(c)specify how much later the later period referred to in paragraph (a) or (b) may be;
+
+(d)specify a maximum proportion of the renewables obligation for any period which may be discharged as mentioned in paragraph (a) or (b);
+
+(e)specify a maximum proportion of electricity supplied in any period evidence of which may be counted towards discharging the renewables obligation for a different period.
+
+(3)An order may make - 
+
+(a)different provision for different cases or circumstances; and
+
+(b)different provision in relation to different suppliers,
+
+if the Secretary of State is of the opinion that the differences are such that no electricity supplier would be unduly disadvantaged in competing with other electricity suppliers.
+
+(4)An order may provide for the Authority to require an electricity supplier to provide it with information, or with information of a particular kind, which is in its opinion relevant to the question whether the supplier is discharging, or has discharged, the renewables obligation.
+
+(5)That information must be given to the Authority in whatever form it requires.
+
+(6)No person shall be required by virtue of this section to provide any information which he could not be compelled to give in evidence in civil proceedings in the High Court or, in Scotland, the Court of Session.
+
+(7)An order may make further provision as to the functions of the Authority in relation to the obligation imposed by the order."
+
+#### **64Green certificates**
+
+After section 32A of the 1989 Act there is inserted - 
+
+##### **"32BGreen certificates**
+
+(1)An order under section 32 may provide for the Authority to issue from time to time, in accordance with such criteria (if any) as are specified in the order, a certificate to the operator of a generating station or to an electricity supplier.
+
+(2)A certificate is to certify - 
+
+(a)that the generating station or, in the case of a certificate issued to an electricity supplier, a generating station specified in the certificate, has generated from renewable sources the amount of electricity stated in the certificate; and
+
+(b)that it has been supplied to customers in Great Britain (or the part of Great Britain stated in the certificate).
+
+(3)If an electricity supplier produces a certificate to the Authority, it is to count for the purposes of section 32(3) as sufficient evidence of the facts certified."
+
+#### **65Alternative way of discharging renewables obligation: payments**
+
+After section 32B of the 1989 Act there is inserted - 
+
+##### **"32CPayment as alternative to complying with order under section 32**
+
+(1)An order under section 32 may provide that instead of producing evidence under section 32(3), an electricity supplier may discharge (in whole or in part) its renewables obligation (or its obligation in relation to a particular period) by making a payment to the Authority.
+
+(2)The order may make provision - 
+
+(a)as to the sum which for the purposes of subsection (1) is to correspond to the supply of a given amount of electricity;
+
+(b)for different such sums in relation to different periods;
+
+(c)for different such sums in relation to electricity generated in different ways specified in the order (such as those referred to in section 32A(1)(b) and (c)); and
+
+(d)for any such sum to be adjusted from time to time for inflation by a method specified in the order (which may refer to a specified scale or index or to other specified data of any description, including such a scale or index or such data in a form not current when the order was made, but in a subsequent form attributable to revision or any other cause and taking effect afterwards).
+
+(3)The Authority must pay the amounts received to electricity suppliers in accordance with a system of allocation specified in the order.
+
+(4)The system of allocation specified in the order may provide for payments to specified categories of electricity supplier only."
+
+#### **66Abolition of fossil fuel levy**
+
+Section 33 of the 1989 Act shall cease to have effect.
+
+#### **67Supplementary**
+
+(1)The Secretary of State may by order made by statutory instrument make such provision as he considers necessary or expedient for the purpose of - 
+
+(a)providing for section 32 of the 1989 Act to have effect, before its substitution by section 62 of this Act, with modifications specified in the order (but if this power is exercised the modifications must include the omission of subsections (3) and (4) of section 32);
+
+(b)saving orders under section 32 of the 1989 Act made before the coming into force of section 62;
+
+(c)preserving, modifying, replacing or otherwise dealing with arrangements (as mentioned in that section) made pursuant to such an order, including making provision for substituting different parties to the arrangements or for replacement arrangements to be between parties different from those party to the replaced arrangements;
+
+(d)requiring the continued payment of any fossil fuel levy payable by virtue of section 33 of the 1989 Act and providing for payments out of that levy despite the repeal of that section.
+
+(2)The power in subsection (1)(c) may be exercised both before the coming into force of section 62 and afterwards.
+
+(3)An order under this section may, in particular, provide for section 32 (apart from subsections (3) and (4)) or 33 of the 1989 Act (as they had effect immediately before the coming into force of section 62 or 66) to continue to have effect with modifications specified in the order.
+
+(4)An order under this section may, in particular - 
+
+(a)provide for what is to happen in relation to the fossil fuel levy and payments out of it if in any month - 
+
+(i)the cost referred to in section 33(5)(b) of the 1989 Act is greater than the cost referred to in section 33(5)(a) of the 1989 Act, or
+
+(ii)the same is true in relation to any other corresponding measures referred to in section 33 of the 1989 Act as modified under subsection (3);
+
+(b)provide in such a case for payments of amounts determined in accordance with the order (but not exceeding the difference between the sums referred to in paragraph (a)) to be made by, instead of to, the person to whom payments out of the fossil fuel levy would otherwise have been made.
+
+(5)An order under this section may provide - 
+
+(a)that any specified requirement contained in it is to be treated as a relevant requirement for the purposes of Part I of the 1989 Act; and
+
+(b)for one of those requirements to be that a person referred to in paragraph (a) or (b) of subsection (6) is not to act or omit to act as set out there,
+
+but while subsections (3) and (4) of section 32 of the 1989 Act remain in force an order may not provide for anything which would be an offence under section 32(3) to be treated as a relevant requirement.
+
+(6)The persons, acts and omissions referred to in subsection (5)(b) are - 
+
+(a)an act or omission by a person subject to requirements contained in the order which prevents any arrangements made pursuant to the order from securing such results as are specified in the order; and
+
+(b)an act or omission by a party to arrangements made pursuant to an order under section 32 of the 1989 Act made before the coming into force of section 62 of this Act (or such arrangements as modified or replaced by virtue of an order under this section) which prevents the arrangements from securing the result mentioned in subsection (2) of that section (or that subsection as modified by virtue of an order under this section), or such corresponding result as is specified in the order.
+
+(7)An order under this section may make different provision for different areas.
+
+(8)A statutory instrument containing an order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### _Miscellaneous_
+
+#### **68Modification of licences: electricity trading arrangements**
+
+(1)After section 15 of the \[1989 c. 29.] Electricity Act 1989 (modification of licences by order under other enactments) there is inserted - 
+
+##### **"15ALicence modifications relating to new electricity trading arrangements**
+
+(1)The Secretary of State may, in accordance with this section, modify - 
+
+(a)the conditions of a particular licence; or
+
+(b)the standard conditions of licences of any type mentioned in section 6(1),
+
+where he considers it necessary or expedient to do so for the purpose of implementing, or facilitating the operation of, new arrangements relating to the trading of electricity.
+
+(2)The power to modify licence conditions under paragraph (a) or (b) of subsection (1) includes power - 
+
+(a)to make modifications relating to the operation of transmission systems and distribution systems; and
+
+(b)to make incidental or consequential, or transitional, modifications.
+
+(3)Before making modifications under this section the Secretary of State shall consult the holder of any licence being modified and such other persons as he considers appropriate.
+
+(4)Any consultation undertaken by the Secretary of State before the commencement of this section shall be as effective, for the purposes of subsection (3), as if undertaken after that commencement.
+
+(5)Any modification of part of a standard condition of a licence under subsection (1)(a) shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part.
+
+(6)Where the standard conditions of licences of any type are modified under subsection (1)(b), the Secretary of State shall make (as nearly as may be) the same modifications of the standard conditions for the purposes of their incorporation in licences of that type granted after that time.
+
+(7)The Secretary of State shall publish any modifications under this section in such manner as he considers appropriate.
+
+(8)The power of the Secretary of State under this section may not be exercised after the end of the period of two years beginning with the passing of the Utilities Act 2000."
+
+(2)This section shall come into force on the passing of this Act.
+
+#### **69Help for disadvantaged groups of electricity customers**
+
+After section 43 of the 1989 Act there is inserted - 
+
+##### **"43AAdjustment of charges to help disadvantaged groups of customers**
+
+(1)If the Secretary of State considers that members of any group (a "disadvantaged group") of customers of authorised suppliers are treated less favourably than other customers of theirs as respects charges for electricity, he may make an order containing a scheme for the adjustment of charges for electricity with a view to eliminating or reducing the less favourable treatment.
+
+(2)The scheme may include - 
+
+(a)provision for the adjustment of charges by authorised distributors or authorised transmitters (as well as by suppliers);
+
+(b)in relation to charges payable to suppliers, provision for the adjustment of charges payable by customers who are not members of the disadvantaged group (as well as by persons who are).
+
+(3)The scheme shall - 
+
+(a)describe the disadvantaged group;
+
+(b)specify the persons whose charges are covered by the scheme; and
+
+(c)set out the basis of the adjustment of the charges.
+
+(4)If the scheme does not relate to the whole of Great Britain, it shall specify the area or areas to which it relates.
+
+(5)The scheme may - 
+
+(a)require authorised suppliers, authorised distributors or authorised transmitters to supply information of any specified description, in any specified form, to any other such persons; and
+
+(b)provide for the modification of the conditions of licences,
+
+for the purpose of facilitating the implementation of the scheme.
+
+(6)An order shall not be made under this section unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+##### **43BOrders: supplementary**
+
+(1)Before making an order under section 43A, the Secretary of State shall give notice - 
+
+(a)stating that he proposes to make an order and setting out its effect;
+
+(b)stating the reasons why he proposes to make the order; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed order may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(2)The notice shall be given - 
+
+(a)by serving a copy of it on the persons whose charges are covered by the proposed order; and
+
+(b)by publishing it in such manner as the Secretary of State considers appropriate for bringing the proposed order to the attention of other persons likely to be affected by it.
+
+(3)An order under section 43A shall continue in force for such period not exceeding three years as is specified in the order; but that does not prevent the making of another order to come into force at the end of that period.
+
+(4)The Secretary of State may by order require authorised suppliers, authorised distributors or authorised transmitters to supply information of any specified description, in any specified form, to any other such persons for the purpose of enabling the making of an order under section 43A.
+
+(5)The Authority - 
+
+(a)shall monitor the effect of orders under section 43A and report its findings to the Secretary of State whenever he directs it to do so; and
+
+(b)may require authorised suppliers, authorised distributors or authorised transmitters to supply to the Authority, in any specified form, such information as it requires for carrying out that duty.
+
+(6)In section 43A references to customers do not include customers of a description excluded by an order made by the Secretary of State.
+
+(7)In this section and section 43A "authorised transmitter" means a person authorised by a licence or exemption to transmit electricity."
+
+#### **70Energy efficiency requirements for electricity distributors and suppliers**
+
+For section 41 of the 1989 Act (promotion of efficient use of electricity) there is substituted - 
+
+##### **"41APromotion of the efficient use by consumers of electricity**
+
+(1)The Secretary of State may by order impose - 
+
+(a)on each electricity distributor (or each electricity distributor of a specified description); and
+
+(b)on each electricity supplier (or each electricity supplier of a specified description),
+
+an obligation to achieve, within a specified period and in accordance with the order, the energy efficiency target to be determined by the Authority under the order for that distributor or supplier (and that obligation is referred to in this section as an "energy efficiency obligation").
+
+(2)In this section "energy efficiency target" means a target for the promotion of improvements in energy efficiency, that is to say, efficiency in the use by consumers of electricity, gas conveyed through pipes or any other source of energy which is specified in the order.
+
+(3)An order under this section may specify criteria by reference to which the Authority is to determine energy efficiency targets for the electricity distributors or electricity suppliers on whom obligations are imposed by the order.
+
+(4)The Secretary of State and the Authority shall carry out their respective functions under this section in the manner he or it considers is best calculated to ensure that no electricity distributor is unduly disadvantaged in competing with other electricity distributors and no electricity supplier is unduly disadvantaged in competing with other electricity suppliers.
+
+(5)The order may make provision generally in relation to the energy efficiency obligations which it imposes, including in particular provision - 
+
+(a)as to the treatment of persons who become electricity distributors or electricity suppliers after the beginning of the period to which the order relates;
+
+(b)as to the action which qualifies for the purpose of meeting the whole or any part of an energy efficiency target;
+
+(c)as to the method by which improvements in energy efficiency attributable to any qualifying action are to be assessed;
+
+(d)requiring distributors and suppliers to give to the Authority specified information, or information of a specified nature, about their proposals for complying with their energy efficiency obligations;
+
+(e)requiring the Authority to determine - 
+
+(i)whether any proposed action qualifies for the purpose of achieving the whole or any part of a person's energy efficiency target; and
+
+(ii)if so, what improvement in energy efficiency is to be attributed for that purpose to the proposed action or to any result of that action specified in the determination; and
+
+(f)requiring distributors or suppliers to produce to the Authority evidence of a specified kind demonstrating that they have complied with their energy efficiency obligations.
+
+(6)The order may make provision authorising the Authority to require a distributor or supplier to provide it with specified information, or information of a specified nature, relating to - 
+
+(a)his proposals for complying with his energy efficiency obligation; or
+
+(b)the question whether he has complied with that obligation.
+
+(7)The order may make provision as to circumstances in which - 
+
+(a)a person's energy efficiency target may be altered during the period to which the order relates;
+
+(b)the whole or any part of a person's energy efficiency target may be treated as having been achieved by action taken otherwise than by or on behalf of that person;
+
+(c)any action taken before the period to which the order relates may be treated as qualifying action taken during that period;
+
+(d)the whole or any part of a person's energy efficiency target may be transferred to another electricity distributor or electricity supplier or to a gas transporter or gas supplier (within the meaning of Part I of the \[1986 c. 44.] Gas Act 1986); or
+
+(e)a person may carry forward the whole or any part of his energy efficiency target for the period to which the order relates to a subsequent period.
+
+(8)The order may - 
+
+(a)provide for exceptions from any requirement of the order;
+
+(b)provide that any specified requirement contained in it is to be treated as a relevant requirement for the purposes of this Part;
+
+(c)make supplementary, incidental and transitional provision; and
+
+(d)subject to subsection (4), make different provision for different cases (including different provision in relation to different distributors or suppliers).
+
+(9)The order may include provision for treating the promotion of the supply to premises of - 
+
+(a)electricity generated by a generating station which is operated for the purposes of producing heat, or a cooling effect, in association with electricity;
+
+(b)heat produced in association with electricity or steam produced from (or air or water heated by) such heat;
+
+(c)any gas or liquid subjected to a cooling effect produced in association with electricity,
+
+as promotion of energy efficiency.
+
+(10)No person shall be required by virtue of this section to provide any information which he could not be compelled to give in evidence in civil proceedings in the High Court or, in Scotland, the Court of Session.
+
+(11)Before making an order under this section the Secretary of State shall consult the Authority, the Council, electricity distributors and electricity suppliers and such other persons as he considers appropriate.
+
+(12)An order under this section shall not be made unless a draft of the instrument containing it has been laid before, and approved by a resolution of, each House of Parliament."
+
+#### **71General duties of transmission licence holders in Scotland**
+
+Section 9(3) and (4) of the 1989 Act (special duty in Scotland for transmission licence holders who also hold licences to supply or generate electricity) shall cease to have effect.
+
+#### **72Uniform prices etc. in certain areas of Scotland**
+
+After section 7A of the 1989 Act (which is inserted by section 41 above) there is inserted - 
+
+##### **"7BUniform prices etc. in certain areas of Scotland**
+
+(1)The Secretary of State may, by an order made under this section, require the holder of - 
+
+(a)a transmission licence; or
+
+(b)a distribution licence,
+
+to apply in respect of the use of the transmission or, as the case may be, distribution system, or any part of the system, in a specified area charges which do not distinguish (whether directly or indirectly) between users in different parts of the area.
+
+(2)The Secretary of State may, by such an order, require the holder of a supply licence - 
+
+(a)to charge prices; or
+
+(b)to offer conditions of contract,
+
+in respect of a comparable supply of electricity in a specified area which do not distinguish (whether directly or indirectly) between consumers in different parts of the area.
+
+(3)The Secretary of State shall not specify in such an order any particular or maximum charge or price or any particular condition of contract.
+
+(4)Such an order may make different provision for different cases or descriptions of case.
+
+(5)For the purposes of this section - 
+
+(a)a specified area is an area of Scotland specified in such an order; and
+
+(b)supplies of electricity are comparable if they are - 
+
+(i)at the same or similar voltages; and
+
+(ii)are in accordance with the same or similar demand characteristics."
+
+#### **73Maximum prices for reselling electricity**
+
+(1)For section 44 of the 1989 Act (maximum charges for reselling electricity) there is substituted - 
+
+##### **"44Maximum prices for reselling electricity**
+
+(1)The Authority may from time to time direct that the maximum prices at which electricity supplied by authorised suppliers may be resold - 
+
+(a)shall be such as may be specified in the direction; or
+
+(b)shall be calculated by such method and by reference to such matters as may be so specified;
+
+and shall publish directions under this section in such manner as in its opinion will secure adequate publicity for them.
+
+(2)A direction under this section may - 
+
+(a)require any person who resells electricity supplied by an authorised supplier to furnish the purchaser with such information as may be specified or described in the direction; and
+
+(b)provide that, in the event of his failing to do so, the maximum price applicable to the resale shall be such as may be specified in the direction, or shall be reduced by such amount or such percentage as may be so specified.
+
+(3)Different directions may be given under this section as respects different classes of cases, which may be defined by reference to areas or any other relevant circumstances.
+
+(4)If any person resells electricity supplied by an authorised supplier at a price exceeding the maximum price determined by or under a direction under this section and applicable to the resale - 
+
+(a)the amount of the excess; and
+
+(b)if the direction so provides, interest on that amount at a rate specified or described in the direction,
+
+shall be recoverable by the person to whom the electricity was resold."
+
+(2)Any maximum price fixed under section 44 of the 1989 Act which is in force immediately before the date on which this section comes into force shall be treated on and after that date as if it had been specified in a direction under section 44 as substituted by this section.
+
+## **Part V**Amendment of the Gas Act 1986
+
+### _Gas licensing_
+
+#### **74Gas licence conditions**
+
+(1)Section 7B of the 1986 Act (general provisions about licences) is amended as follows.
+
+(2)After subsection (2) there is inserted - 
+
+"(2A)Where the Authority proposes to refuse the application, it shall give to the applicant a notice - 
+
+(a)stating that it proposes to refuse the application;
+
+(b)stating the reasons why it proposes to refuse the application; and
+
+(c)specifying the time within which representations with respect to the proposed refusal may be made,
+
+and shall consider any representations which are duly made and not withdrawn."
+
+(3)In subsection (4) - 
+
+(a)in paragraph (a) for "section 4 or 4A above" there is substituted "sections 4AA, 4AB and 4A"; and
+
+(b)paragraph (b) (which is superseded by provision made in section 4AA) is omitted.
+
+(4)After subsection (4) there is inserted - 
+
+"(4A)Without prejudice to the generality of paragraph (a) of subsection (4), conditions included in a licence under section 7 by virtue of that paragraph - 
+
+(a)may require the licence holder to enter into agreements with other persons for the use of any pipe-line system of his (wherever situated and whether or not used for the purpose of carrying on the activities authorised by the licence) for such purposes as may be specified in the conditions;
+
+(b)may include provision for determining the terms on which such agreements are to be entered into."
+
+(5)In subsection (5)(a)(iii) for "specified or described" there is substituted "referred to".
+
+(6)In subsection (6) the words "specified or described in the licence" shall cease to have effect.
+
+(7)After subsection (10) there is inserted - 
+
+"(11)In this section "prescribed" means prescribed in regulations made by the Authority."
+
+#### **75Exceptions from section 5 of 1986 Act**
+
+Section 5(2) of and Schedule 2A to the 1986 Act shall cease to have effect.
+
+#### **76Gas transporters**
+
+(1)The authorised areas of persons holding gas transportation licences under section 7 of the 1986 Act (licensing of public gas transporters) shall cease to be exclusive and, accordingly, section 7 is amended as follows.
+
+(2)In subsection (1), for "public gas transporter" (the expression defined in that subsection) there is substituted "gas transporter".
+
+(3)In paragraph (a) of subsection (2), for the words from "so much of" to the "and" preceding paragraph (b), there is substituted "any area specified in the licence as it has effect for the time being;".
+
+(4)After subsection (4) there is inserted - 
+
+"(4A)The Authority may, with the consent of the licence holder, direct that any licence under this section shall have effect as if any area or pipe-line system specified in the direction were not specified in the licence; and references in this Part to, or to the grant of, a restriction under this section, or a restriction of such a licence, shall be construed as references to, or to the giving of, such a direction."
+
+(5)In subsections (5) and (6) the words "or extension", in each place where they appear and, in subsection (5), the words "or, in the case of an extension, such shorter time as may be prescribed" shall cease to have effect.
+
+(6)Subsections (7) and (8) shall cease to have effect.
+
+(7)References in any enactment in force immediately before the commencement of this section to a public gas transporter or to the holder of a licence under section 7 of the 1986 Act shall have effect after that commencement as if they were references to a gas transporter.
+
+#### **77Restriction on use of certain pipe-lines for providing a supply of gas**
+
+(1)After section 10 of the 1986 Act (duty of gas transporters to make a connection in certain circumstances) there is inserted - 
+
+##### **"10ARestriction on use of certain pipe-lines for providing a supply**
+
+(1)Any pipe-line of a gas transporter - 
+
+(a)for the construction of which the execution of works has begun before the commencement of section 76 of the Utilities Act 2000 (abolition of geographical exclusivity of authorised areas of gas transporters); and
+
+(b)which is situated in an area which, immediately before the commencement of that section, is the authorised area of a public gas transporter (the "other transporter"),
+
+shall not be used for the purpose of giving a supply of gas to any premises in that area at a rate less than 2,196,000 kilowatt hours per year unless the other transporter consents in writing to such use.
+
+(2)If the other transporter refuses or fails to give consent under subsection (1) consent may instead be given in writing by the Authority where it considers it appropriate to do so.
+
+(3)Consent given under this section may not be withdrawn.
+
+(4)In this section "pipe-line" has the same meaning as in the \[1962 c. 58.] Pipe-lines Act 1962.".
+
+(2)In section 28(8) of the 1986 Act (definition of "relevant requirement") after "or (14)" there is inserted "10A(1),".
+
+#### **78Construction of pipe-lines by gas transporters**
+
+(1)Section 22A of the 1986 Act (prohibition on execution of works for the construction of pipe-lines) is amended as follows.
+
+(2)In subsection (1) - 
+
+(a)for the words "A public gas transporter shall not at any time execute in an authorised area of another public gas transporter" there is substituted "A gas transporter shall not at any time execute within 23 metres from a pipe-line of another gas transporter (the "other transporter")";
+
+(b)in paragraph (b), the words "in that area" (in both places where they appear) shall cease to have effect;
+
+(c)after paragraph (c) there is inserted "; and
+
+(d)(subject to subsection (1C)) where the existing pipe-line is a relevant main of the other transporter, that transporter has consented in writing to the construction of the proposed pipe-line, either unconditionally or subject to conditions.".
+
+(3)After subsection (1) there is inserted - 
+
+"(1A)Subsection (1) does not apply if the proposed pipe-line is required to enable a gas transporter to comply with any duty imposed by section 10(2).
+
+(1B)Conditions imposed under subsection (1)(d) may relate to matters arising after the construction of the proposed pipe-line, including the use to be made of the pipe-line.
+
+(1C)If the other transporter - 
+
+(a)refuses or fails to give consent under subsection (1)(d); or
+
+(b)gives such consent subject to conditions,
+
+consent may instead be given in writing by the Authority where it considers it appropriate to do so.
+
+(1D)Consent under subsection (1C) may only be given unconditionally or, in a case falling within subsection (1C)(b), subject to the same conditions as were imposed by the other transporter.
+
+(1E)A condition imposed on a gas transporter under this section shall be enforceable by civil proceedings by the other transporter for an injunction or for interdict or for any other appropriate relief."
+
+(4)In subsection (3), after the definition of "pipe-line" there is inserted ";
+
+"relevant main" has the meaning given by section 10(12)."
+
+#### **79Duty to facilitate competition**
+
+(1)Section 9 of the 1986 Act (general powers and duties of gas transporters) is amended as follows.
+
+(2)In subsection (1)(b) - 
+
+(a)after "him" there is inserted " - 
+
+(i)"; and
+
+(b)after "premises" there is inserted "; or
+
+(ii)to connect to that system a pipe-line system operated by an authorised transporter."
+
+(3)After subsection (1) there is inserted - 
+
+"(1A)It shall also be the duty of a gas transporter to facilitate competition in the supply of gas."
+
+(4)In subsection (2)(a), after "premises" there is inserted ", or a pipe-line system operated by an authorised transporter,".
+
+#### **80Gas transporters' duty to make a connection**
+
+(1)Section 10 of the 1986 Act (duty of gas transporters to make a connection in certain circumstances) is amended as follows.
+
+(2)After subsection (3) there is inserted - 
+
+"(3A)A gas transporter may require any person who requires a connection under subsection (2)(b) to accept any terms - 
+
+(a)indemnifying the transporter in respect of any liability connected with the laying of the pipe;
+
+(b)which it is reasonable in all the circumstances for that person to be required to accept."
+
+(3)After subsection (5) there is inserted - 
+
+"(5A)Where in pursuance of subsection (2)(b) a gas transporter connects any premises to a relevant main by a pipe supplied and laid by the owner or occupier of the premises, the cost of making the connection shall, if and to the extent that the transporter so requires and the conditions of his licence so allow, be defrayed by the person supplying and laying the pipe."
+
+(4)In subsection (6)(b) after "rights" there is inserted "or liabilities".
+
+(5)In the words following subsection (6)(b), for "or rights" there is substituted ", rights or liabilities".
+
+(6)In subsection (12) for "his authorised area" there is substituted "an authorised area of his".
+
+#### **81Standard conditions of gas licences**
+
+(1)The standard conditions for the purposes of gas licences of any type (that is to say, licences under section 7, section 7A(1) or section 7A(2) of the 1986 Act) may contain provision - 
+
+(a)for any standard condition included in a licence of that type not to have effect until brought into operation in such manner and in such circumstances as may be specified in or determined under the standard conditions;
+
+(b)for the effect of any standard condition included in such a licence to be suspended in such manner, and in such circumstances, as may be so specified or determined; or
+
+(c)for any standard condition included in such a licence which is for the time being suspended to be brought back into operation in such manner and in such circumstances as may be so specified or determined.
+
+(2)Such conditions as may be determined by the Secretary of State before the commencement of subsection (3), and published by him in such manner as he considers appropriate, in relation to gas licences of any type shall, subject to such modifications of the conditions made under Part I of the 1986 Act after the determination under this subsection, be standard conditions for the purposes of licences of that type (in place of the standard conditions which would otherwise be incorporated in licences of that type granted immediately before that commencement).
+
+(3)In section 8(1) of the 1986 Act (standard conditions of licences to be incorporated in gas licences) - 
+
+(a)the words "and sections 23(2), 26(1A) and 27(2) below" shall be omitted; and
+
+(b)for "section 8(2) of the Gas Act 1995" there is substituted "section 81(2) of the Utilities Act 2000".
+
+#### **82Modification of standard conditions of gas licences**
+
+(1)In section 8(7) of the 1986 Act (standard conditions of licences to be incorporated in gas licences) - 
+
+(a)after "such that" there is inserted - 
+
+"(a)the licence holder would not be unduly disadvantaged in competing with other holders of a licence under that subsection; and
+
+(b)"; and
+
+(b)after "the holder of the licence" there is inserted "being modified".
+
+(2)In section 23 of the 1986 Act (modification of conditions by agreement), for subsection (6) there is substituted - 
+
+"(6)The Authority shall not make any modifications under subsection (1)(a) unless the licence holder has consented to the modifications and, in the case of standard conditions of a licence under subsection (1) or (2) of section 7A, the Authority is of the opinion that the modifications - 
+
+(a)are requisite to meet the circumstances of the particular case; and
+
+(b)are such that - 
+
+(i)the licence holder would not be unduly disadvantaged in competing with other holders of licences under that subsection; and
+
+(ii)no other holder of such a licence would be unduly disadvantaged in competing with other holders of such licences (including the holder of the licence being modified).
+
+(6A)The modification under subsection (1)(a) of part of a standard condition of a licence shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part."
+
+(3)For subsections (7) to (9) of that section there is substituted - 
+
+"(7)The Authority may not under subsection (1)(b) make any modifications of the standard conditions of any licences unless - 
+
+(a)no notice of objection to those modifications is given to the Authority within the time specified in the notice under subsection (3) by any relevant licence holder;
+
+(b)if one or more relevant licence holders give notice of objection to the Authority within that time - 
+
+(i)the proportion (expressed as a percentage) of the relevant licence holders who have given notice of objection is less than such percentage as may be prescribed; and
+
+(ii)the percentage given by subsection (8) is less than such percentage as may be prescribed; or
+
+(c)subsection (10) applies to the case.
+
+(8)The percentage given by this subsection is the proportion (expressed as a percentage) of the relevant licence holders who have given notice of objection, weighted according to their market share in such manner as may be prescribed."
+
+(4)For subsection (12) of that section there is substituted - 
+
+"(12)In this section - 
+
+* "prescribed" means prescribed by order made by the Secretary of State;
+
+* "relevant licence holder", in relation to proposed modifications under subsection (1)(b) of standard conditions of licences of any type, means the holder of a licence of that type which-
+
+  (a)
+
+  is to be modified under the proposals by the inclusion of any new standard condition; or
+
+  (b)
+
+  includes any standard conditions to which the proposals relate, other than standard conditions which are not in effect (by virtue of anything done under section 81(1) of the Utilities Act 2000) at the time specified in the notice under subsection (3).
+
+(13)A statutory instrument containing an order under this section shall not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament."
+
+#### **83Modification following Competition Commission report**
+
+(1)In section 24(5) of the 1986 Act (modification references to the Competition Commission), after "this section" there is inserted "or in carrying out functions under section 26A", after "the investigation" there is inserted "or the carrying out of those functions" and after "such investigation" there is inserted "or such functions".
+
+(2)In section 26 of that Act (modification of licence conditions following report of Competition Commission) after subsection (4) there is inserted - 
+
+"(4A)After considering any representations or objections made in response to proposals set out in a notice under subsection (3), the Authority shall give notice to the Competition Commission - 
+
+(a)setting out the modifications it proposes to make to remedy or prevent the adverse effects specified in the report; and
+
+(b)stating the reasons for making the modifications.
+
+(4B)The Authority shall include with the notice under subsection (4A) a copy of any representations or objections received in relation to the notice under subsection (3).
+
+(4C)If the period of four weeks from the date on which the notice under subsection (4A) is given elapses without a direction under section 26A(1)(a) having been given to it, the Authority shall - 
+
+(a)make the modifications set out in the notice; or
+
+(b)if a direction under section 26A(1)(b) has been given, make the modifications which are not specified in the direction."
+
+(3)After subsection (5) of that section there is inserted - 
+
+"(6)The modification under subsection (1) of part of a standard condition of a particular licence in consequence of a reference under section 24(1) shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part."
+
+(4)After section 26 of that Act there is inserted - 
+
+##### **"26ACompetition Commission's power to veto modifications following report**
+
+(1)The Competition Commission (in this section referred to as "the Commission") may, within the period of four weeks after the date on which it is given a notice under section 26(4A), direct the Authority - 
+
+(a)not to make the modifications set out in that notice; or
+
+(b)not to make such of the modifications as may be specified in the direction;
+
+and the Authority shall comply with any such direction.
+
+(2)The Secretary of State may, within the period of four weeks after the date on which the Commission is given a notice under section 26(4A) and on the application of the Commission, direct that the period for giving a direction under subsection (1) (and, accordingly, the period mentioned in section 26(4C)) shall be extended by 14 days.
+
+(3)The power to give a direction under subsection (1) may only be exercised in respect of such of the modifications set out in the notice under section 26(4A)(a) as appear to the Commission not to be the modifications which are requisite for the purpose of remedying or preventing all or any of the adverse effects specified in the report as effects which could be remedied or prevented by modifications.
+
+(4)If the Commission gives a direction under subsection (1), the Commission - 
+
+(a)shall give notice setting out the modifications proposed by the Authority, the terms of the direction and the reasons for giving it; and
+
+(b)shall itself make such modifications of the relevant conditions as appear to it to be requisite for the purpose of remedying or preventing - 
+
+(i)if the direction was given under subsection (1)(a), the adverse effects specified in the report as effects which could be remedied or prevented by modifications;
+
+(ii)if the direction was given under subsection (1)(b), such of those adverse effects as are not remedied or prevented by the modifications made by the Authority under section 26(4C)(b).
+
+(5)In exercising its function under subsection (4)(b) the Commission shall have regard to the matters to which the Authority is required to have regard when determining the conditions of a licence.
+
+(6)Before making modifications under subsection (4)(b) the Commission shall give notice - 
+
+(a)stating that it proposes to make the modifications and setting them out;
+
+(b)stating the reason why it proposes to make them;
+
+(c)specifying the period (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed modifications may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(7)A notice under subsection (4)(a) or (6) shall be given - 
+
+(a)by publishing the notice in such manner as the Commission considers appropriate for the purpose of bringing it to the attention of persons likely to be affected by the making of the modifications; and
+
+(b)by serving a copy on the Authority and the holder of the licence in question or, as the case may be, the relevant licence holders.
+
+(8)After making modifications under this section the Commission shall publish a notice stating that the modifications have been made and setting them out, with the reasons for making them.
+
+(9)Where, in consequence of a reference under section 24(1A), the Commission modifies under subsection (4)(b) the standard conditions of licences of any type (that is to say, licences under section 7 or section 7A(1) or 7A(2)) the Authority may make such incidental and consequential modifications as it considers necessary or expedient of any conditions of licences of that type granted before that time.
+
+(10)Where the Commission modifies the standard conditions of licences of any type as mentioned in subsection (9) the Authority - 
+
+(a)shall make (as nearly as may be) the same modifications of those conditions for the purposes of their incorporation in licences of that type granted after that time; and
+
+(b)shall publish the modifications made for those purposes in such manner as it considers appropriate.
+
+(11)The modification under this section of part of a standard condition of a particular licence in consequence of a reference under section 24(1) shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part.
+
+(12)The provisions mentioned in subsection (13) are to apply in relation to the exercise by the Commission of its functions under this section as if - 
+
+(a)in section 82(1) and (2) of the \[1973 c. 41.] Fair Trading Act 1973 references to a report of the Commission under that Act were references to a notice under subsection (4)(a), (6) or (8) of this section;
+
+(b)in section 85 of that Act references to an investigation on a reference made to the Commission were references to an investigation by the Commission for the purposes of the exercise of its functions under this section.
+
+(13)The provisions are - 
+
+(a)section 82(1) and (2) of the \[1973 c. 41.] Fair Trading Act 1973 (general provisions as to reports under that Act);
+
+(b)section 85 of that Act (attendance of witnesses and production of documents);
+
+(c)section 24 of the \[1980 c. 21.] Competition Act 1980 (modification of provisions about the Competition Commission's general functions); and
+
+(d)Part II of Schedule 7 to the \[1998 c. 41.] Competition Act 1998 (the Competition Commission's general functions).
+
+(14)This section does not apply to the modification of a licence following a report of the Commission made before the commencement of section 83(4) of the Utilities Act 2000."
+
+(5)In section 27 of that Act (modification of licences by order under enactments other than the 1986 Act), after subsection (1) there is inserted - 
+
+"(1A)The modification under subsection (1)(a) of part of a standard condition of a particular licence in consequence of a reference under section 24(1) shall not prevent any other part of the condition from continuing to be regarded as a standard condition for the purposes of this Part."
+
+#### **84The gas code**
+
+(1)Schedule 2B to the 1986 Act is amended as follows.
+
+(2)After paragraph 6 (meters for disabled persons) there is inserted - 
+
+##### _Use of pre-payment meters_
+
+6AA pre-payment meter installed by an authorised supplier on any premises shall not be used to recover any sum other than a sum owing to an authorised supplier in respect of the supply of gas to those premises or the provision of the meter."
+
+(3)In paragraph 7 (recovery of gas charges etc.) - 
+
+(a)in sub-paragraph (1)(a) for the words from "the consumer's" to "him" there is substituted "any premises of his (in this paragraph referred to as "the premises")";
+
+(b)sub-paragraph (2) shall cease to have effect; and
+
+(c)in sub-paragraph (3) for paragraphs (a) and (b) there is substituted - 
+
+"(a)install a pre-payment meter on the premises in place of the existing meter; or
+
+(b)cut off the supply to the premises by disconnecting the service pipe at the meter or by such other means as he thinks fit;
+
+and the supplier may recover any expenses incurred in so doing from the consumer."
+
+(4)In paragraph 23(2), for paragraph (c) there is substituted - 
+
+"(c)exercising a power conferred by paragraph 3(5) or 7(3)(a) (and testing gas fittings, and making any adjustments required for their safe operation, after the exercise of the power)."
+
+#### **85Transfer of gas licences**
+
+For section 8AA of the 1986 Act (assignment of gas licences) there is substituted - 
+
+##### **"8AATransfer of licences**
+
+(1)A licence - 
+
+(a)shall be capable of being transferred by the licence holder, with the consent of the Authority, in accordance with this section and subject to any term of the licence relating to its transfer;
+
+(b)may include conditions which must be complied with before the licence can be transferred.
+
+(2)A transfer may relate to the whole or any part of the licence.
+
+(3)The reference in subsection (2) to part of a licence is a reference to a part of the activities authorised by the licence (whether described by reference to activities being carried on by the licence holder or to activities which he is authorised to carry on).
+
+(4)Such consent may be given subject to compliance with such modification or other conditions as the Authority considers necessary or expedient.
+
+(5)In the case of a partial transfer, conditions imposed under subsection (4) may make as respects so much of the licence as is proposed to be retained by the transferor provision different from that made as respects so much of the licence as is proposed to be transferred.
+
+(6)In deciding whether to give its consent to a proposed transfer, the Authority shall apply the same criteria as it would apply if the Authority were deciding whether - 
+
+(a)in the case of a general transfer, to grant a corresponding licence to the transferee; or
+
+(b)in the case of a partial transfer - 
+
+(i)to grant to the transferee a licence corresponding to so much of the licence as is proposed to be transferred; and
+
+(ii)to grant to the transferor a licence corresponding to so much of the licence as is proposed to be retained.
+
+(7)The Authority shall - 
+
+(a)give the Health and Safety Executive not less than 28 days' notice of any proposal to consent to any proposed transfer; and
+
+(b)give that Executive and the Secretary of State not less than 28 days' notice of any proposal to impose a modification condition.
+
+(8)If, before the expiry of the time specified in a notice given to the Secretary of State under subsection (7)(b), the Secretary of State directs the Authority not to impose the condition, the Authority shall comply with the direction.
+
+(9)Before giving consent to the transfer of a licence, the Authority shall give notice - 
+
+(a)stating that it proposes to grant consent to the transfer;
+
+(b)stating the reasons why it proposes to give consent; and
+
+(c)specifying the time from the date of publication of the notice (not being less than two months) within which representations or objections with respect to the transfer may be made,
+
+and shall consider any representations or objections that are duly made and not withdrawn.
+
+(10)A notice under subsection (9) shall be given by publishing the notice in such manner as the Authority considers appropriate for bringing it to the attention of persons likely to be affected by the transfer.
+
+(11)A purported transfer of a licence shall be void - 
+
+(a)if the licence is not capable of transfer or the Authority has not given its consent;
+
+(b)if the purported transfer is in breach of a condition of the licence; or
+
+(c)if there has, before the purported transfer, been a contravention of a condition subject to compliance with which the Authority's consent is given.
+
+(12)In this section - 
+
+* "transfer" includes any form of transfer or assignment or, in Scotland, assignation;
+* "modification condition" means a condition requiring or otherwise providing for the making of modifications to the conditions of a licence."
+
+#### **86Exemptions from gas licensing**
+
+(1)In subsection (1) of section 6A of the 1986 Act (exemptions from prohibition) the words ", after consultation with the Director," shall be omitted.
+
+(2)After subsection (1) of that section there is inserted - 
+
+"(1A)Before making an order under subsection (1) the Secretary of State shall give notice - 
+
+(a)stating that he proposes to make such an order and setting out the terms of the proposed order;
+
+(b)stating the reasons why he proposes to make the order in the terms proposed; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations with respect to the proposals may be made,
+
+and shall consider any representations which are duly made in respect of the proposals and not withdrawn.
+
+(1B)The notice required by subsection (1A) shall be given - 
+
+(a)by serving a copy of it on the Authority and the Council; and
+
+(b)by publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of those likely to be affected by the proposed order."
+
+(3)For subsections (2) and (3) of that section there is substituted - 
+
+"(2)Notice of an exemption granted to a person shall be given - 
+
+(a)by serving a copy of the exemption on him; and
+
+(b)by publishing the exemption in such manner as the Secretary of State considers appropriate for bringing it to the attention of other persons who may be affected by it.
+
+(2A)Notice of an exemption granted to persons of a class shall be given by publishing the exemption in such manner as the Secretary of State considers appropriate for bringing it to the attention of - 
+
+(a)persons of that class; and
+
+(b)other persons who may be affected by it.
+
+(3)An exemption may be granted - 
+
+(a)indefinitely; or
+
+(b)for a period specified in, or determined by or under, the exemption."
+
+(4)For subsection (5) of that section there is substituted - 
+
+"(5)The Secretary of State may by order revoke an order by which an exemption was granted to a person or vary an order by which more than one exemption was so granted so as to terminate any of the exemptions - 
+
+(a)at the person's request;
+
+(b)in accordance with any provision of the order by which the exemption was granted; or
+
+(c)if it appears to the Secretary of State inappropriate that the exemption should continue to have effect.
+
+(6)The Secretary of State may by order revoke an order by which an exemption was granted to persons of a class or vary an order by which more than one exemption was so granted so as to terminate any of the exemptions - 
+
+(a)in accordance with any provision of the order by which the exemption was granted; or
+
+(b)if it appears to the Secretary of State inappropriate that the exemption should continue to have effect.
+
+(7)The Secretary of State may by direction withdraw an exemption granted to persons of a class from any person of that class - 
+
+(a)at the person's request;
+
+(b)in accordance with any provision of the order by which the exemption was granted; or
+
+(c)if it appears to the Secretary of State inappropriate that the exemption should continue to have effect in the case of the person.
+
+(8)Before - 
+
+(a)making an order under subsection (5)(b) or (c) or (6); or
+
+(b)giving a direction under subsection (7)(b) or (c),
+
+the Secretary of State shall consult the Authority and give notice of his proposal to do so (with reasons) and of a period within which representations may be made to him.
+
+(9)The notice under subsection (8) shall be given - 
+
+(a)where the Secretary of State is proposing to make an order under subsection (5)(b) or (c), by serving a copy of it on the person to whom the exemption was granted;
+
+(b)where he is proposing to make an order under subsection (6), by publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons of the class of persons to whom the exemption was granted; and
+
+(c)where he is proposing to give a direction under subsection (7)(b) or (c), by serving a copy of it on the person from whom he proposes to withdraw the exemption."
+
+#### **87Reasons for decisions under 1986 Act**
+
+For section 38A of the 1986 Act (duty to consider representations and give reasons) there is substituted - 
+
+##### **"38AReasons for decisions**
+
+(1)This section applies to the following decisions of the Authority or the Secretary of State, namely - 
+
+(a)the revocation of a licence;
+
+(b)the modification of the conditions of a licence;
+
+(c)the giving of any directions or consent in pursuance of a condition included in a licence by virtue of section 7B(5)(a)(i) or (ii);
+
+(d)the determination of a question referred in pursuance of a condition included in a licence by virtue of section 7B(5)(a)(iii);
+
+(e)the determination of a dispute referred under section 27A(1);
+
+(f)the making of a final order, the making or confirmation of a provisional order or the revocation of a final order or of a provisional order which has been confirmed.
+
+(2)As soon as reasonably practicable after making such a decision the Authority or the Secretary of State shall publish a notice stating the reasons for the decision in such manner as it or he considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be interested.
+
+(3)The Authority shall send a copy of a notice published in respect of a decision mentioned in paragraph (a), (b), (c), (d) or (f) of subsection (1) to the licence holder to whose licence, or to whom, the decision relates.
+
+(4)In preparing a notice under subsection (2) the Authority or the Secretary of State shall have regard to the need for excluding, so far as that is practicable, any matter which relates to the affairs of a particular individual or body of persons (corporate or unincorporate), where it or he considers that publication of that matter would or might seriously and prejudicially affect the interests of that individual or body.
+
+(5)This section does not apply to a decision resulting in any provision which the Secretary of State has under section 36(3) directed the Authority not to enter in the register required to be kept under that section.
+
+(6)In this section "final order" and "provisional order" have the same meanings as in section 28."
+
+#### **88Altering activities requiring gas licence**
+
+After section 41B of the 1986 Act (which is inserted by section 98 below) there is inserted - 
+
+##### _"Alteration of activities requiring licence_
+
+###### **41CPower to alter activities requiring licence**
+
+(1)The Secretary of State may by order provide - 
+
+(a)that specified activities are to become licensable activities; or
+
+(b)that specified activities are to cease to be licensable activities.
+
+(2)For the purposes of this Part activities are licensable activities if undertaking them without the authority of a licence or exemption constitutes an offence under section 5(1).
+
+(3)An order under this section may make consequential, transitional, incidental or supplementary provision including - 
+
+(a)amendments (or repeals) in any provision of this Act or any other enactment; and
+
+(b)provision modifying any standard conditions of licences or (in the case of an order under subsection (1)(a)) provision determining the conditions which are to be standard conditions for the purposes of licences authorising the undertaking of activities which are to become licensable activities.
+
+(4)An order under this section may only provide for activities to become licensable activities if they are activities connected with - 
+
+(a)the conveyance of gas through pipes to premises or to pipe-line systems operated by gas transporters;
+
+(b)the supply to premises of gas conveyed through pipes; or
+
+(c)arranging with gas transporters for gas to be introduced into, conveyed by means of or taken out of pipe-line systems operated by the gas transporters.
+
+(5)An order under this section providing for activities to become licensable activities may only be made on the application of the Authority made in accordance with section 41D.
+
+(6)An order under this section providing for activities to cease to be licensable activities may be made either - 
+
+(a)on the application of the Authority made in accordance with section 41G; or
+
+(b)following consultation by the Secretary of State in accordance with section 41H.
+
+(7)An order under this section may provide that it is to remain in force only for a period specified in the order.
+
+(8)An order shall not be made under this section unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+###### **41DApplication by Authority for order including new activities**
+
+(1)If the Authority proposes to make an application for an order providing for activities to become licensable activities, it shall give notice - 
+
+(a)stating that it proposes to make an application for an order providing for the activities to become licensable activities;
+
+(b)setting out the conditions which it would expect such an order to determine to be standard conditions for the purposes of licences authorising the undertaking of the activities and any other conditions which it would expect to be included in such licences; and
+
+(c)specifying a reasonable period (not being less than 28 days from the date of publication of the notice) within which representations or objections may be made with respect to the proposal,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(2)The notice shall be given by serving a copy on the Council and by publishing it in such manner as the Authority considers appropriate for bringing it to the attention of - 
+
+(a)persons appearing to it to be carrying on, or be intending to carry on, the activities; and
+
+(b)any other persons appearing to it to be likely to be affected by an order providing for the activities to become licensable activities.
+
+(3)If an objection has been duly made (and not withdrawn) by a person who is carrying on or intends to carry on the activities, the Authority shall make a reference to the Competition Commission under section 41E before making the application.
+
+(4)In any other case where the Authority considers it appropriate to make a reference to the Commission under section 41E before making the application, the Authority may make such a reference.
+
+(5)If a reference is made to the Commission, the application shall not be made unless the Commission has reported on the reference that the fact that the activities to which the application relates are not licensable activities operates, or may be expected to operate, against the public interest.
+
+(6)The application shall set out - 
+
+(a)the activities which the Authority considers should become licensable activities; and
+
+(b)the conditions which the Authority would expect to be determined to be standard conditions for the purposes of licences authorising the undertaking of the activities in question and any other conditions which the Authority would expect to be included in such licences.
+
+###### **41EReferences to Competition Commission**
+
+(1)A reference to the Competition Commission under this section shall require the Commission to investigate and report on whether the fact that the activities specified in the reference are not licensable activities operates, or may be expected to operate, against the public interest.
+
+(2)The Authority may, at any time, by notice given to the Commission vary the reference by adding to the activities specified in the reference or by excluding from the reference some of the activities so specified; and on receipt of such notice the Commission shall give effect to the variation.
+
+(3)The Authority shall specify in the reference, or a variation of the reference, for the purpose of assisting the Commission in carrying out the investigation on the reference - 
+
+(a)the conditions which the Authority would expect to be determined to be standard conditions for the purposes of licences authorising the undertaking of the activities specified in the reference and any other conditions which the Authority would expect to be included in such licences; and
+
+(b)any effects adverse to the public interest which, in its opinion, the fact that the activities so specified are not licensable activities has or may be expected to have.
+
+(4)As soon as practicable after making the reference, or a variation of the reference, the Authority shall serve a copy of it on the Council and publish particulars of it in such manner as the Authority considers appropriate for bringing it to the attention of - 
+
+(a)persons appearing to the Authority to be carrying on, or be intending to carry on, the activities specified in it; and
+
+(b)any other persons appearing to the Authority to be likely to be affected by it.
+
+(5)The Authority shall, for the purpose of assisting the Commission in carrying out the investigation on the reference, give to the Commission - 
+
+(a)any information which is in its possession and which relates to matters falling within the scope of the investigation, and which is either requested by the Commission for that purpose or is information which in its opinion it would be appropriate for that purpose to give to the Commission without any such request; and
+
+(b)any other assistance which the Commission may require, and which it is within its power to give, in relation to any such matters,
+
+and the Commission shall take account of the information for the purpose of carrying out the investigation.
+
+(6)In determining for the purposes of this section whether the fact that particular activities are not licensable activities operates, or may be expected to operate, against the public interest, the Commission shall have regard to - 
+
+(a)the matters referred to in section 4AA;
+
+(b)any social or environmental policies set out or referred to in guidance issued under section 4AB; and
+
+(c)any advice given by the Health and Safety Commission under section 4A (advice about health and safety in relation to gas).
+
+(7)The provisions mentioned in subsection (8) are to apply in relation to references under this section as if - 
+
+(a)the functions of the Commission in relation to those references were functions under the \[1973 c. 41.] Fair Trading Act 1973;
+
+(b)the expression "merger reference" included a reference under this section;
+
+(c)in section 70 of the \[1973 c. 41.] Fair Trading Act 1973 - 
+
+(i)references to the Secretary of State were references to the Authority; and
+
+(ii)the reference to three months were a reference to six months.
+
+(8)The provisions are - 
+
+(a)sections 70 (time limit for report on merger), 85 (attendance of witnesses and production of documents) and 93B (false or misleading information) of the \[1973 c. 41.] Fair Trading Act 1973;
+
+(b)Part II of Schedule 7 to the \[1998 c. 41.] Competition Act 1998 (performance of the Commission's general functions); and
+
+(c)section 24 of the \[1980 c. 21.] Competition Act 1980 (modification of provisions about performance of such functions).
+
+###### **41FReports on references**
+
+(1)In making a report on a reference under section 41E, the Competition Commission shall include in the report definite conclusions on whether the fact that the activities specified in the reference (or the reference as varied) are not licensable activities operates, or may be expected to operate, against the public interest.
+
+(2)The Commission shall also include in the report such an account of its reasons for those conclusions as in its opinion is expedient for facilitating proper understanding of the questions raised by the reference and of its conclusions.
+
+(3)Where the Commission concludes that the fact that particular activities are not licensable activities operates, or may be expected to operate, against the public interest, it shall specify in the report - 
+
+(a)the effects adverse to the public interest which that fact has or may be expected to have; and
+
+(b)any modifications to the conditions specified in the reference in accordance with section 41E(3)(a) which they consider appropriate.
+
+(4)Section 82 of the \[1973 c. 41.] Fair Trading Act 1973 (general provisions as to reports) shall apply in relation to reports of the Commission on references under section 41E as it applies to reports of the Commission under that Act.
+
+(5)A report of the Commission on a reference under section 41E shall be made to the Authority.
+
+(6)On receiving the report, the Authority shall send a copy of it to the Secretary of State.
+
+(7)Subject to subsection (8), the Authority shall, not less than 14 days after the copy is received by the Secretary of State, send another copy to the Council and publish that other copy in such manner as the Authority considers appropriate for bringing the report to the attention of persons likely to be affected by it.
+
+(8)If it appears to the Secretary of State that the publication of any matter in the report would be against the public interest or the commercial interests of any person, he may, before the end of the period of 14 days mentioned in subsection (7), direct the Authority to exclude that matter from the copy of the report to be sent to the Council and published under that subsection.
+
+###### **41GApplication by Authority for order excluding activities**
+
+(1)Before making an application for an order providing for activities to cease to be licensable activities the Authority shall give notice - 
+
+(a)stating that it proposes to make an application for an order providing for the activities to cease to be licensable activities; and
+
+(b)specifying a reasonable period (not being less than 28 days from the date of publication of the notice) within which representations or objections may be made with respect to the proposal,
+
+and shall consider any representations or objections duly made and not withdrawn.
+
+(2)The notice shall be given - 
+
+(a)by serving a copy on the Secretary of State, the Health and Safety Executive and the Council; and
+
+(b)by publishing it in such manner as the Authority considers appropriate for bringing it to the attention of persons likely to be affected by such an order.
+
+(3)An application under this section shall set out - 
+
+(a)the activities which the Authority considers should cease to be licensable activities; and
+
+(b)the Authority's reasons for proposing that the order be made.
+
+###### **41HConsultation by Secretary of State about order excluding activities**
+
+(1)If the Secretary of State proposes to make an order providing for activities to cease to be licensable activities (otherwise than on an application by the Authority under section 41G), he shall give notice - 
+
+(a)stating that he proposes to make an order providing for the activities to cease to be licensable activities; and
+
+(b)specifying a reasonable period (not being less than 28 days from the date of publication of the notice) within which representations or objections may be made with respect to the proposal,
+
+and shall consider any representations or objections duly made (and not withdrawn).
+
+(2)The notice shall be given - 
+
+(a)by serving a copy on the Authority, the Health and Safety Executive and the Council; and
+
+(b)by publishing it in such manner as the Secretary of State considers appropriate for bringing it to the attention of persons likely to be affected by such an order."
+
+### _Gas performance standards_
+
+#### **89Repeal of section 10(2) to (5) of Gas Act 1995**
+
+Subsections (2) to (5) of section 10 of the \[1995 c. 45.] Gas Act 1995 shall cease to have effect and, accordingly, sections 33A to 33E of the 1986 Act are not liable to expire in accordance with those subsections.
+
+#### **90Standards of performance in individual cases**
+
+(1)In section 33A of the 1986 Act - 
+
+(a)in subsection (3)(a), after "section" there is inserted "or their rights under section 33AA"; and
+
+(b)subsections (6) to (9) shall cease to have effect.
+
+(2)After section 33A of the 1986 Act there is inserted - 
+
+##### **"33AAStandards of performance in individual cases: gas transporters**
+
+(1)The Authority may make regulations prescribing such standards of performance in connection with the activities of gas transporters, so far as affecting customers or potential customers of gas suppliers, as in the Authority's opinion ought to be achieved in individual cases.
+
+(2)Regulations under this section may only be made with the consent of the Secretary of State.
+
+(3)If a gas transporter fails to meet a prescribed standard, he shall make to any customer or potential customer of a gas supplier who is affected by the failure and is of a prescribed description such compensation as may be determined by or under the regulations.
+
+(4)The regulations may - 
+
+(a)prescribe circumstances in which gas transporters are to inform customers or potential customers of gas suppliers of their rights under this section;
+
+(b)prescribe such standards of performance in relation to any duty arising under paragraph (a) as, in the Authority's opinion, ought to be achieved in all cases;
+
+(c)make provision as to the manner in which compensation under this section is to be made;
+
+(d)prescribe circumstances in which gas transporters are to be exempted from any requirements of the regulations or this section; and
+
+(e)if the Authority is of the opinion that the differences are such that no gas transporter would be unduly disadvantaged in competing with other gas transporters, make different provision with respect to different gas transporters.
+
+(5)Provision made under subsection (4)(c) may - 
+
+(a)require or permit compensation to be made on behalf of gas transporters by gas suppliers to customers or potential customers;
+
+(b)require gas suppliers to provide services to gas transporters in connection with the making of compensation under this section.
+
+(6)The making of compensation under this section in respect of any failure to meet a prescribed standard shall not prejudice any other remedy which may be available in respect of the act or omission which constituted that failure.
+
+##### **33ABStandards of performance in individual cases: disputes**
+
+(1)Any dispute arising under section 33A or 33AA or regulations made under either of those sections - 
+
+(a)may be referred to the Authority by either party or, with the agreement of either party, by the Council; and
+
+(b)on such a reference, shall be determined by order made by the Authority or, if it thinks fit, by such person (other than the Council) as may be prescribed.
+
+(2)A person making an order under subsection (1) shall include in the order his reasons for reaching his decision with respect to the dispute.
+
+(3)The practice and procedure to be followed in connection with any such determination shall be such as may be prescribed.
+
+(4)An order under subsection (1) shall be final and shall be enforceable - 
+
+(a)in England and Wales, as if it were a judgment of a county court; and
+
+(b)in Scotland, as if it were an extract registered decree arbitral bearing a warrant for execution issued by the sheriff.
+
+(5)In this section "prescribed" means prescribed by regulations made by the Authority with the consent of the Secretary of State."
+
+#### **91Overall standards of performance**
+
+After section 33B of the 1986 Act there is inserted - 
+
+##### **"33BAOverall standards of performance: gas transporters**
+
+(1)The Authority may from time to time - 
+
+(a)determine such standards of overall performance in connection with the activities of gas transporters as, in its opinion, ought to be achieved by them; and
+
+(b)arrange for the publication, in such form and in such manner as he considers appropriate, of the standards so determined.
+
+(2)Different standards may be determined for different gas transporters if the Authority is of the opinion that the differences are such that no gas transporter would be unduly disadvantaged in competing with other gas transporters.
+
+(3)It shall be the duty of every gas transporter to conduct his business in such a way as can reasonably be expected to lead to his achieving the standards set under this section."
+
+#### **92Standards of performance: procedures**
+
+After section 33BA of the 1986 Act (which is inserted by section 91 above) there is inserted - 
+
+##### **"33BAAProcedures for prescribing or determining standards of performance**
+
+(1)Before prescribing standards of performance in regulations under section 33A or 33AA, or determining standards of performance under section 33B or 33BA, the Authority shall - 
+
+(a)arrange for such research as the Authority considers appropriate with a view to discovering the views of a representative sample of persons likely to be affected and consider the results;
+
+(b)publish a notice of its proposals in accordance with subsections (2) and (3) and consider any representations which are duly made in respect of those proposals; and
+
+(c)consult the Council and other persons or bodies mentioned in subsection (4).
+
+(2)The notice required by subsection (1)(b) is a notice - 
+
+(a)stating that the Authority proposes to prescribe or determine standards of performance and setting out the standards of performance proposed;
+
+(b)stating the reasons why it proposes to prescribe or determine those standards of performance; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations with respect to the proposals may be made.
+
+(3)A notice required by subsection (1)(b) shall be published in such manner as the Authority considers appropriate for the purpose of bringing it to the attention of those likely to be affected by the proposals.
+
+(4)The persons or bodies to be consulted by the Authority under subsection (1)(c) are - 
+
+(a)gas suppliers (in the case of standards of performance under section 33A or 33B) or gas transporters and gas suppliers (in the case of standards of performance under section 33AA or 33BA); and
+
+(b)persons or bodies appearing to the Authority to be representative of persons likely to be affected by the regulations or determination.
+
+(5)The Authority shall make arrangements for securing that notices under subsection (1)(b), regulations under section 33A or 33AA and determinations under section 33B or 33BA are made available to the public by whatever means it considers appropriate."
+
+#### **93Information with respect to levels of performance**
+
+(1)Section 33C of the 1986 Act is amended as follows.
+
+(2)In subsection (1), paragraph (c) (and the word "and" preceding it) shall cease to have effect.
+
+(3)After subsection (1) there is inserted - 
+
+"(1A)The Authority shall from time to time collect information with respect to - 
+
+(a)the compensation made by gas transporters under section 33AA;
+
+(b)the levels of overall performance achieved by gas transporters."
+
+(4)In subsection (2)(b) the words "or 33BB above" shall cease to have effect.
+
+(5)After subsection (2) there is inserted - 
+
+"(2A)At such times as the Authority may direct, each gas transporter shall give the following information to the Authority - 
+
+(a)as respects each standard prescribed by regulations under section 33AA, the number of cases in which compensation was made and the aggregate amount or value of that compensation; and
+
+(b)as respects each standard determined under section 33BA, such information with respect to the level of performance achieved by the transporter as the Authority may direct."
+
+(6)Subsection (3) shall cease to have effect.
+
+#### **94Information to be given to customers**
+
+For section 33D of the 1986 Act there is substituted - 
+
+##### **"33DInformation to be given to customers about overall performance**
+
+(1)The Authority may make regulations requiring such information as may be specified or described in the regulations about - 
+
+(a)the standards of overall performance determined under section 33B or 33BA; and
+
+(b)the levels of performance achieved as respects those standards,
+
+to be given by gas suppliers or gas transporters to customers or potential customers of gas suppliers.
+
+(2)Regulations under this section may include provision - 
+
+(a)as to the form and manner in which and the frequency with which information is to be given; and
+
+(b)requiring information about the matters mentioned in subsection (1)(a) or (b) and relating to gas transporters to be given by gas transporters to gas suppliers and by gas suppliers to their customers or potential customers."
+
+### _Enforcement of obligations_
+
+#### **95Financial penalties**
+
+(1)After section 30 of the 1986 Act there is inserted - 
+
+##### **"30APenalties**
+
+(1)Where the Authority is satisfied that a licence holder - 
+
+(a)has contravened or is contravening any relevant condition or requirement; or
+
+(b)has failed or is failing to achieve any standard of performance prescribed under section 33A or 33AA,
+
+the Authority may, subject to section 30C, impose on the licence holder a penalty of such amount as is reasonable in all the circumstances of the case.
+
+(2)The Authority shall not impose a penalty on a licence holder under subsection (1) where it is satisfied that the most appropriate way of proceeding is under the \[1998 c. 41.] Competition Act 1998.
+
+(3)Before imposing a penalty on a licence holder under subsection (1) the Authority shall give notice - 
+
+(a)stating that it proposes to impose a penalty and the amount of the penalty proposed to be imposed;
+
+(b)setting out the relevant condition or requirement or the standard of performance in question;
+
+(c)specifying the acts or omissions which, in the opinion of the Authority, constitute the contravention or failure in question and the other facts which, in the opinion of the Authority, justify the imposition of a penalty and the amount of the penalty proposed; and
+
+(d)specifying the period (not being less than 21 days from the date of publication of the notice) within which representations or objections with respect to the proposed penalty may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(4)Before varying any proposal stated in a notice under subsection (3)(a) the Authority shall give notice - 
+
+(a)setting out the proposed variation and the reasons for it; and
+
+(b)specifying the period (not being less than 21 days from the date of publication of the notice) within which representations or objections with respect to the proposed variation may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(5)As soon as practicable after imposing a penalty, the Authority shall give notice - 
+
+(a)stating that it has imposed a penalty on the licence holder and its amount;
+
+(b)setting out the relevant condition or requirement or the standard of performance in question;
+
+(c)specifying the acts or omissions which, in the opinion of the Authority, constitute the contravention or failure in question and the other facts which, in the opinion of the Authority, justify the imposition of the penalty and its amount; and
+
+(d)specifying a date, no earlier than the end of the period of 42 days from the date of service of the notice on the licence holder, by which the penalty is required to be paid.
+
+(6)The licence holder may, within 21 days of the date of service on him of a notice under subsection (5), make an application to the Authority for it to specify different dates by which different portions of the penalty are to be paid.
+
+(7)Any notice required to be given under this section shall be given - 
+
+(a)by publishing the notice in such manner as the Authority considers appropriate for the purpose of bringing the matters to which the notice relates to the attention of persons likely to be affected by them;
+
+(b)by serving a copy of the notice on the licence holder; and
+
+(c)by serving a copy of the notice on the Council.
+
+(8)No penalty imposed by the Authority under this section may exceed 10 per cent. of the turnover of the licence holder (determined in accordance with provisions specified in an order made by the Secretary of State).
+
+(9)An order under subsection (8) shall not be made unless a draft of the instrument containing it has been laid before and approved by a resolution of each House of Parliament.
+
+(10)Any sums received by the Authority by way of penalty under this section shall be paid into the Consolidated Fund.
+
+(11)The power of the Authority under subsection (1) is not exercisable in respect of any contravention or failure before the commencement of section 95 of the Utilities Act 2000.
+
+##### **30BStatement of policy with respect to penalties**
+
+(1)The Authority shall prepare and publish a statement of policy with respect to the imposition of penalties and the determination of their amount.
+
+(2)In deciding whether to impose a penalty, and in determining the amount of any penalty, in respect of a contravention or failure the Authority shall have regard to its statement of policy most recently published at the time when the contravention or failure occurred.
+
+(3)The Authority may revise its statement of policy and where it does so shall publish the revised statement.
+
+(4)Publication under this section shall be in such manner as the Authority considers appropriate for the purpose of bringing the matters contained in the statement of policy to the attention of persons likely to be affected by them.
+
+(5)The Authority shall undertake such consultation as it considers appropriate when preparing or revising its statement of policy.
+
+##### **30CTime limits on the imposition of penalties**
+
+(1)Where no final or provisional order has been made in relation to a contravention or failure, the Authority may not impose a penalty in respect of the contravention or failure later than the end of the period of 12 months from the time of the contravention or failure, unless before the end of that period - 
+
+(a)the notice under section 30A(3) relating to the penalty is served on the licence holder under section 30A(7), or
+
+(b)a notice relating to the contravention or failure is served on the licence holder under section 38(1).
+
+(2)Where a final or provisional order has been made in relation to a contravention or failure, the Authority may not impose a penalty in respect of the contravention or failure unless the notice relating to the penalty under section 30A(3) was served on the licence holder under section 30A(7) - 
+
+(a)within three months from the confirmation of the provisional order or the making of the final order, or
+
+(b)where the provisional order is not confirmed, within six months from the making of the provisional order.
+
+##### **30DInterest and payment of instalments**
+
+(1)If the whole or any part of a penalty is not paid by the date by which it is required to be paid, the unpaid balance from time to time shall carry interest at the rate for the time being specified in section 17 of the \[1838 c. 110.] Judgments Act 1838.
+
+(2)If an application is made under subsection (6) of section 30A in relation to a penalty, the penalty is not required to be paid until the application has been determined.
+
+(3)If the Authority grants an application under that subsection in relation to a penalty but any portion of the penalty is not paid by the date specified in relation to it by the Authority under that subsection, the Authority may where it considers it appropriate require so much of the penalty as has not already been paid to be paid immediately.
+
+##### **30EAppeals**
+
+(1)If the licence holder on whom a penalty is imposed is aggrieved by - 
+
+(a)the imposition of the penalty;
+
+(b)the amount of the penalty; or
+
+(c)the date by which the penalty is required to be paid, or the different dates by which different portions of the penalty are required to be paid,
+
+the licence holder may make an application to the court under this section.
+
+(2)An application under subsection (1) must be made - 
+
+(a)within 42 days from the date of service on the licence holder of a notice under section 30A(5), or
+
+(b)where the application relates to a decision of the Authority on an application by the licence holder under section 30A(6), within 42 days from the date the licence holder is notified of the decision.
+
+(3)On any such application, where the court considers it appropriate to do so in all the circumstances of the case and is satisfied of one or more of the grounds falling within subsection (4), the court - 
+
+(a)may quash the penalty;
+
+(b)may substitute a penalty of such lesser amount as the court considers appropriate in all the circumstances of the case; or
+
+(c)in the case of an application under subsection (1)(c), may substitute for the date or dates imposed by the Authority an alternative date or dates.
+
+(4)The grounds falling within this subsection are - 
+
+(a)that the imposition of the penalty was not within the power of the Authority under section 30A;
+
+(b)that any of the requirements of subsections (3) to (5) or (7) of section 30A have not been complied with in relation to the imposition of the penalty and the interests of the licence holder have been substantially prejudiced by the non-compliance; or
+
+(c)that it was unreasonable of the Authority to require the penalty imposed, or any portion of it, to be paid by the date or dates by which it was required to be paid.
+
+(5)If an application is made under this section in relation to a penalty, the penalty is not required to be paid until the application has been determined.
+
+(6)Where the court substitutes a penalty of a lesser amount it may require the payment of interest on the substituted penalty at such rate, and from such date, as it considers just and equitable.
+
+(7)Where the court specifies as a date by which the penalty, or a portion of the penalty, is to be paid a date before the determination of the application under this section it may require the payment of interest on the penalty, or portion, from that date at such rate as it considers just and equitable.
+
+(8)Except as provided by this section, the validity of a penalty shall not be questioned by any legal proceedings whatever.
+
+(9)In this section "the court" means - 
+
+(a)in relation to England and Wales, the High Court; and
+
+(b)in relation to Scotland, the Court of Session.
+
+##### **30FRecovery of penalties**
+
+Where a penalty imposed under section 30A(1), or any portion of it, has not been paid by the date on which it is required to be paid and - 
+
+(a)no application relating to the penalty has been made under section 30E during the period within which such an application can be made, or
+
+(b)an application has been made under that section and determined,
+
+the Authority may recover from the licence holder, as a civil debt due to it, any of the penalty and any interest which has not been paid."
+
+(2)In section 28 of the 1986 Act (orders for securing compliance with certain provisions) - 
+
+(a)subsection (7A) (power to impose financial penalty in a final order under section 28) and subsection (9) (payment of sums received by way of financial penalty under section 28 to be paid into the Consolidated Fund) shall cease to have effect;
+
+(b)in subsection (8) (interpretation) for "and 30" there is substituted "to 30F".
+
+(3)Section 30(2)(b) of the 1986 Act (power of court to quash or substitute a monetary penalty on an application under section 30) shall cease to have effect.
+
+(4)In section 36 of the 1986 Act (keeping of a register) - 
+
+(a)in subsection (1), for "and final and provisional orders" there is substituted ", final and provisional orders and penalties imposed under section 30A(1)";
+
+(b)in subsection (2), after paragraph (e) there is inserted "; and
+
+(f)every notice under section 30A(5)."
+
+(5)In section 38(1) of the 1986 Act (power to require information, etc.) - 
+
+(a)for "Director" in each place where it appears, there is substituted "Authority";
+
+(b)after "requirement" there is inserted "or may be failing, or may have failed, to achieve any standard of performance prescribed under section 33A or 33AA,";
+
+(c)for the words from "his functions" to "signed by him" there is substituted "its functions under section 28 or 30A to 30F in relation to that matter, by notice in writing";
+
+(d)for "him" there is substituted "it".
+
+#### **96Licence enforcement**
+
+(1)The 1986 Act is amended as follows.
+
+(2)In subsection (1) of section 28 (orders for securing compliance with certain provisions), for "and (5)" there is substituted ", (5) and (5A)".
+
+(3)In subsections (2), (4) and (6) of that section, for "subsection (5)" there is substituted "subsections (5) and (5A)".
+
+(4)In subsection (5) of that section paragraphs (aa) and (b) shall cease to have effect.
+
+(5)After subsection (5) of that section there is inserted - 
+
+"(5A)The Authority is not required to make a final order or make or confirm a provisional order if it is satisfied - 
+
+(a)that the licence holder has agreed to take and is taking all such steps as it appears to the Authority for the time being to be appropriate for the licence holder to take for the purpose of securing or facilitating compliance with the condition or requirement in question; or
+
+(b)that the contraventions were or the apprehended contraventions are of a trivial nature."
+
+(6)In section 29 (procedural requirements for making or confirming orders under section 28), in subsections (1)(c) and (4)(b), for "28" there is substituted "21".
+
+(7)Subsections (2) to (6) do not have effect in relation to - 
+
+(a)a provisional order which has been made before the commencement of the subsection making the amendment; or
+
+(b)a final order in respect of which notice has been given under section 29(1) of the 1986 Act before the commencement of the subsection making the amendment.
+
+### _Remuneration and service standards_
+
+#### **97Links between directors' remuneration and gas service standards**
+
+After section 33E of the 1986 Act there is inserted - 
+
+##### _"Service standards and remuneration_
+
+###### **33FRemuneration and service standards**
+
+(1)This section applies to any company which is authorised by a licence to carry on activities subject to price regulation.
+
+(2)As soon as reasonably practicable after the end of each financial year of the company it must make a statement to the Authority - 
+
+(a)disclosing whether or not remuneration has been paid or become due during that financial year to the directors of the company as a result of arrangements falling within subsection (3); and
+
+(b)where such remuneration has been paid or become due, describing the arrangements and the remuneration.
+
+(3)Arrangements fall within this subsection if they are arrangements for linking the remuneration of the directors of the company to levels of performance as respects service standards in connection with activities subject to price regulation.
+
+(4)A description under subsection (2)(b) must include in particular - 
+
+(a)a statement of when the arrangements were made;
+
+(b)a description of the service standards in question;
+
+(c)an explanation of the means by which the levels of performance as respects those service standards are assessed; and
+
+(d)an explanation of how the remuneration was calculated.
+
+(5)The statement required by subsection (2) must also state - 
+
+(a)whether or not there are in force in respect of the financial year during which the statement is made arrangements falling within subsection (3); or
+
+(b)if not, whether the company intends that such arrangements will be in force at some time during that financial year,
+
+and if there are, or it is intended that there will be, such arrangements in force the statement must describe those arrangements.
+
+(6)A description under subsection (5) must - 
+
+(a)include in particular the matters listed in subsection (4)(a), (b) and (c); and
+
+(b)where the arrangements described are different from any arrangements described under subsection (2)(b), state the likely effect of those differences on the remuneration of each director of the company.
+
+(7)The statement required by subsection (2) must be made to the Authority in such manner as may be required by the Authority.
+
+(8)The statement required by subsection (2) - 
+
+(a)must be published by the company making the statement in such manner as it reasonably considers will secure adequate publicity for it; and
+
+(b)may be published by the Authority in such manner as it may consider appropriate.
+
+(9)The duty of a company under this section applies in respect of any person who has at any time been a director of the company.
+
+(10)In this section - 
+
+* "activities subject to price regulation", in relation to any company, are activities for which - 
+
+  (a)
+
+  a maximum price which may be charged by the company, or a method for calculating such a maximum price; or
+
+  (b)
+
+  a maximum revenue which may be received by the company, or a method for calculating such a maximum revenue,
+
+  is determined by or under the licence granted under this Part;
+
+* "company" means a company within the meaning of the \[1985 c. 6.] Companies Act 1985 which is limited by shares;
+
+* "remuneration" in relation to a director of a company - 
+
+  (a)
+
+  means any form of payment, consideration or other benefit (including pension benefit), paid or due to or in respect of the director; and
+
+  (b)
+
+  includes remuneration in respect of any of his services while a director of the company;
+
+* "service standards" in relation to any company, means standards relating to the quality of service received by customers or potential customers of the company, including any such standards which are - 
+
+  (a)
+
+  set by or under any conditions included in a licence granted under this Part;
+
+  (b)
+
+  prescribed by the Authority in regulations made under section 33A and 33AA;
+
+  (c)
+
+  determined by the Authority under section 33B or 33BA; or
+
+  (d)
+
+  set or agreed to by the company."
+
+### _Miscellaneous_
+
+#### **98Help for disadvantaged groups of gas customers**
+
+After section 41 of the 1986 Act there is inserted - 
+
+##### _"Adjustment of charges_
+
+###### **41AAdjustment of charges to help disadvantaged groups of customers**
+
+(1)If the Secretary of State considers that members of any group (a "disadvantaged group") of customers of authorised suppliers are treated less favourably than other customers of theirs as respects charges for gas, he may make an order containing a scheme for the adjustment of charges for gas with a view to eliminating or reducing the less favourable treatment.
+
+(2)The scheme may include - 
+
+(a)provision for the adjustment of charges by authorised shippers or authorised transporters (as well as by suppliers); and
+
+(b)in relation to charges payable to suppliers, provision for the adjustment of charges payable by customers who are not members of the disadvantaged group (as well as by persons who are).
+
+(3)The scheme shall - 
+
+(a)describe the disadvantaged group;
+
+(b)specify the persons whose charges are covered by the scheme; and
+
+(c)set out the basis of the adjustment of the charges.
+
+(4)If the scheme does not relate to the whole of Great Britain, it shall specify the area or areas to which it relates.
+
+(5)The scheme may - 
+
+(a)require authorised suppliers, authorised shippers or authorised transporters to supply information of any specified description, in any specified form, to any other such persons; and
+
+(b)provide for the modification of conditions of licences,
+
+for the purpose of facilitating the implementation of the scheme.
+
+(6)An order shall not be made under this section unless a draft of the statutory instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+###### **41BOrders: supplementary**
+
+(1)Before making an order under section 41A, the Secretary of State shall give notice - 
+
+(a)stating that he proposes to make an order and setting out its effect;
+
+(b)stating the reasons why he proposes to make the order; and
+
+(c)specifying the time (not being less than 28 days from the date of publication of the notice) within which representations or objections with respect to the proposed order may be made,
+
+and shall consider any representations or objections which are duly made and not withdrawn.
+
+(2)The notice shall be given - 
+
+(a)by serving a copy of it on the persons whose charges are covered by the proposed order; and
+
+(b)by publishing it in such manner as the Secretary of State considers appropriate for bringing the proposed order to the attention of other persons likely to be affected by it.
+
+(3)An order under section 41A shall continue in force for such period not exceeding three years as is specified in the order; but that does not prevent the making of another order to come into force at the end of that period.
+
+(4)The Secretary of State may by order require authorised suppliers, authorised shippers or authorised transporters to supply information of any specified description, in any specified form, to any other such persons for the purpose of enabling the making of an order under section 41A.
+
+(5)The Authority - 
+
+(a)shall monitor the effect of orders under section 41A and report its findings to the Secretary of State whenever he directs it to do so; and
+
+(b)may require authorised suppliers, authorised shippers or authorised transporters to supply to the Authority, in any specified form, such information as it requires for carrying out that duty.
+
+(6)In section 41A references to customers do not include customers of a description excluded by an order made by the Secretary of State.
+
+(7)In this section and section 41A "authorised shipper" means a person authorised by a licence or exemption to arrange with any gas transporter for gas to be introduced into, conveyed by means of, or taken out of a pipe-line system operated by that transporter."
+
+#### **99Energy efficiency requirements for gas transporters and suppliers**
+
+For section 33BB of the 1986 Act (promotion of efficient use of gas) there is substituted - 
+
+##### **"33BCPromotion of the efficient use by consumers of gas**
+
+(1)The Secretary of State may by order impose - 
+
+(a)on each gas transporter (or each gas transporter of a specified description); and
+
+(b)on each gas supplier (or each gas supplier of a specified description),
+
+an obligation to achieve, within a specified period and in accordance with the order, the energy efficiency target to be determined by the Authority under the order for that transporter or supplier (and that obligation is referred to in this section as an "energy efficiency obligation").
+
+(2)In this section "energy efficiency target" means a target for the promotion of improvements in energy efficiency, that is to say, efficiency in the use by consumers of gas conveyed through pipes, electricity or any other source of energy which is specified in the order.
+
+(3)An order under this section may specify criteria by reference to which the Authority is to determine energy efficiency targets for the gas transporters and gas suppliers on whom obligations are imposed by the order.
+
+(4)The Secretary of State and the Authority shall carry out their respective functions under this section in the manner he or it considers is best calculated to ensure that no gas transporter is unduly disadvantaged in competing with other gas transporters and no gas supplier is unduly disadvantaged in competing with other gas suppliers.
+
+(5)The order may make provision generally in relation to the energy efficiency obligations which it imposes, including in particular provision - 
+
+(a)as to the treatment of persons who become gas transporters or gas suppliers after the beginning of the period to which the order relates;
+
+(b)as to the action which qualifies for the purpose of meeting the whole or any part of an energy efficiency target;
+
+(c)as to the method by which improvements in energy efficiency attributable to any qualifying action are to be assessed;
+
+(d)requiring transporters and suppliers to give to the Authority specified information, or information of a specified nature, about their proposals for complying with their energy efficiency obligations;
+
+(e)requiring the Authority to determine - 
+
+(i)whether any proposed action qualifies for the purpose of achieving the whole or any part of a person's energy efficiency target; and
+
+(ii)if so, what improvement in energy efficiency is to be attributed for that purpose to the proposed action or to any result of that action specified in the determination; and
+
+(f)requiring transporters or suppliers to produce to the Authority evidence of a specified kind demonstrating that they have complied with their energy efficiency obligations.
+
+(6)The order may make provision authorising the Authority to require a transporter or supplier to provide it with specified information, or information of a specified nature, relating to - 
+
+(a)his proposals for complying with his energy efficiency obligation; or
+
+(b)the question whether he has complied with that obligation.
+
+(7)The order may make provision as to circumstances in which - 
+
+(a)a person's energy efficiency target may be altered during the period to which the order relates;
+
+(b)the whole or any part of a person's energy efficiency target may be treated as having been achieved by action taken otherwise than by or on behalf of that person;
+
+(c)any action taken before the period to which the order relates may be treated as qualifying action taken during that period;
+
+(d)the whole or any part of a person's energy efficiency target may be transferred to another gas transporter or gas supplier or to an electricity distributor or electricity supplier (within the meaning of Part I of the \[1989 c. 29.] Electricity Act 1989); or
+
+(e)a person may carry forward the whole or any part of his energy efficiency target for the period to which the order relates to a subsequent period.
+
+(8)The order may - 
+
+(a)provide for exceptions from any requirement of the order;
+
+(b)provide that any specified requirement contained in it is to be treated as a relevant requirement for the purposes of this Part;
+
+(c)make supplementary, incidental and transitional provision; and
+
+(d)subject to subsection (4), make different provision for different cases (including different provision in relation to different transporters or suppliers).
+
+(9)The order may include provision for treating the promotion of the supply to premises of - 
+
+(a)electricity generated by a generating station which is operated for the purposes of producing heat, or a cooling effect, in association with electricity;
+
+(b)heat produced in association with electricity or steam produced from (or air or water heated by) such heat; or
+
+(c)any gas or liquid subjected to a cooling effect produced in association with electricity,
+
+as promotion of improvements in energy efficiency.
+
+(10)No person shall be required by virtue of this section to provide any information which he could not be compelled to give in evidence in civil proceedings in the High Court or, in Scotland, the Court of Session.
+
+(11)Before making an order under this section the Secretary of State shall consult the Authority, the Council, gas transporters and gas suppliers and such other persons as he considers appropriate.
+
+(12)An order under this section shall not be made unless a draft of the instrument containing it has been laid before, and approved by a resolution of, each House of Parliament."
+
+#### **100Exercise of powers to make regulations**
+
+For section 47(7) of the 1986 Act (power to make regulations to be exercisable by statutory instrument) there is substituted - 
+
+"(7)Any power to make regulations conferred by this Part on the Secretary of State or the Authority shall be exercisable by statutory instrument.
+
+(8)Any statutory instrument containing regulations under this Part made by the Secretary of State shall, except as otherwise provided by this Act, be subject to annulment in pursuance of a resolution of either House of Parliament."
+
+#### **101Standards of gas quality**
+
+After section 15A of the 1986 Act (billing disputes) there is inserted - 
+
+##### **"16Standards of gas quality**
+
+(1)The Authority may, with the consent of the Secretary of State, prescribe - 
+
+(a)standards of pressure and purity to be complied with by gas transporters in conveying gas to premises or to pipe-line systems operated by other gas transporters; and
+
+(b)other standards with respect to the properties, condition and composition of gas so conveyed.
+
+(2)Before making any regulations under this section the Authority shall consult such persons and organisations as it considers appropriate and such gas transporters as appear to it to be affected by the regulations.
+
+(3)The Authority shall appoint competent and impartial persons for the purpose of - 
+
+(a)carrying out tests of gas, apparatus or equipment in accordance with regulations under this section; and
+
+(b)assisting the Authority in exercising functions under this section and regulations made under it.
+
+(4)Regulations under this section may make provision - 
+
+(a)for requiring tests of gas conveyed by gas transporters to be carried out by persons appointed under subsection (3) or by gas transporters for the purpose of ascertaining whether the gas conforms with the standards prescribed by the regulations;
+
+(b)for requiring such tests to be carried out on the basis of samples taken by persons appointed under subsection (3) or by gas transporters; and
+
+(c)for requiring samples of gas taken under paragraph (b) to be provided by gas transporters for the purpose of carrying out such tests.
+
+(5)Regulations under this section may make provision - 
+
+(a)for requiring such premises, apparatus and equipment as the Authority may direct to be provided and maintained by gas transporters for the purpose of carrying out tests required under subsection (4)(a);
+
+(b)for requiring tests of apparatus and equipment so provided to be carried out by persons appointed under subsection (3); and
+
+(c)for requiring gas transporters to carry out tests of apparatus and equipment so provided and maintained by them.
+
+(6)Regulations under this section may make provision - 
+
+(a)as to the places or premises and the times at which, and the manner in which - 
+
+(i)tests under this section are to be carried out;
+
+(ii)samples of gas are to be taken and provided under this section; and
+
+(iii)results of tests under this section are to be notified or made available;
+
+(b)for the Authority to require by direction any matter which may be required by regulations by virtue of paragraph (a);
+
+(c)for persons representing the gas transporter concerned to be present during the carrying out of any tests carried out by persons appointed under subsection (3);
+
+(d)for the results of tests under this section to be made available to other licence holders and to the public;
+
+(e)for requiring gas transporters to notify the results of such tests carried out by them to the Authority or to any person appointed under subsection (3);
+
+(f)for conferring powers of entry on property owned or occupied by gas transporters for the purpose of carrying out tests under this section and otherwise for the purposes of the regulations.
+
+(7)Subject to subsection (8), the Authority may by notice in writing require a gas transporter to give to the Authority, or to any person appointed by it for the purpose, within such time and at such place as may be specified in the notice, such information as the Authority may reasonably require for the purpose of making regulations under this section or of giving directions under such regulations.
+
+(8)A gas transporter shall not be required under subsection (7) to give any information which he could not be compelled to give in evidence in civil proceedings before the High Court or, in Scotland, the Court of Session.
+
+(9)Every person who is a gas transporter during any period shall pay to the Authority such proportion as the Authority may determine of such part of its expenses for that period as the Authority may determine to be attributable to its functions in connection with the testing of gas for the purposes of this section.
+
+(10)It shall be the duty of every gas transporter to conduct his business in such a way as can reasonably be expected to secure compliance with the standards set under subsection (1)."
+
+#### **102Maximum prices for reselling gas**
+
+In section 37 of the 1986 Act (maximum prices for reselling gas) - 
+
+(a)in subsection (1), for "shall" (in the first place it appears) and "gas suppliers" there is substituted respectively "may" and "authorised suppliers"; and
+
+(b)in subsections (2) and (4) for "a gas supplier" there is substituted "an authorised supplier".
+
+## **Part VI**Miscellaneous and Supplementary
+
+### _Miscellaneous_
+
+#### **103Overall energy efficiency targets**
+
+(1)For the purposes of the exercise by the Authority of its functions under either or both of - 
+
+(a)section 33BC of the 1986 Act (energy efficiency requirements for gas transporters and suppliers) and any order made under that section, and
+
+(b)section 41A of the 1989 Act (energy efficiency requirements for electricity distributors and suppliers) and any order made under that section,
+
+the Secretary of State may by order specify an overall target for the promotion of improvements in energy efficiency.
+
+(2)Where an overall target applies in relation to both sections mentioned in subsection (1), the order specifying the target may make provision for the Authority to apportion the target between - 
+
+(a)persons who are gas transporters or gas suppliers (for the purposes of section 33BC of the 1986 Act and any order under that section); and
+
+(b)persons who are electricity distributors or electricity suppliers (for the purposes of section 41A of the 1989 Act and any order under that section),
+
+by reference to such criteria as may be specified in the order.
+
+(3)The Authority shall exercise its functions under the provisions mentioned in subsection (1) in relation to which an overall target applies (and in particular its functions relating to the determination of energy efficiency targets) in the manner it considers best calculated to result in the achievement of the overall target.
+
+(4)Before making an order under this section the Secretary of State shall consult the Authority, the Council, gas transporters, gas suppliers, electricity distributors, electricity suppliers, and such other persons as he considers appropriate.
+
+(5)An order under this section shall not be made unless a draft of the instrument containing it has been laid before, and approved by a resolution of, each House of Parliament.
+
+#### **104Specialist members of the Competition Commission**
+
+(1)The Secretary of State shall appoint not less than six members of the Competition Commission ("the Commission") for the purpose of the exercise by the Commission of any function under or by virtue of - 
+
+(a)section 24, 26A or 41E of the 1986 Act; or
+
+(b)section 12, 14A or 56C of the 1989 Act.
+
+(2)In selecting a group to perform any function of the Commission under or by virtue of any provision mentioned in subsection (1), the chairman of the Commission shall select one or more of the members appointed under subsection (1) to be members of the group.
+
+(3)In paragraph 2(1)(d) of Schedule 7 to the \[1998 c. 41.] Competition Act 1998 (membership of Commission to include specialist members appointed under gas and electricity legislation), for sub-paragraph (ii) there is substituted - 
+
+"(ii)section 104 of the Utilities Act 2000;".
+
+(4)Section 12(9) and (9A) of the 1989 Act (which are superseded by this section) shall cease to have effect.
+
+(5)The persons who are, immediately before the commencement of this section, members of the Competition Commission by virtue of appointments made under section 12(9) of the 1989 Act shall continue as members of the Commission and their appointments shall be treated as having been made under this section.
+
+(6)Nothing in this section affects any group which has been selected, before the commencement of this section, to perform functions of the Commission in relation to any reference under or by virtue of section 24 of the \[1986 . 44.] 1986 Act or section 12 of the 1989 Act.
+
+#### **105General restrictions on disclosure of information**
+
+(1)Information which - 
+
+(a)has been obtained under or by virtue of the provisions of this Act, Part I of the 1986 Act or Part I of the 1989 Act; and
+
+(b)relates to the affairs of any individual or to any particular business,
+
+shall not be disclosed during the lifetime of the individual or so long as the business continues to be carried on, except as provided below.
+
+(2)Subsection (1) does not apply to a disclosure made with the consent of the individual or the person for the time being carrying on the business.
+
+(3)Subsection (1) does not apply to a disclosure if - 
+
+(a)it is made for the purpose of facilitating the performance of any functions of the Secretary of State, the Authority, the Council or the Competition Commission under the 1986 Act, the 1989 Act or this Act;
+
+(b)it is required by a notice under section 38(1A) of the 1986 Act or section 28(2A) of the 1989 Act;
+
+(c)it is made by a licence holder and is required to be made by a condition of his licence; or
+
+(d)it is made by one licence holder to another and is required by that other licence holder for purposes connected with the carrying on of relevant activities.
+
+(4)Subsection (1) does not apply to any disclosure of information made - 
+
+(a)for the purpose of facilitating the performance by a person or body mentioned in subsection (5) of any function under an Act or instrument specified in subsection (6);
+
+(b)for the purpose of facilitating the performance by the Comptroller and Auditor General, the Health and Safety Commission or the Health and Safety Executive of any of his or its functions;
+
+(c)for the purpose of facilitating the exercise by the Secretary of State of any power conferred by the Financial Services Act 1986 or by the enactments relating to companies, insurance companies or insolvency;
+
+(d)for the purpose of facilitating the performance of the functions of an inspector appointed under the enactments relating to companies;
+
+(e)for the purpose of facilitating the performance by an official receiver of his functions under the enactments relating to insolvency or by a recognised professional body for the purposes of section 391 of the \[1986 c. 45.] Insolvency Act 1986 of its functions as such a body;
+
+(f)in connection with the investigation of any criminal offence or for the purposes of any criminal proceedings;
+
+(g)for the purposes of any civil proceedings brought under or by virtue of the 1986 Act, the 1989 Act, this Act or any Act or instrument specified in subsection (6); or
+
+(h)in pursuance of a Community obligation.
+
+(5)The persons and bodies specified for the purposes of subsection (4)(a) are - 
+
+(a)a Minister of the Crown;
+
+(b)the Competition Commission;
+
+(c)the Director General of Fair Trading;
+
+(d)the Director General of Telecommunications;
+
+(e)the Director General of Water Services;
+
+(f)the Director General of Electricity Supply for Northern Ireland;
+
+(g)the Director General of Gas for Northern Ireland;
+
+(h)the Rail Regulator;
+
+(i)the Civil Aviation Authority;
+
+(j)the Insolvency Practitioners Tribunal;
+
+(k)the Coal Authority; and
+
+(l)a local weights and measures authority in Great Britain.
+
+(6)The Acts and instruments specified for the purposes of subsection (4)(a) and (g) are - 
+
+(a)the \[1968 c. 29.] Trade Descriptions Act 1968;
+
+(b)the \[1973 c. 41.] Fair Trading Act 1973;
+
+(c)the \[1974 c. 39.] Consumer Credit Act 1974;
+
+(d)the \[1979 c. 38.] Estate Agents Act 1979;
+
+(e)the \[1980 c. 21.] Competition Act 1980;
+
+(f)the \[1983 c. 44.] National Audit Act 1983;
+
+(g)the \[1984 c. 12.] Telecommunications Act 1984;
+
+(h)the \[1986 c. 31.] Airports Act 1986;
+
+(i)the \[1986 c. 45.] Insolvency Act 1986;
+
+(j)the \[1987 c. 43.] Consumer Protection Act 1987;
+
+(k)the \[S.I. 1988/915.] Control of Misleading Advertisements Regulations 1988;
+
+(l)the \[1989 c. 15.] Water Act 1989, the \[1991 c. 56.] Water Industry Act 1991 or any of the other consolidation Acts (within the meaning of section 206 of the Water Industry Act 1991);
+
+(m)the \[S.I. 1992/231 (N.I.1).] Electricity (Northern Ireland) Order 1992;
+
+(n)the \[1993 c. 43.] Railways Act 1993;
+
+(o)the \[1994 c. 21.] Coal Industry Act 1994;
+
+(p)the \[S.I. 1996/275 (N.I.2).] Gas (Northern Ireland) Order 1996;
+
+(q)the \[1998 c. 41.] Competition Act 1998.
+
+(7)The Secretary of State may by order modify subsection (3), (4), (5) or (6).
+
+(8)Nothing in subsection (1) is to be construed either as limiting the matters which may be - 
+
+(a)published under section 33DA or 35 of the 1986 Act or section 42AA or 48 of the 1989 Act;
+
+(b)made public by the Authority as part of a notice under section 26; or
+
+(c)included in, or made public as part of, a report of the Authority, the Council or the Competition Commission under any provision of this Act, Part I of the 1986 Act or Part I of the 1989 Act;
+
+or as applying to information which has been so published or has been made public as part of such a notice or such a report.
+
+(9)A person who discloses any information in contravention of this section is guilty of an offence and liable - 
+
+(a)on summary conviction, to a fine not exceeding the statutory maximum;
+
+(b)on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
+
+(10)In this section - 
+
+* "licence holder" means the holder of a gas licence or an electricity licence; and
+* "relevant activities", in relation to a licence holder, means activities he is authorised by his licence to carry on (including, in the case of a gas transporter, the activities mentioned in section 7(1)(b) and (c) of the 1986 Act).
+
+(11)Information obtained by the Authority in the exercise of functions which are exercisable concurrently with the Director General of Fair Trading under Part I of the \[1998 c. 41.] Competition Act 1998 is subject to sections 55 and 56 of that Act (disclosure) and not to subsections (1) to (10) of this section.
+
+(12)The power to make an order under subsection (7) is exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+### _Supplementary_
+
+#### **106Interpretation**
+
+(1)In this Act - 
+
+* "Authority" means the Gas and Electricity Markets Authority;
+* "Council" means the Gas and Electricity Consumer Council;
+* "electricity licence" means a licence under section 6 of the 1989 Act;
+* "gas licence" means a licence under section 7 or 7A of the 1986 Act;
+* "the 1986 Act" means the \[1986 c. 44.] Gas Act 1986;
+* "the 1989 Act" means the \[1989 c. 29.] Electricity Act 1989.
+
+(2)Expressions used in this Act, as regards matters relating to gas, which are defined in section 48 or 66 of the 1986 Act or used in Part I of that Act have, unless the context otherwise requires, the same meaning as in that Part of that Act.
+
+(3)Expressions used in this Act, as regards matters relating to electricity, which are defined in section 64 or 111 of the 1989 Act or used in Part I of that Act have, unless the context otherwise requires, the same meaning as in that Part of that Act.
+
+(4)Section 46 of the 1986 Act (service of notices, etc.) shall apply to any document authorised or required by virtue of any provision of this Act to be served on or given to any person as if it were authorised or required to be served or given by virtue of that Act.
+
+#### **107Financial provisions**
+
+There shall be paid out of money provided by Parliament - 
+
+(a)any expenditure incurred by the Authority by virtue of this Act;
+
+(b)any expenditure incurred by the Secretary of State by virtue of this Act;
+
+(c)any increase attributable to this Act in the sums payable out of money so provided under any other Act.
+
+#### **108Amendments, transitional provisions and repeals**
+
+Schedule 6 (minor and consequential amendments), Schedule 7 (transitional provisions and savings) and Schedule 8 (repeals) have effect.
+
+#### **109Power to make transitional provision etc**
+
+(1)The Secretary of State may by regulations make such transitional and consequential provisions and such savings as he considers necessary or expedient in preparation for, or in connection with, or in consequence of - 
+
+(a)the coming into force of any provision of this Act; or
+
+(b)the operation of any enactment repealed or amended by a provision of this Act during any period when the repeal or amendment is not wholly in force.
+
+(2)Such regulations may make modifications of any enactment contained in any Act or subordinate legislation (including an enactment contained in this Act or in any Act passed or subordinate legislation made in the same Session as this Act).
+
+(3)The power of the Secretary of State to make regulations under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### **110Short title, commencement and extent**
+
+(1)This Act may be cited as the Utilities Act 2000.
+
+(2)This Act (apart from this section and section 68) shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint; and different days may be appointed for different purposes.
+
+(3)An order under subsection (2) may contain transitional provisions and savings relating to the provisions being brought into force by the order.
+
+(4)Any amendment or repeal made by this Act has the same extent as the enactment being amended or repealed.
+
+(5)Subject to subsection (4), this Act does not extend to Northern Ireland.
+
+# SCHEDULES
+
+Section 1(4).
+
+## SCHEDULE 1The Gas and Electricity Markets Authority
+
+### _Membership_
+
+1(1)The Authority shall consist of a chairman, and no fewer than two other members, appointed by the Secretary of State.
+
+(2)The Secretary of State shall consult the chairman before appointing any other member.
+
+### _Terms of appointment, remuneration, pensions etc._
+
+2(1)Subject to this Schedule, the chairman and other members shall hold and vacate office as such in accordance with the terms of their respective appointments.
+
+(2)The terms of appointment of the chairman and other members shall be determined by the Secretary of State.
+
+3(1)An appointment of a person to hold office as chairman or other member shall be for a term not exceeding five years.
+
+(2)A person holding office as chairman or other member - 
+
+(a)may resign that office by giving notice in writing to the Secretary of State; and
+
+(b)may be removed from office by the Secretary of State on the ground of incapacity or misbehaviour.
+
+(3)A previous appointment as chairman or other member does not affect a person's eligibility for appointment to either office.
+
+4(1)The Authority shall pay to the chairman and other members such remuneration, and such travelling and other allowances, as may be determined by the Secretary of State.
+
+(2)The Authority shall, if required to do so by the Secretary of State - 
+
+(a)pay such pension, allowances or gratuities as may be determined by the Secretary of State to or in respect of a person who is or has been the chairman or a member of the Authority; or
+
+(b)make such payments as may be so determined towards provision for the payment of a pension, allowances or gratuities to or in respect of such a person.
+
+(3)If, where any person ceases to hold office as chairman or other member, the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, the Authority shall pay to him a sum by way of compensation of such amount as may be determined by the Secretary of State.
+
+### _Staff_
+
+5The Authority may, with the approval of the Minister for the Civil Service as to numbers and terms and conditions of service, appoint such staff as it may determine.
+
+### _Committees_
+
+6(1)The Authority may establish committees and any committee of the Authority may establish sub-committees.
+
+(2)The members of a committee of the Authority may include persons who are not members of the Authority (and the members of a sub-committee may include persons who are not members of the committee).
+
+### _Proceedings etc._
+
+7(1)The Authority may regulate its own procedure (including quorum).
+
+(2)The validity of anything done by the Authority is not affected by a vacancy among its members or by a defect in the appointment of a member.
+
+8(1)The application of the seal of the Authority to a statutory instrument shall be authenticated by the signature of the chairman or by some other person who has been authorised by the Authority to act for that purpose.
+
+(2)A document purporting to be duly executed under the seal of the Authority, or signed on its behalf, shall be received in evidence and, unless the contrary is proved, be taken to be so executed or signed.
+
+### _Performance of functions_
+
+9(1)Anything authorised or required to be done by the Authority may be done by - 
+
+(a)any member or employee of the Authority who is authorised for that purpose by the Authority, whether generally or specially;
+
+(b)any committee of the Authority which has been so authorised.
+
+(2)Sub-paragraph (1) does not apply to any power to make statutory instruments.
+
+(3)In sub-paragraph (1)(b) "committee of the Authority" does not include a committee whose members include any person who is not a member or employee of the Authority.
+
+10The \[1946 c. 36.] Statutory Instruments Act 1946 shall apply to any power to make statutory instruments conferred on the Authority by or under any Act as if the Authority were a Minister of the Crown.
+
+### _Supplementary powers_
+
+11(1)The Authority has power to do anything which is calculated to facilitate, or is conducive or incidental to, the performance of its functions.
+
+(2)That power includes the formation of advisory bodies.
+
+Section 2(4).
+
+## SCHEDULE 2The Gas and Electricity Consumer Council
+
+### _Membership of Council_
+
+1(1)The Council shall consist of a chairman and such other members as may be appointed by the Secretary of State.
+
+(2)The Secretary of State shall consult the chairman before appointing any other member.
+
+(3)An appointment under this paragraph shall be for a term not exceeding five years.
+
+(4)In appointing persons under this paragraph the Secretary of State shall have regard to the desirability of including among the members one or more persons who - 
+
+(a)have experience of work among, and the special needs of, disabled persons; or
+
+(b)have or have had a disability.
+
+2(1)A person holding office as chairman or other member may resign that office by giving notice in writing to the Secretary of State.
+
+(2)The Secretary of State may remove any person from office as chairman or other member on the ground of incapacity or misbehaviour.
+
+(3)Otherwise, the chairman and other members shall hold and vacate office as such in accordance with the terms of their respective appointments.
+
+(4)A previous appointment as chairman or other member does not affect a person's eligibility for appointment to either office.
+
+### _Terms of appointment, remuneration, pensions etc._
+
+3The Council shall pay to the chairman and other members of the Council such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
+
+4(1)If the Secretary of State so determines in the case of any holder of the office of chairman or other member, the Council shall pay - 
+
+(a)such pension, allowance or gratuity to or in respect of him, or
+
+(b)such contributions or payments towards provision for such a pension, allowance or gratuity,
+
+as the Secretary of State may determine.
+
+(2)If, when any person ceases to hold office as chairman or other member, the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, the Council shall pay to him a sum by way of compensation of such amount as may be determined by the Secretary of State.
+
+### _Staff_
+
+5(1)The Council shall, with the approval of the Secretary of State, appoint a principal officer on such terms of employment as it may, with that approval, determine.
+
+(2)The Council may, with the approval of the Secretary of State as to numbers and terms of employment, appoint such other employees as it may determine.
+
+(3)The persons to whom section 1 of the \[1972 c. 11.] Superannuation Act 1972 (persons to or in respect of whom benefits may be provided by schemes under that section) applies shall include employees of the Council.
+
+(4)The Council shall pay to the Minister for the Civil Service at such times as he may direct, such sums as he may determine in respect of any increase attributable to sub-paragraph (3) in the sums payable out of money provided by Parliament under the \[1972 c. 11.] Superannuation Act 1972.
+
+### _Annual reports_
+
+6(1)As soon as practicable after the end of each financial year the Council shall report to the Secretary of State on its activities during the year.
+
+(2)The annual report for each year shall include a report on the progress of the projects described in the Council's forward work programme for that year.
+
+(3)In making any report under this paragraph the Council shall not include any information which relates to the affairs of a particular individual or body of persons (corporate or unincorporate) unless one or more of paragraphs (a) to (c) of sub-paragraph (4) applies to the information.
+
+(4)Information relating to a particular individual or body may be included in the report if - 
+
+(a)that individual or body has consented to its inclusion;
+
+(b)it is information that is available to the public from some other source; or
+
+(c)it is not information the publication of which would or might, in the opinion of the Council, seriously and prejudicially affect the interests of that individual or body.
+
+(5)Before deciding to include any information relating to a particular individual or body in pursuance of sub-paragraph (4)(c), the Council shall - 
+
+(a)consult that person or body; and
+
+(b)have regard to any opinion expressed by the Authority as to the application of sub-paragraph (4)(c) to the information or as to the desirability or otherwise of its publication,
+
+and paragraph (b) applies whether the opinion is given in relation to the information itself or to information of a description which applies to that information.
+
+(6)The Secretary of State shall lay a copy of each annual report of the Council before each House of Parliament.
+
+(7)The Council shall send a copy of each annual report to the Authority and shall arrange for the report to be published in such manner as it considers appropriate.
+
+### _Financial provisions and accounts_
+
+7It shall be the duty of the Council to comply with any notice given by the Secretary of State with the approval of the Treasury requiring it to perform duties of a financial nature specified in the notice.
+
+8(1)The Council shall prepare, in respect of each financial year, a statement of accounts giving a true and fair view of the state of affairs and the income and expenditure of the Council.
+
+(2)The statement of accounts shall comply with any requirement which the Secretary of State has, with the approval of the Treasury, notified to the Council.
+
+(3)The Council shall send each statement of accounts of the Council to the Secretary of State and to the Comptroller and Auditor General within such period after the end of the financial year to which it relates as the Secretary of State may specify by notice given to the Council.
+
+(4)The Comptroller and Auditor General shall - 
+
+(a)examine, certify and report on each statement of accounts received by him under sub-paragraph (3), and
+
+(b)lay a copy of each such statement of accounts, and of his report on it, before each House of Parliament.
+
+9The Secretary of State shall pay to the Council such sums as he thinks fit to enable it to meet its expenses.
+
+### _Regional and other committees and sub-committees_
+
+10The Council may establish committees (in addition to the regional committees) and any regional or other committee of the Council may establish sub-committees.
+
+11(1)The Council shall not establish or abolish a regional committee, or alter the areas for which a regional committee is established, except with the approval of the Secretary of State.
+
+(2)If the Council proposes to do anything mentioned in sub-paragraph (1) it shall, after consulting the Secretary of State, give notice - 
+
+(a)describing its proposals; and
+
+(b)specifying the time from the date of the notice (not being less than two months) within which representations may be made with respect to the proposals;
+
+and shall consider any representations that are duly made and not withdrawn.
+
+(3)A notice under sub-paragraph (2) shall be given by publishing it in such manner as the Council considers appropriate for bringing the proposals to the attention of those likely to be affected.
+
+(4)The Secretary of State shall not give his approval under sub-paragraph (1) until after the time specified in the notice under sub-paragraph (2).
+
+12(1)A regional or other committee of the Council shall consist of a chairman and such other members as the Council may determine.
+
+(2)The chairman and other members of a regional or other committee of the Council may be persons who are not members of the Council; and the members of a sub-committee may include persons who are not members of the relevant committee.
+
+(3)The Council shall consult the Secretary of State before appointing a person as chairman of a regional committee.
+
+13The Council may pay to the chairman and other members of a regional or other committee of the Council, or of any sub-committee, such remuneration, and such travelling and other allowances, as the Secretary of State may determine.
+
+14(1)If the Secretary of State so determines in the case of any holder of the office of chairman or other member of a regional or other committee, or of any sub-committee, the Council shall pay - 
+
+(a)such pension, allowance or gratuity to or in respect of him, or
+
+(b)such contributions or payments towards provision for such a pension, allowance or gratuity,
+
+as the Secretary of State may determine.
+
+(2)If, when any person ceases to hold office as chairman or other member of a regional or other committee, or of any sub-committee, the Secretary of State determines that there are special circumstances which make it right that he should receive compensation, the Council shall pay to him a sum by way of compensation of such amount as may be determined by the Secretary of State.
+
+### _Performance of functions of the Council_
+
+15Anything authorised or required to be done by the Council may be done by any member or employee of the Council who, or any regional or other committee of the Council which, is authorised for the purpose by the Council (whether generally or specially).
+
+16The validity of anything done by the Council is not affected by a vacancy among its members or by a defect in the appointment of a member.
+
+### _Supplementary powers_
+
+17(1)The Council shall have power to do anything which is calculated to facilitate, or is incidental or conducive to, the performance of any of its functions.
+
+(2)That power includes, among other things, power to enter into agreements and to acquire and dispose of property.
+
+(3)The Council may make charges for facilities or services provided by it at the request of any person.
+
+Section 3(8).
+
+## SCHEDULE 3Further provision about transfers of functions, property etc.
+
+### _Preliminary_
+
+1In this Schedule - 
+
+* "transfer" means - 
+
+  (a)
+
+  a transfer of functions under any provision of this Act to the Authority; or
+
+  (b)
+
+  a transfer of property, rights and liabilities under section 3; and
+
+* "transfer scheme" means a transfer scheme under section 3(3).
+
+### _Contents of transfer schemes_
+
+2(1)The property, rights and liabilities which may be transferred by a transfer scheme include property, rights and liabilities that would not otherwise be capable of being transferred or assigned.
+
+(2)The transfers authorised by sub-paragraph (1) include transfers which are to take effect as if there were no such contravention, liability or interference with any interest or right as there would otherwise be by reason of any provision having effect (whether under any enactment or agreement or otherwise) in relation to the terms on which the transferor is entitled to the property or right, or subject to the liability, in question.
+
+3A transfer scheme may define the property, rights and liabilities to be transferred by specifying them or describing them or by referring to all (or all except anything specified or described) of the property, rights and liabilities comprised in a specified part of the undertaking of the transferor (or partly in one way and partly in the other).
+
+4A transfer scheme may include such supplementary, incidental, transitional and consequential provision as the Secretary of State considers appropriate.
+
+### _Modification of transfer scheme after appointed day_
+
+5(1)If, after the day appointed by a transfer scheme, the transferor and transferee so agree in writing, the scheme shall for all purposes be deemed to have come into force on that day with such modifications as may be agreed.
+
+(2)An agreement under this paragraph may, in connection with giving effect to modifications to the scheme, include incidental, supplemental, consequential and transitional provision.
+
+### _Effect of transfers_
+
+6(1)Anything done by the transferor for the purpose of or in connection with anything transferred which is in effect immediately before it is transferred shall be treated as if done by the transferee.
+
+(2)A transfer does not affect the validity of anything done by or in relation to the transferor before the transfer takes effect.
+
+7There may be continued by or in relation to the transferee anything (including legal proceedings) relating to anything transferred which is in the process of being done by or in relation to the transferor immediately before it is transferred.
+
+8The transferee shall be substituted for the transferor in any document relating to anything transferred.
+
+### _Continuity of employment, etc. of transferred employees_
+
+9(1)Where a person employed in the civil service of the state becomes an employee of the Council under a transfer scheme, his period of employment in that service counts as a period of employment with the Council for the purposes of the \[1996 c. 18.] Employment Rights Act 1996 (and the change of employer does not break the continuity of the period of employment for those purposes).
+
+(2)Where an employee of the Gas Consumers' Council becomes an employee of the Gas and Electricity Consumer Council - 
+
+(a)he shall not be regarded for the purposes of Part XI of the \[1996 c. 18.] Employment Rights Act 1996 as having been dismissed by virtue of the transfer; and
+
+(b)his period of employment with the Gas Consumers' Council counts as a period of employment with the Gas and Electricity Consumer Council for the purposes of the \[1996 c. 18.] Employment Rights Act 1996 (and the change of employer does not break the continuity of his employment).
+
+Section 51.
+
+## SCHEDULE 4Schedule to be substituted for Schedule 6 to the 1989 Act
+
+### "Schedule 6The electricity code
+
+#### _Suppliers' charges relating to meters for disabled persons_
+
+1(1)Where an electricity supplier, for the purpose of meeting the needs of a disabled person - 
+
+(a)alters the position of any electricity meter provided by him for a customer of his; or
+
+(b)replaces such a meter with one which has been specially adapted,
+
+the supplier shall not charge the customer for the alteration or replacement.
+
+(2)Section 23 applies to any dispute arising under this paragraph.
+
+#### _Non-payment of suppliers' charges_
+
+2(1)Where a customer has not, within the requisite period, paid all charges due from him to an electricity supplier in respect of the supply of electricity to any premises or the provision of an electricity meter, the supplier may - 
+
+(a)install a pre-payment meter on the premises; or
+
+(b)disconnect the premises,
+
+and the supplier may recover any expenses incurred in so doing from the customer.
+
+(2)The power of a supplier under sub-paragraph (1)(a) or (b) may not be exercised - 
+
+(a)as respects any amount which is genuinely in dispute (disregarding for this purpose a dispute under section 39 or regulations made under it); and
+
+(b)unless not less than seven working days' notice has been given to the occupier of the premises (or the owner of the premises if they are unoccupied) of his intention to exercise it.
+
+(3)In this paragraph the "requisite period" means the period of 28 days after the making by the supplier of a demand in writing for payment of the charges due.
+
+#### _Deemed contracts in certain cases_
+
+3(1)Where an electricity supplier supplies electricity to any premises otherwise than in pursuance of a contract, the supplier shall be deemed to have contracted with the occupier (or the owner if the premises are unoccupied) for the supply of electricity as from the time ("the relevant time") when he began so to supply electricity.
+
+(2)Where - 
+
+(a)the owner or occupier of any premises takes a supply of electricity which has been conveyed to those premises by an electricity distributor;
+
+(b)that supply is not made by an authorised supplier; and
+
+(c)a supply of electricity so conveyed has been previously made by an electricity supplier,
+
+the owner or occupier shall be deemed to have contracted with the appropriate supplier for the supply of electricity as from the time ("the relevant time") when he began to take such a supply.
+
+(3)Nothing in sub-paragraph (2) shall be taken to afford a defence in any criminal proceedings.
+
+(4)The Authority shall publish a document containing provision for determining the "appropriate supplier" for the purposes of sub-paragraph (2).
+
+(5)The Authority may revise the current document published under sub-paragraph (4); and where it does so it shall publish the revised document.
+
+(6)The express terms and conditions of a contract which, by virtue of sub-paragraph (1) or (2), is deemed to have been made shall be provided for by a scheme made under this paragraph.
+
+(7)Each electricity supplier shall make (and may from time to time revise), a scheme for determining the terms and conditions which are to be incorporated in the contracts which, by virtue of sub-paragraph (1) or (2), are to be deemed to have been made.
+
+(8)The terms and conditions so determined may include terms and conditions for enabling the electricity supplier to determine, in any case where the meter is not read immediately before the relevant time, the quantity of electricity which is to be treated as supplied by the supplier to the premises, or taken by the owner or occupier of the premises, during the period beginning with the relevant time and ending with - 
+
+(a)the time when the meter is first read after the relevant time; or
+
+(b)the time when the supplier ceases to supply electricity to the premises, or the owner or occupier ceases to take a supply of electricity,
+
+whichever is the earlier.
+
+(9)A scheme under this paragraph may (subject to section 7B) make different provision for different cases or classes of cases, or for different areas, determined by, or in accordance with, the provisions of the scheme.
+
+(10)As soon as practicable after an electricity supplier makes a scheme under this paragraph, or a revision of such a scheme, he shall - 
+
+(a)publish, in such manner as he considers appropriate for bringing it to the attention of persons likely to be affected by it, a notice stating the effect of the scheme or revision;
+
+(b)send a copy of the scheme or revision to the Authority and to the Council; and
+
+(c)if so requested by any other person, send such a copy to that person without charge to him.
+
+#### _Supplies of electricity illegally taken_
+
+4(1)Where any person takes a supply of electricity which is in the course of being conveyed by an electricity distributor, the distributor shall be entitled to recover from that person the value of the electricity so taken.
+
+(2)Where - 
+
+(a)any person at premises at which a connection has been restored in contravention of paragraph 5(1) takes a supply of electricity which has been conveyed to those premises by an electricity distributor; and
+
+(b)the supply is taken otherwise than in pursuance of a contract made with an authorised supplier, or of a contract deemed to have been made with an electricity supplier by virtue of paragraph 3 above or paragraph 23 (former tariff customers) of Schedule 7 to the Utilities Act 2000,
+
+the distributor shall be entitled to recover from that person the value of the electricity so taken.
+
+(3)Each electricity distributor shall make, and from time to time revise, a scheme providing for the manner in which, and the persons by whom, the quantity of electricity taken in such circumstances as are mentioned in sub-paragraph (1) or (2) is to be determined for the purposes of that sub-paragraph.
+
+(4)Sub-paragraphs (9) and (10) of paragraph 3 shall apply in relation to a scheme under this paragraph as they apply in relation to a scheme under that paragraph.
+
+(5)In this paragraph "value", in relation to any electricity taken in such circumstances as are mentioned in sub-paragraph (1) or (2), means the amount which, if the electricity had been taken in such circumstances as are mentioned in sub-paragraph (2) of paragraph 3, could reasonably be expected to have been payable in respect of the electricity under a contract deemed to have been made by virtue of that sub-paragraph.
+
+#### _Restoration of connection without consent_
+
+5(1)Where, otherwise than in the exercise of a power conferred by regulations under section 29, premises have been disconnected by an electricity supplier or an electricity distributor, no person shall, without the consent of the supplier or, as the case may be, the distributor, restore the connection.
+
+(2)A person who acts in contravention of this paragraph shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(3)A connection restored in contravention of this paragraph may be disconnected by the distributor to whose distribution system the connection is made or, if the original disconnection was carried out by an electricity supplier, by that supplier.
+
+#### _Damage to electrical plant etc._
+
+6(1)A person who intentionally or by culpable negligence damages or allows to be damaged - 
+
+(a)any electric line or electrical plant provided by an electricity distributor; or
+
+(b)any electricity meter provided by an electricity supplier,
+
+shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+(2)Where an offence has been committed under sub-paragraph (1) by the occupier of any premises (or by the owner of the premises if they are unoccupied when the offence is committed) in relation to any electric line or electrical plant provided by an electricity distributor for making or maintaining a connection to the premises, the distributor may disconnect the premises.
+
+(3)Where an offence has been committed under sub-paragraph (1) in relation to an electricity meter provided by an electricity supplier which is situated on any premises, by the occupier (or by the owner of the premises if they are unoccupied when the offence is committed), the supplier may disconnect the premises and may remove the meter.
+
+(4)A meter removed under sub-paragraph (3) shall be kept safely by the supplier until the Authority authorises its destruction or disposal.
+
+(5)The distributor or supplier shall not be under any obligation to reconnect (and in the case of a supplier to restore the supply to) any premises disconnected under sub-paragraph (2) or (3) until - 
+
+(a)the offender is no longer the occupier or, as the case may be, the owner of the premises; or
+
+(b)the matter in consequence of which the premises were disconnected has been remedied.
+
+#### _Entry during continuance of connection or supply_
+
+7(1)Any officer or other person authorised by an electricity distributor may at all reasonable times enter any premises to which the distributor is maintaining a connection, for the purpose of inspecting any electric line or electrical plant provided by him.
+
+(2)Any officer or other person authorised by an electricity supplier may at all reasonable times enter any premises to which electricity is being supplied by him for the purpose of - 
+
+(a)ascertaining the register of any electricity meter and, in the case of a pre-payment meter, removing any money or tokens belonging to the supplier;
+
+(b)removing, inspecting or re-installing any electricity meter or installing any substitute meter.
+
+(3)The supplier shall provide a substitute meter while a meter is removed under sub-paragraph (2)(b).
+
+(4)Where an electricity supplier is authorised by paragraph 2(1) to install a pre-payment meter on any premises, any officer or other person authorised by the supplier may at all reasonable times enter the premises for the purpose of installing such a meter.
+
+(5)A power of entry for the purpose of removing or installing an electricity meter may not be exercised unless at least two working days' notice has been given to the occupier (or the owner of the premises if they are unoccupied).
+
+#### _Entry on discontinuance of supply or connection_
+
+8(1)Where an electricity supplier or an electricity distributor is authorised by paragraph 6(2) or (3) above or paragraph 11(3) of Schedule 7 to this Act - 
+
+(a)to disconnect any premises; or
+
+(b)to remove an electricity meter,
+
+any officer or other person authorised by the supplier or distributor may at all reasonable times enter the premises for the purpose of disconnecting the premises or removing the meter.
+
+(2)Where - 
+
+(a)an electricity distributor is authorised by any provision of this Act (other than one mentioned in sub-paragraph (1)) or of regulations made under it to disconnect any premises;
+
+(b)a person occupying premises which are connected to a distribution system of an electricity distributor ceases to require a connection; or
+
+(c)a person entering into occupation of any premises connected to a distribution system of an electricity distributor does not require such a connection,
+
+any officer or other person authorised by the distributor may at all reasonable times enter the premises for the purpose of disconnecting the premises or removing any electrical plant or electric line provided by the distributor.
+
+(3)Where - 
+
+(a)an electricity supplier is authorised by any provision of this Act (other than one mentioned in sub-paragraph (1)), or of regulations made under it, to disconnect any premises or to discontinue the supply to any premises;
+
+(b)a person occupying premises which are supplied with electricity by an electricity supplier ceases to require such a supply; or
+
+(c)a person entering into occupation of any premises previously supplied with electricity by an electricity supplier does not require such a supply;
+
+any officer or other person authorised by the supplier may at all reasonable times enter the premises for the purpose of disconnecting the premises or removing any electricity meter provided by the supplier.
+
+(4)A power of entry under sub-paragraph (2) or (3) may not be exercised unless at least two working day's notice has been given to the occupier (or to the owner of the premises if they are unoccupied).
+
+#### _Entry for replacing, repairing or altering lines or plant_
+
+9(1)Any officer or other person authorised by an electricity distributor may at all reasonable times enter any premises for the purpose of - 
+
+(a)placing a new electric line or any new electrical plant in the place of or in addition to any existing line or plant which has already been lawfully placed; or
+
+(b)repairing or altering any such existing line or plant.
+
+(2)A power of entry under sub-paragraph (1) may not be exercised unless at least five working days' notice has been given to the occupier of any premises (or to the owner of the premises if they are unoccupied).
+
+(3)In the case of emergency arising from faults in an electric line or any electrical plant entry may be made under sub-paragraph (1) above without the notice required by sub-paragraph (2), but notice shall then be given as soon as possible after the occurrence of the emergency.
+
+#### _Provisions as to powers of entry_
+
+10(1)The \[1954 c. 1.] Rights of Entry (Gas and Electricity Boards) Act 1954 (entry under a justice's warrant) shall apply in relation to the powers of entry conferred by this Schedule.
+
+(2)Any reference in this Schedule to an officer or other person authorised by an electricity supplier or an electricity distributor includes a reference to a person who, in accordance with a written authority given by the supplier or distributor to an agent of the supplier or distributor, is authorised by the agent on behalf of the supplier or distributor.
+
+(3)Where in pursuance of any power of entry conferred by this Schedule, entry is made on any premises by a person authorised to do so - 
+
+(a)that person shall ensure that the premises are left no less secure by reason of the entry; and
+
+(b)the supplier or distributor shall make good, or pay compensation for, any damage caused by that person (or by any other person accompanying him under sub-paragraph (5)) in entering the premises, in taking any action on the premises or in making them secure.
+
+(4)A person may only exercise a power of entry conferred by this Schedule on production of some duly authenticated document showing his authority.
+
+(5)Any person exercising a power of entry conferred by this Schedule may be accompanied by such other persons as may be necessary or expedient for the purpose for which the entry is made or for the purposes of sub-paragraph (3)(a) or (b) above.
+
+(6)A person who intentionally obstructs a person exercising powers of entry conferred by this Schedule shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
+
+#### _Electrical plant etc. not to be subject to distress_
+
+11(1)This paragraph applies to any electric line, electrical plant or electricity meter belonging to or provided by an electricity distributor or electricity supplier which is marked or impressed with a sufficient mark or brand indicating an electricity supplier or electricity distributor as the owner or provider thereof.
+
+(2)Anything to which this paragraph applies - 
+
+(a)shall be deemed not to be landlord's fixtures, notwithstanding that they may be fixed or fastened to any part of any premises; and
+
+(b)shall not in England and Wales be subject to distress or be liable to be taken in execution under process of any court or any proceedings in bankruptcy against the person in whose possession they may be."
+
+Section 52.
+
+## SCHEDULE 5Electricity metering
+
+1Schedule 7 to the 1989 Act (use etc. of electricity meters) is amended as follows.
+
+2(1)For the expression "electricity supplier" in each place it appears (otherwise than in the expression "public electricity supplier") there is substituted "authorised supplier".
+
+(2)In paragraph 13 the definition of "electricity supplier" shall be omitted.
+
+3(1)Paragraph 1 (consumption to be ascertained by appropriate meter) is amended as follows.
+
+(2)After sub-paragraph (1) there is inserted - 
+
+"(1A)An authorised supplier may give a supply otherwise than through an appropriate meter in such circumstances as may be prescribed."
+
+(3)In sub-paragraph (2) - 
+
+(a)after "customer" there is inserted "(who may provide a meter which belongs to him or is made available otherwise than in pursuance of arrangements made by the supplier)"; and
+
+(b)for "(whether by way of sale, hire or loan)" there is substituted "(who may provide a meter which belongs to him or to any person other than the customer)".
+
+(4)In sub-paragraph (2A) for "a public electricity supplier" there is substituted "an authorised supplier".
+
+(5)In sub-paragraphs (7) and (9), for "a public electricity supplier" there is substituted "an electricity supplier".
+
+4In paragraph 3 (offences relating to use of meter), after sub-paragraph (1) there is inserted - 
+
+"(1A)Regulations under paragraph 1(1A) may provide for this paragraph not to apply in such circumstances as may be prescribed (being circumstances in which an authorised supplier is not required to supply electricity through an appropriate meter)."
+
+5In paragraph 5(3) (certification without examination or testing of certain meters) the words "a public electricity supplier or by" shall cease to have effect.
+
+6In paragraph 6 (apparatus for testing etc. meters) - 
+
+(a)in sub-paragraph (1), the words "a public electricity supplier or"; and
+
+(b)sub-paragraph (5),
+
+shall cease to have effect.
+
+7In paragraph 10 (meters to be kept in proper order) - 
+
+(a)in sub-paragraph (1) for "belonging to" there is substituted "provided by";
+
+(b)in sub-paragraph (2) for "let for hire or lent" there is substituted "provided";
+
+(c)after sub-paragraph (2) there is inserted - 
+
+"(2A)Section 23 of this Act shall apply in relation to any dispute arising under this paragraph between an electricity supplier and a customer."; and
+
+(d)sub-paragraph (3) shall cease to have effect.
+
+8In paragraph 12 (pre-payment meters) for sub-paragraph (2) there is substituted - 
+
+"(2)A pre-payment meter installed on any premises shall not be used to recover any sum other than a sum owing to an authorised supplier in respect of the supply of electricity to those premises or the provision of the meter."
+
+Section 108.
+
+## SCHEDULE 6Minor and consequential amendments
+
+### Part IGas Act 1986
+
+1The \[1986 c. 44.] Gas Act 1986 is amended as follows.
+
+2(1)In the following provisions, for "public gas transporter", in each place where it appears, there is substituted "gas transporter" and for "public gas transporters" in each place where it appears, there is substituted "gas transporters" - 
+
+* section 7A
+* section 7B
+* section 8
+* section 9
+* section 10
+* section 11
+* section 12
+* section 13
+* section 18
+* section 18A
+* section 19
+* section 21
+* section 27A
+* section 43
+* section 46
+* section 48
+* section 62
+* Schedule 2B
+* Part I of Schedule 3
+* Schedule 4.
+
+(2)In section 19(6)(a), paragraph 5(2) of Schedule 2B and Part II of Schedule 3, in each place where it appears, for "public gas transporter's" there is substituted "gas transporter's".
+
+3In section 5 (prohibition on unlicensed activities), in subsection (1)(a) and (c) for "public gas transporter" there is substituted "gas transporter".
+
+4In section 7 (licensing of public gas transporters), in subsections (2)(b), (6)(b) and (9) for "public gas transporter" there is substituted "gas transporter".
+
+5In section 7B (general provisions about licences), subsection (4)(d) (which provides for conditions in licences requiring the furnishing of information and is superseded by other provisions of this Act about information) shall cease to have effect.
+
+* The repeal of subsection (4)(d) of section 7B is without prejudice to the generality of the power conferred by subsection (4)(a) of that section.
+
+6In section 7B(9) - 
+
+(a)in paragraph (b) - 
+
+(i)for "or extension" in both places where it appears, there is substituted ", extension or restriction";
+
+(ii)for "previously included" there is substituted "includes"; and
+
+(b)at the end of paragraph (b) there is inserted "; and
+
+(c)to any other person who holds a licence and whose interests may, in the opinion of the Authority, be affected by the grant.".
+
+7In section 15A (billing disputes) - 
+
+(a)for "domestic customer" (in each place) there is substituted "customer";
+
+(b)subsection (10) shall cease to have effect.
+
+8(1)Section 24 (modification references to Competition Commission) is amended as follows.
+
+(2)In subsection (1)(a)(i) and subsection (1A)(a), for "required" there is substituted "regulated".
+
+(3)In subsection (6) for "4 and 4A(1) and (2) above" there is substituted "4AA, 4AB and 4A".
+
+(4)In subsection (8) for "and 26 below" there is substituted ", 26 and 26A".
+
+9In section 27(3) and (4) (modification by order under other enactments) for "required" there is substituted "regulated".
+
+10In section 27A(1) (determination of certain disputes) for "domestic customer" there is substituted "customer of a person authorised by a licence or exemption to supply gas".
+
+11In section 28(5)(a) (circumstances in which the Authority may not make or confirm an order under the section) for "4 or 4A above" there is substituted "4AA, 4AB or 4A".
+
+12In section 28 (orders for securing compliance with certain provisions), in the definition of "relevant requirement" in subsection (8) - 
+
+(a)after "9(1)" there is inserted ", (1A)";
+
+(b)after "12(1) or (6)" there is inserted ", 16(10),"
+
+(c)after "33B," there is inserted "33BA, 33C,";
+
+(d)"33BB" is omitted;
+
+(e)for "or 33E" there is substituted ", 33F, 41A or 41B"; and
+
+(f)after "Act" there is inserted "or section 27(4)(b) of the Utilities Act 2000 (order to comply with a direction under section 24 of that Act)".
+
+13In section 33A (standards of performance in individual cases) - 
+
+(a)for subsections (1) and (2) there is substituted - 
+
+"(1)The Authority may make regulations prescribing such standards of performance in connection with the activities of gas suppliers, so far as affecting customers or potential customers of theirs, as in the Authority's opinion ought to be achieved in individual cases.
+
+(2)Regulations under this section may only be made with the consent of the Secretary of State.";
+
+(b)in subsection (3)(a), for "domestic customers" there is substituted "customers or potential customers"; and
+
+(c)in subsection (4), for "domestic customer" there is substituted "customer or potential customer" and after "failure" there is inserted "and is of a prescribed description".
+
+14In section 33C (information with respect to levels of performance), in subsection (2)(b), for "may be so specified" there is substituted "the Authority may direct".
+
+15Section 33E (procedures for dealing with complaints) shall cease to have effect.
+
+16In section 36(2) (keeping of register), in paragraph (c) - 
+
+(a)the words "made otherwise than by order" shall be omitted; and
+
+(b)for "subsection (5)" there is substituted "subsection (7)".
+
+17In section 38 (power to require information etc.) - 
+
+(a)in subsection (1A) for "4 or 4A above" there is substituted "4AA, 4AB or 4A"; and
+
+(b)in subsection (3) after "document" there is inserted "or record".
+
+18In section 46(3), for "his authorised area" there is substituted "any authorised area of his".
+
+19In section 48(1) (interpretation of Part I) - 
+
+(a)after the definition of "authorised area" there is inserted - 
+
+""authorised supplier" means a person authorised by a licence or exemption to supply to any premises gas which has been conveyed to those premises through pipes;
+
+"authorised transporter" means a person authorised by a licence or exemption to convey gas through pipes to any premises or to a pipe-line system operated by a gas transporter;";
+
+(b)before the definition of "gas" there is inserted - 
+
+""exemption" means an exemption under section 6A;";
+
+(c)the definition of "domestic customer" shall be omitted; and
+
+(d)for the definition of "licence" there is substituted - 
+
+""licence" means a licence under section 7 or 7A and "licence holder" shall be construed accordingly;".
+
+20In section 62, after subsection (2A) there is inserted - 
+
+"(2AB)If immediately before the commencement of paragraph 2 of Schedule 6 to the Utilities Act 2000 (substitution of "gas transporter" for "public gas transporter") subsection (2A) applies to an agreement, that subsection continues to apply to that agreement notwithstanding the substitution.".
+
+21In section 64(2) (orders) after "section" there is inserted "23, 30A, 33BC, 41A, 41C".
+
+22In section 66 (interpretation) - 
+
+(a)after the definition of "the appointed day" there is inserted - 
+
+""the Authority" means the Gas and Electricity Markets Authority;"; and
+
+(b)after the definition of "the Corporation" there is inserted - 
+
+""the Council" means the Gas and Electricity Consumer Council;".
+
+23In Schedule 2B (the gas code), in paragraph 8 - 
+
+(a)sub-paragraphs (4), (5) and (6) shall be omitted;
+
+(b)in sub-paragraph (8) the words from "but this" to the end shall cease to have effect;
+
+(c)in sub-paragraph (11) - 
+
+(i)for the words from "a revision" to "such an election" there is substituted "or a revision of such a scheme"; and
+
+(ii)in paragraphs (a) and (b), for ", revision, election or withdrawal" there is substituted "or revision".
+
+### Part IIElectricity Act 1989
+
+24The \[1989 c. 29.] Electricity Act 1989 is amended as follows.
+
+25In section 12(7) (matters to which the Competition Commission is to have regard in making determinations) for "3 above" there is substituted "3A to 3C".
+
+26(1)Section 23 (determination of disputes) is amended as follows.
+
+(2)For subsections (1) and (2) there is substituted - 
+
+"(1)This section applies (in addition to any disputes to which it applies by virtue of any other provision of this Act) to any dispute arising under sections 16 to 21 between an electricity distributor and a person requiring a connection.
+
+(1A)A dispute to which this section applies - 
+
+(a)may be referred to the Authority by either party, or with the agreement of either party, by the Council; and
+
+(b)on such a reference, shall be determined by order made either by the Authority or, if the Authority thinks fit, by an arbitrator (or in Scotland an arbiter) appointed by the Authority.
+
+(1B)The practice and procedure to be followed in connection with any such determination shall be such as the Authority may consider appropriate.
+
+(1C)No dispute arising under sections 16 to 21 which relates to the making of a connection between any premises and a distribution system may be referred to the Authority after the end of the period of 12 months beginning with the time when the connection is made.
+
+(2)Where a dispute arising under sections 16 to 21 between an electricity distributor and a person requiring a connection falls to be determined under this section, the Authority may give directions as to the circumstances in which, and the terms on which, the distributor is to make or (as the case may be) to maintain a connection pending the determination of the dispute."
+
+(3)After subsection (4) there is inserted - 
+
+"(4A)A person making an order under this section shall include in the order his reasons for reaching his decision with respect to the dispute."
+
+(4)After subsection (6) there is inserted - 
+
+"(7)Section 16(4)(a) does not apply to the references in this section to making a connection."
+
+27In section 25(5)(a) (circumstances in which the Authority may not make or confirm an order under the section) for "3 above" there is substituted "3A to 3C".
+
+28In section 25 (orders for securing compliance with certain provisions), in the definition of "relevant requirement" in subsection (8), for the words "or section 40(3), 41(3), 42A or 42B below" there is substituted ", or sections 32 to 32C, section 40, 40A, 42, 42A, 42C, 43A or 43B below or section 27(4)(b) of the Utilities Act 2000 (order to comply with a direction under section 24 of that Act)."
+
+29(1)Section 28 (power to require information etc.) is amended as follows.
+
+(2)After subsection (2) there is inserted - 
+
+"(2A)Where a licence has been or is to be revoked or suspended, or has expired or is about to expire by effluxion of time, and it appears to the Authority, having regard to the duties imposed by section 3A, 3B or 3C, to be requisite or expedient to do so for any purpose connected with the revocation, suspension or expiry, the Authority may, with the consent of the Secretary of State, by notice in writing - 
+
+(a)require the licence holder to produce, at a time and place specified in the notice, to the Authority, or to any person so specified, any records which are specified or described in the notice and are in the licence holder's custody or under his control; or
+
+(b)require the licence holder to furnish to the Authority, or to any person specified in the notice, such information as may be specified or described in the notice, and specify the time, the manner and the form in which any such information is to be furnished.".
+
+(3)In subsection (3), after "documents" there is inserted "or records".
+
+(4)In subsection (4), after "subsection (2)" there is inserted "or (2A)".
+
+(5)In subsection (5) - 
+
+(a)after "document" there is inserted "or record";
+
+(b)after "subsection (2)" there is inserted "or (2A)".
+
+(6)In subsection (6), after "subsection (2)" there is inserted "or (2A)".
+
+30(1)Section 29 (regulations relating to supply and safety of electricity) is amended as follows.
+
+(2)In subsection (1)(b), after "transmission" there is inserted ", distribution".
+
+(3)In subsection (2) - 
+
+(a)in paragraph (a) for "supply" there is substituted "distribution";
+
+(b)in paragraph (b) for "of supplies or transmissions" there is substituted "in the distribution or transmission";
+
+(c)in paragraph (c) for "supply" there is substituted "distribute"; and
+
+(d)in paragraph (d) for the words from "persons" to "supply" (in the second place it appears) there is substituted "electricity distributors from any duty under section 16 or authorising them to disconnect any premises or distribution system".
+
+31(1)Section 30 (electrical inspectors) is amended as follows.
+
+(2)In subsection (2) - 
+
+(a)in paragraph (a) for "supply" there is substituted "distribute";
+
+(b)in paragraph (b) after "transmission" there is inserted ", distribution";
+
+(c)in paragraph (c) for "supply of electricity through or by" there is substituted "conveyance of electricity through".
+
+(3)In subsection (3) - 
+
+(a)in paragraph (b) for "generate, transmit or supply electricity" there is substituted "carry on licensable activities";
+
+(b)in paragraph (c) for the words from "persons" to "supply" (in the second place it appears) there is substituted "electricity distributors from any duty under section 16 or authorising them to disconnect any premises or distribution system".
+
+32In section 39 (standards of performance in individual cases) - 
+
+(a)for subsection (1) there is substituted - 
+
+"(1)The Authority may, with the consent of the Secretary of State, make regulations prescribing such standards of performance in connection with the activities of electricity suppliers, so far as affecting customers or potential customers of theirs, as in the Authority's opinion ought to be achieved in individual cases.";
+
+(b)in subsection (2), for the words from "and may" to the end there is substituted " and, if the Authority is of the opinion that the differences are such that no electricity supplier would be unduly disadvantaged in competing with other electricity suppliers, may make different provision for different electricity suppliers.";
+
+(c)in subsection (2)(a) and (c) for "public electricity suppliers" there is substituted "electricity suppliers";
+
+(d)in subsections (3) and (4) for "a public electricity supplier" there is substituted "an electricity supplier".
+
+33In section 40 (overall standards of performance) - 
+
+(a)in subsection (1)(a) for "such" (in the second place it appears) there is substituted "electricity";
+
+(b)in subsection (2) at the end there is inserted "if the Authority is of the opinion that the differences are such that no electricity supplier would be unduly disadvantaged in competing with other electricity suppliers";
+
+(c)in subsection (2) for "public electricity suppliers" there is substituted "electricity suppliers";
+
+(d)in subsection (3) for "public electricity supplier" there is substituted "electricity supplier".
+
+34In section 42 (information with respect to levels of performance) - 
+
+(a)in subsection (1) for "public electricity suppliers" there is substituted "electricity suppliers";
+
+(b)in subsection (2) for "public electricity supplier" there is substituted "electricity supplier";
+
+(c)in subsection (3) for "a public electricity supplier" there is substituted "an electricity supplier".
+
+35Section 42B (procedures for dealing with complaints) shall cease to have effect.
+
+36(1)Section 44A (billing disputes) is amended as follows.
+
+(2)In subsection (2) - 
+
+(a)for "a public electricity supplier" there is substituted "an electricity supplier";
+
+(b)for "tariff customer" there is substituted "customer".
+
+(3)In subsection (8) - 
+
+(a)for "public electricity supplier" there is substituted "electricity supplier";
+
+(b)for "tariff customer" there is substituted "customer".
+
+37In section 59 (making of false statements etc.) in subsection (2)(a), for "a public electricity supplier" there is substituted ", or other person acting on behalf of, an electricity distributor or electricity supplier".
+
+38(1)Section 64(1) (interpretation of Part I) is amended as follows.
+
+(2)After the definition of "authorised area" there is inserted - 
+
+""authorised distributor" means a person who is authorised by a licence or exemption to distribute electricity;
+
+"authorised supplier" means a person who is authorised by a licence or exemption to supply electricity;
+
+"distribute", in relation to electricity, has the meaning given by section 4(4), and cognate expressions shall be construed accordingly;".
+
+(3)In the definition of "electrical plant" after "transmission" there is inserted ", distribution".
+
+(4)After the definition of "electric line" there is inserted - 
+
+""electricity distributor" and "electricity supplier" have the meanings given by section 6(9)."
+
+(5)After the definition of "licence" there is inserted - 
+
+""licensable activity" means an activity which, if carried on without the authority of a licence or exemption, constitutes an offence under section 4(1);."
+
+(6)In the definition of "prescribed", for the words from "except" to "made" there is substituted "means prescribed by regulations made, unless the context otherwise requires,".
+
+(7)After the definition of "relevant condition" there is inserted - 
+
+""special connection agreement" means a special agreement under section 22;."
+
+(8)The definition of "private electricity supplier", the definition of "public electricity supplier" and the definition of "tariff customer" shall be omitted.
+
+39In section 106(2) (regulations and orders), in paragraph (b), after "company" there is inserted ", an order under section 11A, 27A, 32, 41A, 43A or 56A,".
+
+40In section 111(1) (interpretation) - 
+
+(a)after the definition of "Area Board" there is inserted - 
+
+""the Authority" means the Gas and Electricity Markets Authority;"; and
+
+(b)after the definition of "contravention" there is inserted - 
+
+""the Council" means the Gas and Electricity Consumer Council;".
+
+### Part IIIOther Acts
+
+#### _Rights of Entry (Gas and Electricity Boards) Act _[_1954 (c. 21)_](http://www.legislation.gov.uk/id/ukpga/1954/21)
+
+41(1)The Rights of Entry (Gas and Electricity Boards) Act 1954 is amended as follows.
+
+(2)In section 1(2) (restriction on exercise of rights), for "a public electricity supplier" there is substituted "an electricity operator".
+
+(3)In section 2(1) (warrants) - 
+
+(a)for paragraph (a) there is substituted - 
+
+"(a)that admission to premises specified in the information is reasonably required by a gas operator or an electricity operator or by an employee of a gas operator or an electricity operator;"; and
+
+(b)for the words "supplier or any employee of the operator or supplier" (in paragraph (b) and the words following paragraph (c)) there is substituted "any employee of the operator".
+
+(4)In section 2(3) for "a public electricity supplier" there is substituted "an electricity operator".
+
+(5)In section 3 (interpretation) - 
+
+(a)in the definition of "employee", for paragraph (b) there is substituted - 
+
+"(b)in relation to an electricity operator, an officer, servant or agent of the operator and any person authorised by such an agent";
+
+(b)for the definition of "public electricity supplier" there is substituted - 
+
+""electricity operator" means an electricity distributor or an electricity supplier (within the meaning of Part I of the Electricity Act 1989);".
+
+#### _Public Records Act _[_1958 (c. 51)_](http://www.legislation.gov.uk/id/ukpga/1958/51)
+
+42In Schedule 1 to the Public Records Act 1958 (definition of public records) in Part II of the Table at the end of paragraph 3, there is inserted at the appropriate place - 
+
+* "Gas and Electricity Consumer Council.".
+
+#### _Parliamentary Commissioner Act _[_1967 (c. 13)_](http://www.legislation.gov.uk/id/ukpga/1967/13)
+
+43In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments and authorities subject to investigation), the following entries are inserted at the appropriate places - 
+
+* "Gas and Electricity Markets Authority.";
+* "Gas and Electricity Consumer Council."
+
+#### _Superannuation Act _[_1972 (c. 11)_](http://www.legislation.gov.uk/id/ukpga/1972/11)
+
+44(1)In Schedule 1 to the Superannuation Act 1972, in the list of "Other Bodies" the following entry is inserted at the appropriate place - 
+
+* "The Gas and Electricity Consumer Council.".
+
+(2)Section 1 of that Act (persons to or in respect of whom benefits may be provided by schemes under that section) shall apply to persons who at any time before the abolition of the Gas Consumers' Council have ceased to serve in employment with that Council.
+
+#### _House of Commons Disqualification Act _[_1975 (c. 24)_](http://www.legislation.gov.uk/id/ukpga/1975/24)
+
+45In Part II of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), the following entries are inserted at the appropriate places - 
+
+* "The Gas and Electricity Markets Authority.";
+* "The Gas and Electricity Consumer Council.";
+* "A regional committee of the Gas and Electricity Consumer Council established under section 18(2) of the Utilities Act 2000."
+
+#### _Bankruptcy (Scotland) Act _[_1985 (c. 66)_](http://www.legislation.gov.uk/id/ukpga/1985/66)
+
+46In section 70 of the Bankruptcy (Scotland) Act 1985 (supplies by utilities), in subsection (4)(b), for "public electricity supplier" there is substituted "electricity supplier".
+
+#### _Insolvency Act _[_1986 (c. 45)_](http://www.legislation.gov.uk/id/ukpga/1986/45)
+
+47(1)The Insolvency Act 1986 is amended as follows.
+
+(2)In section 233 (supplies of gas, water, electricity etc) - 
+
+(a)in subsection (3), for paragraph (b) there is substituted - 
+
+"(b)a supply of electricity by an electricity supplier within the meaning of Part I of the Electricity Act 1989;"; and
+
+(b)subsection (5)(b) shall be omitted.
+
+(3)In section 372 (supplies of gas, water, electricity etc in cases of individual insolvency) - 
+
+(a)in subsection (4), for paragraph (b) there is substituted - 
+
+"(b)a supply of electricity by an electricity supplier within the meaning of Part I of the Electricity Act 1989;"; and
+
+(b)subsection (5)(b) shall be omitted.
+
+Section 108.
+
+## SCHEDULE 7Transitional provisions and savings
+
+### Part ISeparation of electricity supply and distribution
+
+#### _Application and purpose of Part I_
+
+1(1)This paragraph applies to any holder of an existing supply licence under section 6(1)(c) or (2) of the 1989 Act whose activities, immediately before the passing of this Act, include both - 
+
+(a)the supply of electricity to premises; and
+
+(b)the distribution of electricity for the purpose of giving a supply to premises or enabling a supply to be so given.
+
+(2)This Part of this Schedule has effect for the purpose of enabling the existing supply licence held by such a licence holder to have effect as if it were a distribution licence under section 6(1)(c) and a supply licence under section 6(1)(d), each granted to different persons.
+
+(3)Those persons must be - 
+
+(a)the licence holder and one of his associates nominated for the purpose of holding whichever of the licences mentioned in sub-paragraph (2) is not to be retained by the licence holder; or
+
+(b)any two associates of the licence holder nominated by him for the purpose of holding those licences.
+
+(4)If immediately before the passing of this Act a person to whom this paragraph applies holds two or more existing supply licences, sub-paragraph (2) applies in relation to such one or more of those licences as the licence holder may, with the approval of the Secretary of State, nominate.
+
+(5)If immediately before the passing of this Act a person to whom this paragraph applies - 
+
+(a)generates electricity in pursuance of an existing generation licence; and
+
+(b)transmits electricity in pursuance of an existing transmission licence,
+
+the provisions of this Part of this Schedule also have effect, if that person makes either or both of the nominations mentioned in sub-paragraph (6), for either or both of the purposes mentioned in sub-paragraph (6)(a) and (6)(b).
+
+(6)Those purposes are securing that - 
+
+(a)the licence holder's existing generation licence has effect as if it were a generation licence granted to an associate of his nominated by him for the purpose; and
+
+(b)the licence holder's existing transmission licence has effect as if it were a transmission licence granted to an associate of his nominated by him for the purpose.
+
+(7)The same associate may not be nominated both for the purpose of sub-paragraph (6)(a) and for the purpose of sub-paragraph (3)(a) or (b) or (6)(b).
+
+#### _Nominations and transfer schemes_
+
+2(1)Before such date as the Secretary of State may direct, a person to whom paragraph 1 applies may (subject to paragraph 3) - 
+
+(a)make a nomination for the purposes of paragraph (a) of paragraph 1(3) and make a scheme for the division of all his property, rights and liabilities between himself and the associate nominated under that paragraph; or
+
+(b)make two nominations for the purposes of paragraph (b) of paragraph 1(3) and make a scheme for the division of all his property, rights and liabilities between himself and the associates so nominated;
+
+and in this Part of this Schedule the person who makes such a scheme is referred to as "the supplier".
+
+(2)A scheme under sub-paragraph (1) (referred to in this Part of this Schedule as "a transfer scheme") may - 
+
+(a)define the property, rights and liabilities to be allocated to a nominated associate - 
+
+(i)by specifying or describing the property, rights and liabilities in question;
+
+(ii)by referring to all (or all but as much as may be excepted) of the property, rights and liabilities comprised in a specified part of the supplier's undertaking; or
+
+(iii)partly in the one way and partly in the other;
+
+(b)provide that any rights or liabilities specified or described in the scheme shall be enforceable either by or against any one or more of the persons between whom the supplier's property, rights and liabilities are being divided;
+
+(c)impose on any of those persons an obligation to enter into such written agreements with, or execute such other instruments in favour of the other such person or, where sub-paragraph (1)(b) applies, either or both of the other such persons as may be specified in the scheme; and
+
+(d)make such supplemental, incidental and consequential provision as the supplier considers appropriate.
+
+(3)Without prejudice to the generality of sub-paragraph (2)(d), a transfer scheme may, in relation to transfers or transactions effected in pursuance of the scheme, make provision, either generally or for specified purposes - 
+
+(a)for the transfers or transactions to be regarded as taking place in a specified order; and
+
+(b)for the nominated associate or, where sub-paragraph (1)(b) applies, either or both of the nominated associates to be treated as the same person in law as the supplier.
+
+(4)An obligation imposed by a provision included in a transfer scheme by virtue of sub-paragraph (2)(c) shall be enforceable by civil proceedings by the person or persons to whom it is owed for an injunction or for interdict or for any other appropriate relief or remedy.
+
+(5)A transaction of any description which is effected in pursuance of a provision included in a transfer scheme by virtue of sub-paragraph (2)(c) - 
+
+(a)shall have effect subject to any statutory requirements for transactions of that description to be registered in any statutory register; but
+
+(b)subject to that, shall be binding on all other persons, notwithstanding that it would, apart from this sub-paragraph, have required the consent or concurrence of any other person.
+
+* In this sub-paragraph "statutory requirements" means requirements imposed by or under any Act or any Act of the Scottish Parliament.
+
+(6)Where a lease of any land is granted in pursuance of a provision included in a transfer scheme by virtue of sub-paragraph (2)(c), any right of pre-emption or other like right affecting that land - 
+
+(a)shall not become exercisable by reason of the grant of the lease; but
+
+(b)shall have effect as if the lessee were the same person in law as the lessor.
+
+3(1)If the supplier is a supplier to whom paragraph 1(5) applies, he may, before such date as the Secretary of State may direct - 
+
+(a)make such nomination or nominations as he thinks fit for either or both of the purposes mentioned in paragraph 1(6); and
+
+(b)include the associate or associates so nominated among the persons between whom his property, rights and liabilities may be divided by the transfer scheme.
+
+(2)Paragraph 2 applies to a transfer scheme dividing property, rights and liabilities between persons including persons nominated for the purposes of paragraph 1(6) with the substitution - 
+
+(a)in sub-paragraph (2)(c) for the words from "the other such" to "both"; and
+
+(b)in sub-paragraph (3)(b) for the words from "the" (in the first place it appears) to "both",
+
+of the words "any one or more".
+
+4The Secretary of State may, on the application of a person to whom paragraph 1 applies, direct that paragraphs 1 and 2 are to apply to his existing supply licence (or such of his existing supply licences as may be nominated under paragraph 1(4)) as if - 
+
+(a)in paragraph 1(2) for "a distribution licence" there were substituted "two distribution licences";
+
+(b)in paragraph 1(3) for "one" there were substituted "two" and for "two" there were substituted "three";
+
+(c)in paragraph 2(1)(a) for "a nomination" and "associate" there were substituted respectively "two nominations" and "associates"; and
+
+(d)in paragraph 2(1)(b) for "two" there were substituted "three".
+
+#### _Secretary of State's powers in relation to transfer schemes_
+
+5(1)A transfer scheme shall not take effect unless it is approved by the Secretary of State.
+
+(2)The Secretary of State may if he thinks fit, before approving a transfer scheme, make such modifications of the scheme as he considers appropriate for the purpose of securing that the scheme makes only such provision as he considers to be requisite or expedient for the purposes of this Part of this Schedule.
+
+(3)The powers of the Secretary of State under this paragraph may in particular be exercised with a view to ensuring that a proposed transfer scheme does not operate against the public interest.
+
+(4)It shall be the duty of the supplier to provide the Secretary of State with all such information and other assistance as he may require for the purposes of or in connection with the exercise of any function conferred on him by sub-paragraph (1) and (2).
+
+#### _Effect of transfer scheme_
+
+6(1)Subject to the provisions of paragraph 7, on the effective date for a transfer scheme, all property, rights and liabilities - 
+
+(a)to which immediately before that day the supplier was entitled or subject; and
+
+(b)which are allocated to a nominated associate by the transfer scheme,
+
+shall become by virtue of this paragraph property, rights and liabilities of that associate.
+
+(2)For the purposes of this Part of this Schedule, the "effective date", in relation to a transfer scheme, is the day on which section 6(2) of the 1989 Act (as substituted by section 30 above) comes into force or such earlier day as the Secretary of State may direct for the purposes of the scheme.
+
+#### _Supplementary provisions as to transfers_
+
+7(1)The provisions of Schedule 10 to the 1989 Act (supplementary provisions as to transfers) shall apply to any transfer which is effected by paragraph 6 - 
+
+(a)with the modifications made by sub-paragraph (2); and
+
+(b)to the extent mentioned in those provisions as so modified;
+
+and paragraph 6 shall have effect subject to those provisions as so modified.
+
+(2)For the purpose of its application to a transfer effected by paragraph 6, Schedule 10 to the 1989 Act shall apply as if - 
+
+(a)paragraphs 2(4) and (5), 3 and 6(2) and in paragraphs 4(4)(b) and 8(1) and (2) the words "or of a direction under paragraph 2(4) above" were omitted;
+
+(b)any reference to transfers effected in pursuance of a transfer scheme were references to transfers effected by paragraph 6;
+
+(c)any reference to the transferor were a reference to the supplier;
+
+(d)any reference to a transfer of all property, rights and liabilities comprised in a specified part of the transferor's undertaking were a reference to a transfer of all (or all but as much as may be excepted) of the property, rights and liabilities comprised in a specified part of the supplier's undertaking;
+
+(e)any reference to a transferee of a specified part or any other part of the transferor's undertaking were a reference to a transferee of a specified part or any other part of the supplier's undertaking; and
+
+(f)any reference to the transfer date were a reference to the effective date for the transfer scheme.
+
+(3)For the purposes of sub-paragraphs (1) and (2)(b), (d) and (e), any property, rights or liabilities retained by the supplier in pursuance of the transfer scheme shall be deemed to be transferred to the supplier by paragraph 6 in pursuance of the scheme.
+
+#### _Shares issued in pursuance of a transfer scheme_
+
+8Any shares issued to the supplier or to an associate of his by a transferee in pursuance of the transfer scheme - 
+
+(a)shall be of such nominal value as may be specified in or determined under the scheme;
+
+(b)shall be issued or allotted on such terms as may be so specified or determined; and
+
+(c)shall be issued as fully paid and treated for the purposes of the \[1985 c. 6.] Companies Act 1985 as if they had been paid up by virtue of the payment to the transferee in cash of their nominal value and, if the scheme so provides, such premium as may be so specified or determined.
+
+#### _Statutory accounts_
+
+9(1)This paragraph has effect for the purposes of any statutory accounts of a transferee, that is to say, any accounts prepared by the transferee for the purpose of any provision of the \[1985 c. 6.] Companies Act 1985 (including group accounts).
+
+(2)Subject to sub-paragraph (3), the value or amount to be assigned to any asset or liability which is vested in the transferee by virtue of paragraph 6 shall be - 
+
+(a)the value or amount (if any) assigned to the asset or liability for the purposes of the corresponding statement of accounts prepared by the supplier in respect of the last complete accounting year of the supplier to end before the effective date; or
+
+(b)if the asset or liability is part only of an asset or liability to which a value or amount is so assigned, so much of that value or amount as may be determined by or under the transfer scheme; or
+
+(c)if no value or amount is given by paragraph (a) or (b) or the value or amount so given is inappropriate in all the circumstances of the case, such value or amount as may be determined, on the basis of the supplier's accounting records, by or under the transfer scheme.
+
+(3)The amount to be included in respect of any item shall be determined as if so much of anything done by the supplier (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) as may be determined by or under the transfer scheme had been done by the transferee.
+
+(4)Without prejudice to the generality of the preceding provisions of this paragraph, the amount to be included from time to time in any reserves of the transferee as representing the transferee's accumulated realised profits shall be determined as if such proportion of any profits realised and retained by the supplier as is determined by or under the transfer scheme had been realised and retained by the transferee.
+
+(5)In this paragraph, in relation to the supplier - 
+
+* "accounting records" means accounting records kept by the supplier in pursuance of section 221 of the \[1985 c. 6.] Companies Act 1985;
+* "complete accounting year" means a financial year of the supplier determined in accordance with section 223 of that Act.
+
+#### _Consequential modifications of rating provisions_
+
+10(1)This paragraph applies where any transfer effected by paragraph 6 is a transfer of a hereditament which, immediately before the effective date is a hereditament which falls within - 
+
+(a)the description set out in Part 2 of the Schedule to the \[S.I. 2000/525.] Central Rating List (England) Regulations 2000; or
+
+(b)the description set out in Part 2 of the Schedule to the \[S.I. 1999/3453 (W. 50).] Central Rating List (Wales) Regulations 1999.
+
+(2)The Secretary of State may by order make such modifications of that Part of that Schedule, and of the \[S.I. 2000/947.] Electricity Supply Industry (Rateable Values)(England) Order 2000 or the \[S.I. 2000/1163 (W. 91).] Electricity \[S.I. 2000/1163 (W. 91).] Supply Industry (Rateable Values)(Wales) Order 2000, as may appear to him necessary or expedient as a consequence of the transfer.
+
+(3)An order under this paragraph which is made after the effective date may have effect as from that day or any later day.
+
+(4)Where, by virtue of sub-paragraph (3), an order under this paragraph has effect from a day earlier than that on which it is made, any necessary alteration shall be made with effect from that earlier day to any central rating list in which the hereditament is shown.
+
+(5)An order under this paragraph shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+
+#### _Interpretation_
+
+11In this Part of this Schedule - 
+
+* "effective date" has the meaning given by paragraph 6(2);
+* "existing" in relation to an electricity licence, means in force immediately before the passing of this Act;
+* "the supplier" means the person who makes a transfer scheme;
+* "transferee" means the transferee under a transfer effected by paragraph 6;
+* "transfer scheme" means a scheme under paragraph 2.
+
+12(1)For the purposes of this Part of this Schedule a company is an associate of the supplier if - 
+
+(a)the company is a wholly owned subsidiary of the supplier;
+
+(b)the supplier is a wholly owned subsidiary of the company; or
+
+(c)the company and the supplier are both wholly owned subsidiaries of another company;
+
+and the company is registered under the \[1985 c. 6.] Companies Act 1985 as a company limited by shares.
+
+(2)The references in sub-paragraph (2) to a wholly owned subsidiary shall be construed in accordance with section 736 of the Companies Act 1985.
+
+### Part IISecretary of State's licensing schemes
+
+#### _Existing electricity supply licences_
+
+13(1)This paragraph applies to any holder of an existing supply licence under section 6(1)(c) or (2) of the 1989 Act ("the supplier") who has made a transfer scheme under paragraph 2.
+
+(2)As soon as practicable after the date specified in the Secretary of State's direction under paragraph 2(1) and in any event before the day on which section 6(2) of the 1989 Act (as substituted by section 30) comes into force, the Secretary of State shall make a scheme providing - 
+
+(a)for the supplier's existing supply licence to have effect as mentioned in paragraph 1(2); and
+
+(b)if the supplier has nominated an associate or associates for either or both of the purposes of paragraph 1(6), for either or both of his existing generation and transmission licences to have effect as mentioned in paragraph 1(5).
+
+(3)In making a scheme under this paragraph, the Secretary of State shall have regard to the provisions of the supplier's transfer scheme.
+
+(4)A scheme under this paragraph shall have no effect in relation to an existing supply licence if the supplier's transfer scheme does not take effect.
+
+(5)In this paragraph "existing", in relation to a licence, means in force immediately before the passing of this Act.
+
+14(1)The Secretary of State shall as soon as practicable after the passing of this Act make a scheme under this paragraph in relation to existing licences under section 6(1)(c) of the 1989 Act which - 
+
+(a)are held by a person whose activities include both of those mentioned in paragraph 1(1); and
+
+(b)are not the subject of a scheme under paragraph 13.
+
+(2)A scheme under this paragraph shall provide for each licence to which it relates to have effect on and after such date as the scheme may specify as if it were - 
+
+(a)a distribution licence and a supply licence, each granted to the holder of the existing licence;
+
+(b)a distribution licence; or
+
+(c)a supply licence.
+
+(3)In this paragraph "existing", in relation to a licence, means in force immediately before the date mentioned in sub-paragraph (1).
+
+15(1)The Secretary of State shall as soon as practicable after the passing of this Act make a scheme, in relation to existing licences under section 6(1)(c) of the 1989 Act other than licences which - 
+
+(a)are the subject of a scheme under paragraph 13; or
+
+(b)fall within paragraph 14(1),
+
+providing for each such licence to have effect on and after such date as the scheme may specify as if it were a supply licence.
+
+(2)In this paragraph "existing", in relation to a licence, means in force immediately before the date mentioned in sub-paragraph (1).
+
+16(1)The Secretary of State shall as soon as practicable after the passing of this Act make a scheme, in relation to existing licences under section 6(2) of the 1989 Act, providing for each such licence to have effect on and after such date as the scheme may specify as if it were - 
+
+(a)a supply licence; or
+
+(b)an exemption from section 4(1)(c) of the 1989 Act granted under section 5 of that Act (exemptions from prohibition).
+
+(2)In this paragraph "existing", in relation to a licence, means in force immediately before the date mentioned in sub-paragraph (1).
+
+17(1)Subject to sub-paragraph (2), a scheme under paragraph 13, 14, 15 or 16 shall secure that each condition which by virtue of section 33(1) is a standard condition for the purposes of licences of the appropriate type is incorporated in any licence to be treated by virtue of the scheme as a supply licence or a distribution licence and, where the scheme makes the provision mentioned in paragraph 13(2)(b), in any licence to be treated as a generation licence or as a transmission licence.
+
+(2)Such a scheme may provide that each licence, and in the case of a scheme under paragraph 16 each exemption, which is to be treated as granted by virtue of the scheme (including both the terms and conditions of the licence or exemption which are derived from the existing licence and, in the case of a licence, the standard conditions which would otherwise be incorporated by virtue of sub-paragraph (1)) shall have effect with - 
+
+(a)such incidental, consequential and supplementary amendments as appear to the Secretary of State to be necessary or expedient;
+
+(b)such amendments relating to the revocation of the licence or exemption as the Secretary of State thinks fit; and
+
+(c)such other amendments (if any) as may be agreed between the Secretary of State and the holder of the existing licence from which the licence or exemption is derived.
+
+(3)Such a scheme may - 
+
+(a)make such transitional provision as appears to the Secretary of State to be necessary or expedient; and
+
+(b)make different provision for different cases or classes of cases determined by, or in accordance with, the provisions of the scheme.
+
+(4)As soon as practicable after making such a scheme the Secretary of State shall publish, as respects each different case or class of case - 
+
+(a)the text of each licence which is to be treated as a licence granted by virtue of the scheme; and
+
+(b)in the case of a scheme under paragraph 16, the text of any exemption which is to be treated as granted by virtue of the scheme.
+
+(5)Any text so published shall be treated as authoritative unless the contrary is shown.
+
+#### _Existing generation and transmission licences_
+
+18(1)The Secretary of State may, before the day on which section 30 comes into force, make one or more schemes for securing (subject to sub-paragraph (2)) that, on and after that day, the standard conditions which by virtue of section 33(1) are standard conditions for the purposes of licences of the appropriate type are incorporated in each generation licence and each transmission licence which is in force immediately before that day.
+
+(2)A scheme under this paragraph may provide that the terms and conditions of any existing licence to which it relates (including the standard conditions which would otherwise be incorporated by virtue of sub-paragraph (1)) shall have effect with - 
+
+(a)such incidental, consequential and supplementary amendments as appear to the Secretary of State to be necessary or expedient;
+
+(b)such amendments relating to the revocation of the licence as the Secretary of State thinks fit; and
+
+(c)such other amendments (if any) as may be agreed between the Secretary of State and the holder of the licence.
+
+(3)A scheme under this paragraph may - 
+
+(a)make such transitional provision as appears to the Secretary of State to be necessary or expedient; and
+
+(b)make different provision for different cases or classes of cases determined by, or in accordance with, the provisions of the scheme.
+
+(4)As soon as practicable after making such a scheme the Secretary of State shall publish, as respects each different case or class of case, the text on the commencement of section 30 of each licence to which the scheme relates as it has effect by virtue of the scheme.
+
+(5)Any text so published shall be treated as authoritative unless the contrary is shown.
+
+#### _Existing gas licences_
+
+19(1)The Secretary of State may, before the day on which section 81(2) comes into force, make one or more schemes for securing (subject to sub-paragraph (2)) that on and after that day the standard conditions which by virtue of section 81(2) are standard conditions for the purposes of gas licences of any type are incorporated in each gas licence of that type which is in force immediately before that day.
+
+(2)A scheme under this paragraph may provide that the terms and conditions of any existing licence to which it relates (including both the terms and conditions of that licence and the standard conditions which would otherwise be incorporated by virtue of sub-paragraph (1)) shall have effect with - 
+
+(a)such incidental, consequential and supplementary amendments as appear to the Secretary of State to be necessary or expedient;
+
+(b)such amendments relating to the revocation of the licence as the Secretary of State thinks fit; and
+
+(c)such other amendments (if any) as may be agreed between the Secretary of State and the holder of the licence.
+
+(3)Such a scheme may - 
+
+(a)make such transitional provision as appears to the Secretary of State to be necessary or expedient; and
+
+(b)make different provisions for different cases or classes of cases determined by, or in accordance with, the provisions of the scheme.
+
+(4)As soon as practicable after making a scheme under this paragraph, the Secretary of State shall publish, as respects each different case or class of case, the text on the commencement of section 81(2) of each gas licence to which the scheme relates.
+
+(5)Any text so published shall be treated as authoritative unless the contrary is shown.
+
+#### _Effect of licensing schemes_
+
+20(1)On the day on which a scheme under this Part of this Schedule comes into operation, the licences to which it relates shall have effect as provided for by the scheme.
+
+(2)The modification under paragraph 17(2), 18(2) or 19(2) of part of what would otherwise be a standard condition of - 
+
+(a)a licence to be treated as granted by virtue of a scheme under paragraph 13, 14 or 15; or
+
+(b)a licence to which a scheme under paragraph 16, 18 or 19 relates,
+
+shall not prevent any other part of the condition which is not so modified being regarded as a standard condition for the purposes of Part I of the 1989 Act or Part I of the 1986 Act, as the case may be.
+
+#### _Provision of information by licence holders_
+
+21(1)It shall be the duty of each holder of a licence under the 1986 Act to provide the Secretary of State with all such information and other assistance as he may require for the purposes of or in connection with the exercise of any function conferred on him by paragraph 19 in relation to such licences.
+
+(2)It shall be the duty of each holder of a licence under the 1989 Act to provide the Secretary of State with all such information and other assistance as he may require for the purposes of or in connection with the exercise of any function conferred on him by this Part of this Schedule in relation to such licences.
+
+#### _Consultation by Secretary of State_
+
+22The Secretary of State shall not exercise any function conferred on him by this Part of this Schedule except after consultation with - 
+
+(a)the Authority; and
+
+(b)such holders of licences under the 1986 Act or such holders of licences under the 1989 Act as he considers appropriate.
+
+### Part IIIFormer tariff customers
+
+23(1)This paragraph applies where immediately before the commencement date a public electricity supplier ("the supplier") is supplying tariff customers with electricity.
+
+(2)The supplier's supply successor shall be deemed to have contracted with those customers for the supply of electricity as from that day.
+
+(3)The express terms and conditions of a contract which, by virtue of sub-paragraph (2), is deemed to have been made by the supplier shall be provided for by the scheme under this paragraph which relates to that supplier.
+
+(4)Before such date as the Secretary of State may direct, the supplier shall make a scheme for determining the terms and conditions which are to be incorporated in the contracts which, by virtue of sub-paragraph (2), are to be deemed to have been made by the supplier.
+
+(5)A scheme under this paragraph may (subject to section 7B of the 1989 Act) - 
+
+(a)make different provisions for different cases or classes of cases, or for different areas, determined by, or in accordance with, the provisions of the scheme; and
+
+(b)make such supplemental, incidental, consequential and transitional provisions as the supplier considers appropriate.
+
+(6)A scheme under this paragraph shall not take effect unless it is approved by the Authority; and the Authority may modify such a scheme before approving it.
+
+(7)If, in relation to such a scheme - 
+
+(a)the supplier fails, before the date specified under sub-paragraph (4), to submit the scheme for the approval of the Authority; or
+
+(b)the Authority decides not to approve the scheme that has been submitted by the supplier (either with or without modifications),
+
+the Authority may itself make the scheme.
+
+(8)It shall be the duty of the supplier to provide the Authority with all such information and other assistance as it may require for the purposes of or in connection with the exercise of any function conferred by sub-paragraph (6) or (7).
+
+(9)The Authority shall not exercise any function conferred by sub-paragraph (6) or (7) except after consultation with the supplier.
+
+(10)A scheme made under this paragraph shall be published in the London and Edinburgh Gazettes before the commencement date and shall come into operation on that date; and conclusive evidence of a scheme so made may be given in all courts of justice and in all legal proceedings whatever by the production of a copy of either of those Gazettes purporting to contain it.
+
+(11)In this paragraph - 
+
+* "commencement date" means the date on which section 45 comes into force; and
+* "supply successor", in relation to a public electricity supplier, means the person who becomes an electricity supplier by virtue of a scheme made by or in relation to that public electricity supplier under Part II of this Schedule.
+
+### Part IVOther transitional provisions and savings
+
+#### _Compensation for members of abolished consumer bodies_
+
+24The Secretary of State may pay to any person who immediately before the abolition by this Act of - 
+
+(a)a consumers' committee established under section 2 of the 1989 Act; or
+
+(b)the Gas Consumers' Council,
+
+is the chairman or member of that body such sums by way of compensation for loss of office, or loss or diminution of pension rights, as the Secretary of State may with the approval of the Treasury determine.
+
+#### _Consultation by Council before establishing regional committees_
+
+25The requirements in paragraph 11(2) to (4) of Schedule 2 to this Act do not apply to any regional committee of the Gas and Electricity Consumer Council which is established within the period of two months beginning with the day on which section 18(2) of this Act comes into force.
+
+#### _First financial years of Authority and Council_
+
+26(1)In this paragraph "the body" means the Authority or the Council.
+
+(2)If the period beginning with the day on which the body is established and ending with the next 31st March is six months or more, the first financial year of the body is that period.
+
+(3)If the period mentioned in sub-paragraph (2) is less than six months, the first financial year of the body is the period beginning with the day on which the body is established and ending with 31st March in the following year.
+
+#### _First forward work programmes of Authority and Council_
+
+27The Authority's first forward work programme required by section 4(1) shall relate to the financial year following its first financial year.
+
+28(1)The Council's first forward work programme required by section 4(1) shall be published within the period of three months beginning with the day on which the Council is established.
+
+(2)That forward work programme shall relate to the Council's plans for the period beginning with the day on which it is published and ending with the last day of the Council's first financial year (and section 4 shall apply accordingly).
+
+#### _Last annual reports of the Directors_
+
+29(1)After the abolition of the offices of Director General of Gas Supply and Director General of Electricity Supply, any duty of either Director to make an annual report, in relation to any calendar year for which such a report has not been made, shall be carried out by the Authority.
+
+(2)The period between the abolition of those offices and the end of the preceding calendar year (if less than 12 months) shall be treated as the calendar year for which the last annual reports are required.
+
+(3)If that period is nine months or more, the Authority shall make the last annual reports as soon as practicable after the end of that period.
+
+(4)If that period is less than nine months, the last annual reports shall be made no later than the first report of the Authority under section 5(1).
+
+(5)In this paragraph "annual reports" means reports required by section 39(1) of the 1986 Act and section 50(1) of the 1989 Act.
+
+#### _Last annual report of the Gas Consumers' Council_
+
+30(1)After the abolition of the Gas Consumers' Council, any duty of the Gas Consumers' Council to make an annual report, in relation to any calendar year for which such a report has not been made, shall be carried out by the Council.
+
+(2)The period between the abolition of the Gas Consumers' Council and the end of the preceding calendar year (if less than 12 months) shall be treated as the calendar year for which the last annual report is required.
+
+(3)If that period is nine months or more, the Council shall make the last annual report as soon as practicable after the end of that period.
+
+(4)If that period is less than nine months the last annual report shall be made no later than the first report of the Council under paragraph 6 of Schedule 2.
+
+(5)In this paragraph "annual report" means a report required by section 41 of the 1986 Act.
+
+#### _Investigations being carried out under the 1986 Act_
+
+31(1)This paragraph applies to any matter - 
+
+(a)being investigated by the Director General of Gas Supply under section 31 of the 1986 Act (duty to investigate certain matters) immediately before the repeal by this Act of that section;
+
+(b)being investigated by the Gas Consumers' Council under section 32 of the 1986 Act immediately before the commencement of section 22(1) above;
+
+(c)being investigated by that Council under section 32A of the 1986 Act immediately before the repeal by this Act of that section;
+
+(d)being investigated by that Council under section 33 of the 1986 Act (power to investigate certain matters) immediately before the commencement of section 23(1) above.
+
+(2)If the matter being investigated is a matter which appears to the Council to be a matter which is or amounts to a complaint to which section 32 of the 1986 Act (as substituted by section 22(1) above) applies, the Council shall treat the matter as if it were a complaint referred to it under that section.
+
+(3)In any other case the Authority shall either - 
+
+(a)agree with the Council that the Council is to investigate the matter under section 33 of the 1986 Act (as substituted by section 23(1) above); or
+
+(b)make such further investigations of the matter, and take such action, as it considers appropriate.
+
+(4)Where the Council or the Authority is required by virtue of sub-paragraph (2) or (3) to investigate a matter, it may treat anything done by the Director General of Gas Supply or the Gas Consumers' Council in investigating that matter as if done for the purposes of its own investigation.
+
+(5)The Director General of Gas Supply and the Gas Consumers' Council shall give the Authority and the Council such information or assistance as may be necessary to enable them to carry out their functions under this paragraph.
+
+#### _Investigations being carried out under the 1989 Act_
+
+32(1)This paragraph applies to any matter - 
+
+(a)being investigated by the Director General of Electricity Supply or a consumers' committee under section 45 of the 1989 Act (investigation of enforcement matters) immediately before the repeal by this Act of that section;
+
+(b)being investigated by a consumers' committee under section 46 of the 1989 Act (duty of consumers' committees to investigate certain matters) immediately before the commencement of section 22(2) above.
+
+(2)If the matter being investigated is a matter which appears to the Council to be a matter which is or amounts to a complaint to which section 46 of the 1989 Act (as substituted by section 22(2) above) applies, the Council shall treat the matter as if it were a complaint referred to it under that section.
+
+(3)In any other case the Authority shall either - 
+
+(a)agree with the Council that the Council is to investigate the matter under section 46A of the 1989 Act (as inserted by section 23(2) above); or
+
+(b)make such further investigations of the matter, and take such action, as it considers appropriate.
+
+(4)Where the Council or the Authority is required by virtue of sub-paragraph (2) or (3) to investigate a matter, it may treat anything done by the Director General of Electricity Supply or a consumers' committee in investigating that matter as if done for the purposes of its own investigation.
+
+(5)The Director General of Electricity Supply and the consumers' committees shall give the Authority and the Council such information or assistance as may be necessary to enable them to carry out their functions under this paragraph.
+
+Section 108.
+
+## SCHEDULE 8Repeals
+
+| _Chapter_                                                     | _Short title_                                        | _Extent of repeal_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [1967 c. 13](http://www.legislation.gov.uk/id/ukpga/1967/13). | Parliamentary Commissioner Act 1967.                 | In Schedule 2, the entries for the East Midlands Region Electricity Consumers' Committee, the Eastern Region Electricity Consumers' Committee, the Office of the Director General of Electricity Supply, the Gas Consumers' Council, the Office of the Director General of Gas Supply, the London Region Electricity Consumers' Committee, the Merseyside and North Wales Region Electricity Consumers' Committee, the Midlands Region Electricity Consumers' Committee, the North Eastern Region Electricity Consumers' Committee, the North Western Region Electricity Consumers' Committee, the North of Scotland Region Electricity Consumers' Committee, the South Eastern Region Electricity Consumers' Committee, the South of Scotland Region Electricity Consumers' Committee, the South Wales Region Electricity Consumers' Committee, the South Western Region Electricity Consumers' Committee and the Southern Region Electricity Consumers' Committee. |
+| [1970 c. 44](http://www.legislation.gov.uk/id/ukpga/1970/44). | Chronically Sick and Disabled Persons Act 1970.      | In section 14(1), the words "the Gas Consumers' Council" and "the consumers' committees appointed under section 2 of the Electricity Act 1989".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [1975 c. 24](http://www.legislation.gov.uk/id/ukpga/1975/24). | House of Commons Disqualification Act 1975.          | In Part II of Schedule 1, the entry for the Gas Consumers' Council.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                               |                                                      | In Part III of Schedule 1, the entries for the Chairman of a consumers' committee appointed under section 2 of the Electricity Act 1989, the Chairman of the Gas Consumers' Council, the Director General of Gas Supply and the Director General of Electricity Supply.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [1975 c. 25](http://www.legislation.gov.uk/id/ukpga/1975/25). | Northern Ireland Assembly Disqualification Act 1975. | In Part II of Schedule 1, the entry for the Gas Consumers' Council.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                               |                                                      | In Part III of Schedule 1, the entries for the Chairman of a consumers' committee appointed under section 2 of the Electricity Act 1989, the Director General of Gas Supply and the Director General of Electricity Supply.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [1986 c. 44](http://www.legislation.gov.uk/id/ukpga/1986/44). | Gas Act 1986.                                        | Sections 1 to 3.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                               |                                                      | In section 5, in subsection (1), the words "and Schedule 2A to this Act" and subsection (2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | In section 6A(1), the words "after consultation with the Director".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|                                                               |                                                      | In section 7, in subsections (5) and (6) the words "or extension" (in each place where they appear), in subsection (5), the words "or, in the case of an extension, such shorter time as may be prescribed" and subsections (7), (8) and (11).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                               |                                                      | Section 7A(12).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                               |                                                      | In section 7B, subsection (4)(b), subsection (4)(d) and the word "and" preceding it, in subsection (6) the words "specified or described in the licence" and in subsection (9), the word "and" preceding paragraph (b).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                               |                                                      | In section 8(1), the words "and sections 23(2), 26(1A) and 27(2) below".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                                               |                                                      | In section 8A(1), the words ", paragraph 4 of Schedule 2A to this Act".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                               |                                                      | Section 15A(10).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                               |                                                      | In section 22A(1), in paragraph (b) the words "in that area" (in both places where they appear) and the word "and" preceding paragraph (c).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | In section 24(2) the words "or all".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                               |                                                      | In section 28, subsection (5)(aa) and (b), subsection (7A), the word "33BB" in subsection (8) and subsection (9).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                               |                                                      | Section 30(2)(b) (and the word "or" preceding it).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                               |                                                      | Section 31.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | Section 32A.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | Section 33A(6) to (9).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                               |                                                      | Section 33B(2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                               |                                                      | In section 33C, in subsection (1), paragraph (c) (and the word "and" preceding it), in subsection (2)(b) the words "or 33BB above" and subsections (3), (4) and (5).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                               |                                                      | Section 33E.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | In section 36, insubsection (1) thewords "notifications and directions under paragraph 5 of Schedule 2A to this Act," and, in subsection (2), paragraph (a), in paragraph (c) the words "made otherwise than by order" and the word "and" preceding paragraph (e).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                               |                                                      | Sections 39 to 41.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                               |                                                      | Section 42.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | In section 47(7), the words from "and the" to the end.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                               |                                                      | In section 48(1), the definition of "the Council" and the definition of "domestic customer".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | In section 48, subsections (3) and (4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+|                                                               |                                                      | In section 66, the definition of "the Director".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|                                                               |                                                      | Schedules 1, 2 and 2A.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                               |                                                      | In Schedule 2B, paragraph 7(2), in paragraph 8(2)(b) and in the definition of "gas supplier" in paragraph 9(5), the words "or an exception contained in Schedule 2A to this Act", paragraph 8(4), (5) and (6) and in paragraph 8(8) the words from "but this" to the end.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                               |                                                      | In Schedule 3, paragraph 20.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | In Schedule 7, paragraph 15(2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [1986 c. 45](http://www.legislation.gov.uk/id/ukpga/1986/45). | Insolvency Act 1986.                                 | Section 233(5)(b).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                               |                                                      | Section 372(5)(b).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [1987 c. 43](http://www.legislation.gov.uk/id/ukpga/1987/43). | Consumer Protection Act 1987.                        | In sections 10(7)(c) and 11(7)(c), the words "or paragraph 5 of Schedule 2A to that Act (supply to very large customers an exception to prohibition on unlicensed activities)".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [1989 c. 29](http://www.legislation.gov.uk/id/ukpga/1989/29). | Electricity Act 1989.                                | Sections 1 and 2.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                               |                                                      | In section 4(1), the words "or exemption".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|                                                               |                                                      | In section 9, in subsection (2) the words "subject to subsection (3) below", and subsections (3) and (4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                               |                                                      | In section 10(1)(a), the words "a public electricity supplier or".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                               |                                                      | In section 12, in subsection (2) the words "or all" and subsections (9) and (9A).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                               |                                                      | Section 18.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | Section 20(2) and (4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+|                                                               |                                                      | In section 25(5), paragraphs (b) and (c).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                               |                                                      | Section 33.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | Section 39(5), (5A) and (6).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | Section 40(1A).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                                               |                                                      | In section 42, in subsection (1), paragraph (c) (and the word "and" preceding it), in subsection (2)(b) the words "or 41 above" and subsections (3), (4) and (5).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                               |                                                      | Section 42B.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | Section 45.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | Section 47(4).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+|                                                               |                                                      | In section 49(2), the word "and" preceding paragraph (d).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|                                                               |                                                      | Sections 50 to 55.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                               |                                                      | Section 57.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | In section 64(1), the definition of "private electricity supplier", the definition of "public electricity supplier" and the definition of "tariff customer".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | In section 111(1), the definition of "the Director".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                               |                                                      | Schedules 1 and 2.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|                                                               |                                                      | In Schedule 3, paragraph 21.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+|                                                               |                                                      | In Schedule 7, in paragraph 1(7) the words from "as if" to the end, in paragraph 5(3) the words "a public electricity supplier or by", in paragraph 6(1) the words "a public electricity supplier or", paragraph 6(5), paragraph 10(3) and in paragraph 13 the definition of "electricity supplier".                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|                                                               |                                                      | In Schedule 16, paragraph 35.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [1992 c. 15](http://www.legislation.gov.uk/id/ukpga/1992/15). | Offshore Safety Act 1992.                            | Section 2(3)(b).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [1992 c. 43](http://www.legislation.gov.uk/id/ukpga/1992/43). | Competition and Service (Utilities) Act 1992.        | Section 14.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | Section 20.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | Section 22.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| [1995 c. 25](http://www.legislation.gov.uk/id/ukpga/1995/25). | Environment Act 1995.                                | In Schedule 22, paragraphs 38 and 39.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [1995 c. 45](http://www.legislation.gov.uk/id/ukpga/1995/45). | Gas Act 1995.                                        | Sections 1 and 2.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                               |                                                      | Section 3(2) and (3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                               |                                                      | Section 8(2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+|                                                               |                                                      | Section 10(2) to (5).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+|                                                               |                                                      | Schedule 1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|                                                               |                                                      | In Schedule 3, paragraphs 31, 32, 33, 36, 41, 42(1)(a) and (2)(a), 48, 49 and 50.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+|                                                               |                                                      | In Schedule 5, paragraphs 13 and 14(2).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| [1998 c. 5](http://www.legislation.gov.uk/id/ukpga/1998/5).   | Fossil Fuel Levy Act 1998.                           | The whole Act.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| [1998 c. 41](http://www.legislation.gov.uk/id/ukpga/1998/41). | Competition Act 1998.                                | In Schedule 10, paragraphs 3(3) and 4(3).                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
